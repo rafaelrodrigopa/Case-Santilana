@@ -44,7 +44,7 @@ graph TD
     ClusteredParquet --> SemanticPubAgent["SemanticPubAgent (Gold Star Schema)"]
     SemanticPubAgent --> GoldCSV["data/gold/*.csv (Nativo Power BI TMDL)"]
     
-    GoldCSV --> PowerBI["Power BI PBIP / TMDL (SantilanaCase.pbip)"]
+    GoldCSV --> PowerBI["Power BI PBIP / TMDL (power_bi/SantilanaCase.pbip)"]
     GoldCSV --> ReactApp["Web Dashboard React + Vite (web_dashboard/)"]
 ```
 
@@ -80,7 +80,7 @@ python run_pipeline.py
 ```
 
 ### 3. Abrir o Dashboard no Power BI Desktop
-Basta dar duplo clique no arquivo [`SantilanaCase.pbip`](file:///d:/Projetos/ProjectBI/5.JumpSantilana/SantilanaCase.pbip).
+Basta dar duplo clique no arquivo [`SantilanaCase.pbip`](file:///d:/Projetos/ProjectBI/5.JumpSantilana/power_bi/SantilanaCase.pbip).
 
 ### 4. Executar o Web Dashboard em React + Vite
 ```bash
@@ -110,8 +110,9 @@ npm run dev
 │   ├── raw/                                 # Parquet bruto do Censo
 │   ├── processed/                           # Parquet enriquecido e clusterizado ML
 │   └── gold/                                # Modelo dimensional Star Schema (CSV/Parquet)
-├── SantilanaCase.pbip                       # Arquivo do Power BI Developer Mode
-├── SantilanaCase.SemanticModel/             # Modelo semântico e tabelas em TMDL
-├── SantilanaCase.Report/                    # Definições visuais e layout das 3 páginas
+├── power_bi/                                # Estrutura e Modelo Semântico do Power BI
+│   ├── SantilanaCase.pbip                   # Arquivo principal PBIP (Power BI Developer Mode)
+│   ├── SantilanaCase.SemanticModel/         # Definições do Modelo Semântico em TMDL
+│   └── SantilanaCase.Report/                # Definições visuais e layout dos relatórios
 └── web_dashboard/                           # Aplicação Web React + Vite com Cross-filtering
 ```
