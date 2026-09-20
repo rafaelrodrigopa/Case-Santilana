@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "SantilanaCase"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "074d3c46-7a26-43dd-9103-9b05b8659b6a"
+  }
+}
