@@ -1,0 +1,35 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.4.0/schema.json",
+  "name": "card_score",
+  "position": {
+    "x": 940,
+    "y": 20,
+    "z": 3000,
+    "width": 280,
+    "height": 100
+  },
+  "visual": {
+    "visualType": "card",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  },
+                  "Property": "Score Medio Aderencia"
+                }
+              },
+              "queryRef": "_Medidas.Score Medio Aderencia"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

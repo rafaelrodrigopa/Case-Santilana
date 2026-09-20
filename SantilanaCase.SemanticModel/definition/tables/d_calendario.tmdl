@@ -1,0 +1,67 @@
+table d_calendario
+	lineageTag: 4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a
+
+	column SK_DATA
+		dataType: int64
+		formatString: 0
+		lineageTag: col-cal-sk
+		summarizeBy: none
+		sourceColumn: SK_DATA
+
+	column DATA
+		dataType: dateTime
+		formatString: Short Date
+		lineageTag: col-cal-data
+		summarizeBy: none
+		sourceColumn: DATA
+
+		variation Variation
+			isDefault
+			relationship: 6360f192-d8de-4976-b10b-c59b2fa2d646
+			defaultHierarchy: LocalDateTable_9b308812-318a-49a3-9ec4-cafeb80f1a03.'Hierarquia de datas'
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column ANO
+		dataType: int64
+		formatString: 0
+		lineageTag: col-cal-ano
+		summarizeBy: sum
+		sourceColumn: ANO
+
+		annotation SummarizationSetBy = Automatic
+
+	column MES
+		dataType: int64
+		formatString: 0
+		lineageTag: col-cal-mes
+		summarizeBy: sum
+		sourceColumn: MES
+
+		annotation SummarizationSetBy = Automatic
+
+	column NOME_MES
+		dataType: string
+		lineageTag: col-cal-nomemes
+		summarizeBy: none
+		sourceColumn: NOME_MES
+
+	column TRIMESTRE
+		dataType: int64
+		formatString: 0
+		lineageTag: col-cal-trimestre
+		summarizeBy: sum
+		sourceColumn: TRIMESTRE
+
+		annotation SummarizationSetBy = Automatic
+
+	partition d_calendario = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents("d:/Projetos/ProjectBI/5.JumpSantilana/data/gold/d_calendario.csv"),[Delimiter=",", Columns=6, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"SK_DATA", Int64.Type}, {"DATA", type date}, {"ANO", Int64.Type}, {"MES", Int64.Type}, {"NOME_MES", type text}, {"TRIMESTRE", Int64.Type}})
+				in
+					#"Changed Type"
+

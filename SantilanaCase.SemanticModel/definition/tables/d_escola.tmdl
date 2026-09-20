@@ -1,0 +1,72 @@
+table d_escola
+	lineageTag: 1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d
+
+	column SK_ESCOLA
+		dataType: int64
+		formatString: 0
+		lineageTag: col-sk-escola
+		summarizeBy: none
+		sourceColumn: SK_ESCOLA
+
+	column NO_ENTIDADE
+		dataType: string
+		lineageTag: col-no-entidade
+		summarizeBy: none
+		sourceColumn: NO_ENTIDADE
+
+	column CO_MUNICIPIO
+		dataType: int64
+		formatString: 0
+		lineageTag: col-co-municipio
+		summarizeBy: none
+		sourceColumn: CO_MUNICIPIO
+
+	column SG_UF
+		dataType: string
+		lineageTag: col-sg-uf
+		summarizeBy: none
+		sourceColumn: SG_UF
+
+	column TP_LOCALIZACAO
+		dataType: int64
+		formatString: 0
+		lineageTag: col-tp-localizacao
+		summarizeBy: none
+		sourceColumn: TP_LOCALIZACAO
+
+	column SEL_RECOMENDADO
+		dataType: string
+		lineageTag: col-sel-recomendado
+		summarizeBy: none
+		sourceColumn: SEL_RECOMENDADO
+
+	column SCORE_ADERENCIA_SELO
+		dataType: double
+		formatString: 0.00
+		lineageTag: col-score-aderencia
+		summarizeBy: average
+		sourceColumn: SCORE_ADERENCIA_SELO
+
+	column ACAO_SUGERIDA =
+			SWITCH(
+				d_escola[SEL_RECOMENDADO],
+				"Kepler", "Apresentar Selo Kepler: Expansão Acessível & Ticket Popular",
+				"Uno", "Apresentar Selo Uno: Inovação & Plataforma Tecnológica",
+				"Farias Brito", "Apresentar Selo Farias Brito: Rigor Acadêmico & ENEM",
+				"Compartilha", "Apresentar Selo Compartilha: Formação Docente & Apoio Gestão",
+				"Abordagem Comercial Padrão"
+			)
+		dataType: string
+		lineageTag: col-acao-sugerida
+		summarizeBy: none
+
+	partition d_escola = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents("d:/Projetos/ProjectBI/5.JumpSantilana/data/gold/d_escola.csv"),[Delimiter=",", Columns=7, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"SK_ESCOLA", Int64.Type}, {"NO_ENTIDADE", type text}, {"CO_MUNICIPIO", Int64.Type}, {"SG_UF", type text}, {"TP_LOCALIZACAO", Int64.Type}, {"SEL_RECOMENDADO", type text}, {"SCORE_ADERENCIA_SELO", type number}})
+				in
+					#"Changed Type"
+

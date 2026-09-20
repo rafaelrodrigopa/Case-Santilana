@@ -1,0 +1,161 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "table_prospects",
+  "position": {
+    "x": 20,
+    "y": 20,
+    "z": 1000,
+    "height": 1020,
+    "width": 1880
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "d_escola"
+                    }
+                  },
+                  "Property": "NO_ENTIDADE"
+                }
+              },
+              "queryRef": "d_escola.NO_ENTIDADE"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "d_escola"
+                    }
+                  },
+                  "Property": "SG_UF"
+                }
+              },
+              "queryRef": "d_escola.SG_UF"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "d_escola"
+                    }
+                  },
+                  "Property": "SEL_RECOMENDADO"
+                }
+              },
+              "queryRef": "d_escola.SEL_RECOMENDADO"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "d_escola"
+                    }
+                  },
+                  "Property": "SCORE_ADERENCIA_SELO"
+                }
+              },
+              "queryRef": "d_escola.SCORE_ADERENCIA_SELO"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "d_escola"
+                    }
+                  },
+                  "Property": "ACAO_SUGERIDA"
+                }
+              },
+              "queryRef": "d_escola.ACAO_SUGERIDA"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "6cfeba432a06ec45eb5a",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "d_escola"
+              }
+            },
+            "Property": "NO_ENTIDADE"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "2a5f4042530b303cdda4",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "d_escola"
+              }
+            },
+            "Property": "SG_UF"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "a0158ce72b06b8048eca",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "d_escola"
+              }
+            },
+            "Property": "SEL_RECOMENDADO"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "31ecff3980e019c9a672",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "d_escola"
+              }
+            },
+            "Property": "SCORE_ADERENCIA_SELO"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "efa0270d20c6bbb83806",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "d_escola"
+              }
+            },
+            "Property": "ACAO_SUGERIDA"
+          }
+        },
+        "type": "Categorical"
+      }
+    ]
+  }
+}

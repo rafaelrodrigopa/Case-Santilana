@@ -1,0 +1,111 @@
+table f_censo_metricas
+	lineageTag: 5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b
+
+	column SK_ESCOLA
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-sk-escola
+		summarizeBy: none
+		sourceColumn: SK_ESCOLA
+
+	column CO_MUNICIPIO
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-co-municipio
+		summarizeBy: none
+		sourceColumn: CO_MUNICIPIO
+
+	column IN_INTERNET
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-internet
+		summarizeBy: sum
+		sourceColumn: IN_INTERNET
+
+	column IN_BANDA_LARGA
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-bandalarga
+		summarizeBy: sum
+		sourceColumn: IN_BANDA_LARGA
+
+	column QT_COMP_ALUNO
+		dataType: double
+		formatString: 0.00
+		lineageTag: col-f-compaluno
+		summarizeBy: average
+		sourceColumn: QT_COMP_ALUNO
+
+	column IN_EQUIP_LOUSA_DIGITAL
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-lousa
+		summarizeBy: sum
+		sourceColumn: IN_EQUIP_LOUSA_DIGITAL
+
+	column IN_LABORATORIO_INFORMATICA
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-labinfo
+		summarizeBy: sum
+		sourceColumn: IN_LABORATORIO_INFORMATICA
+
+	column IN_LABORATORIO_CIENCIAS
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-labcien
+		summarizeBy: sum
+		sourceColumn: IN_LABORATORIO_CIENCIAS
+
+	column IN_BIBLIOTECA_SALA_LEITURA
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-biblio
+		summarizeBy: sum
+		sourceColumn: IN_BIBLIOTECA_SALA_LEITURA
+
+	column IN_MEDIO
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-medio
+		summarizeBy: sum
+		sourceColumn: IN_MEDIO
+
+	column QT_SALAS_UTILIZADAS
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-salas
+		summarizeBy: sum
+		sourceColumn: QT_SALAS_UTILIZADAS
+
+	column QT_MAT_BAS
+		dataType: int64
+		formatString: #,##0
+		lineageTag: col-f-alunos
+		summarizeBy: sum
+		sourceColumn: QT_MAT_BAS
+
+	column PROP_DOCENTES_SUPERIOR
+		dataType: double
+		formatString: 0.0%
+		lineageTag: col-f-docsup
+		summarizeBy: average
+		sourceColumn: PROP_DOCENTES_SUPERIOR
+
+	column SK_DATA
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-skdata
+		summarizeBy: none
+		sourceColumn: SK_DATA
+
+	partition f_censo_metricas = m
+		mode: import
+		source =
+				let
+					Source = Csv.Document(File.Contents("d:/Projetos/ProjectBI/5.JumpSantilana/data/gold/f_censo_metricas.csv"),[Delimiter=",", Columns=14, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"SK_ESCOLA", Int64.Type}, {"CO_MUNICIPIO", Int64.Type}, {"IN_INTERNET", Int64.Type}, {"IN_BANDA_LARGA", Int64.Type}, {"QT_COMP_ALUNO", type number}, {"IN_EQUIP_LOUSA_DIGITAL", Int64.Type}, {"IN_LABORATORIO_INFORMATICA", Int64.Type}, {"IN_LABORATORIO_CIENCIAS", Int64.Type}, {"IN_BIBLIOTECA_SALA_LEITURA", Int64.Type}, {"IN_MEDIO", Int64.Type}, {"QT_SALAS_UTILIZADAS", Int64.Type}, {"QT_MAT_BAS", Int64.Type}, {"PROP_DOCENTES_SUPERIOR", type number}, {"SK_DATA", Int64.Type}})
+				in
+					#"Changed Type"
+

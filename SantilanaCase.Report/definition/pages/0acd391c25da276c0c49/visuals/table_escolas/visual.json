@@ -1,0 +1,87 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.4.0/schema.json",
+  "name": "table_escolas",
+  "position": {
+    "x": 20,
+    "y": 610,
+    "z": 5000,
+    "width": 1860,
+    "height": 430
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "d_escola"
+                    }
+                  },
+                  "Property": "NO_ENTIDADE"
+                }
+              },
+              "queryRef": "d_escola.NO_ENTIDADE"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "d_escola"
+                    }
+                  },
+                  "Property": "SG_UF"
+                }
+              },
+              "queryRef": "d_escola.SG_UF"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "d_escola"
+                    }
+                  },
+                  "Property": "SEL_RECOMENDADO"
+                }
+              },
+              "queryRef": "d_escola.SEL_RECOMENDADO"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "d_escola"
+                    }
+                  },
+                  "Property": "SCORE_ADERENCIA_SELO"
+                }
+              },
+              "queryRef": "d_escola.SCORE_ADERENCIA_SELO"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "d_escola"
+                    }
+                  },
+                  "Property": "ACAO_SUGERIDA"
+                }
+              },
+              "queryRef": "d_escola.ACAO_SUGERIDA"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

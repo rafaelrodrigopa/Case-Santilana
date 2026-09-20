@@ -11,5 +11,17 @@ annotation __PBI_TimeIntelligenceEnabled = 1
 
 annotation PBI_ProTooling = ["DevMode"]
 
+annotation PBI_QueryOrder = ["_Medidas","d_escola","d_municipio","d_cluster_selo","d_calendario","f_censo_metricas","f_qualidade_pipeline"]
+
+ref table _Medidas
+ref table d_escola
+ref table d_municipio
+ref table d_cluster_selo
+ref table d_calendario
+ref table f_censo_metricas
+ref table f_qualidade_pipeline
+ref table DateTableTemplate_d1edcd73-8c4e-4b04-8a36-762462b55307
+ref table LocalDateTable_9b308812-318a-49a3-9ec4-cafeb80f1a03
+
 ref cultureInfo pt-BR
 

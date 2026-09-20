@@ -1,0 +1,85 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.12.0/schema.json",
+  "name": "donut_selos",
+  "position": {
+    "x": 20,
+    "y": 140,
+    "z": 4000,
+    "height": 450,
+    "width": 900
+  },
+  "visual": {
+    "visualType": "pieChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "d_cluster_selo"
+                    }
+                  },
+                  "Property": "SEL_NOME"
+                }
+              },
+              "queryRef": "d_cluster_selo.SEL_NOME",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Medidas"
+                    }
+                  },
+                  "Property": "Total Escolas"
+                }
+              },
+              "queryRef": "_Medidas.Total Escolas"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "c7910400803ac0b7a5b3",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "d_cluster_selo"
+              }
+            },
+            "Property": "SEL_NOME"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "7d4df7e6d94066a48285",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "_Medidas"
+              }
+            },
+            "Property": "Total Escolas"
+          }
+        },
+        "type": "Advanced"
+      }
+    ]
+  }
+}
