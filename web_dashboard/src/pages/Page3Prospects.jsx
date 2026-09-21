@@ -5,7 +5,7 @@ import { SELOS_INFO } from '../data/mockData';
 
 export const Page3Prospects = () => {
   const { filteredData } = useFilter();
-  const [minScore, setMinScore] = useState(75);
+  const [minScore, setMinScore] = useState(70);
   const [selectedSchool, setSelectedSchool] = useState(null);
 
   const prospects = filteredData.filter((item) => item.score >= minScore);
