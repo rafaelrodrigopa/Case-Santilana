@@ -1,14 +1,14 @@
 table d_calendario
 	lineageTag: 4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a
 
-	column SK_DATA
+	column 'ID Data'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-cal-sk
 		summarizeBy: none
 		sourceColumn: SK_DATA
 
-	column DATA
+	column Data
 		dataType: dateTime
 		formatString: Short Date
 		lineageTag: col-cal-data
@@ -22,7 +22,7 @@ table d_calendario
 
 		annotation UnderlyingDateTimeDataType = Date
 
-	column ANO
+	column Ano
 		dataType: int64
 		formatString: 0
 		lineageTag: col-cal-ano
@@ -31,7 +31,7 @@ table d_calendario
 
 		annotation SummarizationSetBy = Automatic
 
-	column MES
+	column Mês
 		dataType: int64
 		formatString: 0
 		lineageTag: col-cal-mes
@@ -40,13 +40,13 @@ table d_calendario
 
 		annotation SummarizationSetBy = Automatic
 
-	column NOME_MES
+	column 'Nome do Mês'
 		dataType: string
 		lineageTag: col-cal-nomemes
 		summarizeBy: none
 		sourceColumn: NOME_MES
 
-	column TRIMESTRE
+	column Trimestre
 		dataType: int64
 		formatString: 0
 		lineageTag: col-cal-trimestre

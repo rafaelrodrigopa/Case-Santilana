@@ -1,111 +1,169 @@
 table f_censo_metricas
 	lineageTag: 5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b
 
-	column SK_ESCOLA
+	column 'ID Escola'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-f-sk-escola
 		summarizeBy: none
 		sourceColumn: SK_ESCOLA
 
-	column CO_MUNICIPIO
+	column 'Código do Município'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-f-co-municipio
 		summarizeBy: none
 		sourceColumn: CO_MUNICIPIO
 
-	column IN_INTERNET
+	column 'Possui Internet'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-f-internet
 		summarizeBy: sum
 		sourceColumn: IN_INTERNET
 
-	column IN_BANDA_LARGA
+	column 'Possui Banda Larga'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-f-bandalarga
 		summarizeBy: sum
 		sourceColumn: IN_BANDA_LARGA
 
-	column QT_COMP_ALUNO
+	column 'Computadores por Aluno'
 		dataType: double
 		formatString: 0.00
 		lineageTag: col-f-compaluno
 		summarizeBy: average
 		sourceColumn: QT_COMP_ALUNO
 
-	column IN_EQUIP_LOUSA_DIGITAL
+	column 'Possui Lousa Digital'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-f-lousa
 		summarizeBy: sum
 		sourceColumn: IN_EQUIP_LOUSA_DIGITAL
 
-	column IN_LABORATORIO_INFORMATICA
+	column 'Possui Laboratório de Informática'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-f-labinfo
 		summarizeBy: sum
 		sourceColumn: IN_LABORATORIO_INFORMATICA
 
-	column IN_LABORATORIO_CIENCIAS
+	column 'Possui Laboratório de Ciências'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-f-labcien
 		summarizeBy: sum
 		sourceColumn: IN_LABORATORIO_CIENCIAS
 
-	column IN_BIBLIOTECA_SALA_LEITURA
+	column 'Possui Biblioteca ou Sala de Leitura'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-f-biblio
 		summarizeBy: sum
 		sourceColumn: IN_BIBLIOTECA_SALA_LEITURA
 
-	column IN_MEDIO
+	column 'Oferece Ensino Médio'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-f-medio
 		summarizeBy: sum
 		sourceColumn: IN_MEDIO
 
-	column QT_SALAS_UTILIZADAS
+	column 'Salas de Aula Utilizadas'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-f-salas
 		summarizeBy: sum
 		sourceColumn: QT_SALAS_UTILIZADAS
 
-	column QT_MAT_BAS
+	column 'Quantidade de Matrículas na Educação Básica'
 		dataType: int64
 		formatString: #,##0
 		lineageTag: col-f-alunos
 		summarizeBy: sum
 		sourceColumn: QT_MAT_BAS
 
-	column PROP_DOCENTES_SUPERIOR
+	column 'Proporção de Docentes com Ensino Superior'
 		dataType: double
 		formatString: 0.0%
 		lineageTag: col-f-docsup
 		summarizeBy: average
 		sourceColumn: PROP_DOCENTES_SUPERIOR
 
-	column SK_DATA
+	column 'ID Data'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-f-skdata
 		summarizeBy: none
 		sourceColumn: SK_DATA
 
+	column 'Oferece Educação Infantil'
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-infantil
+		summarizeBy: sum
+		sourceColumn: IN_INFANTIL
+
+	column 'Oferece Ensino Fundamental'
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-fundamental
+		summarizeBy: sum
+		sourceColumn: IN_FUNDAMENTAL
+
+	column 'Oferece Período Integral'
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-integral
+		summarizeBy: sum
+		sourceColumn: IN_INTEGRAL
+
+	column 'Possui Auditório'
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-auditorio
+		summarizeBy: sum
+		sourceColumn: IN_AUDITORIO
+
+	column 'Possui Quadra de Esportes'
+		dataType: int64
+		formatString: 0
+		lineageTag: col-f-quadra
+		summarizeBy: sum
+		sourceColumn: IN_QUADRA_ESPORTES
+
+	column 'Quantidade de Docentes'
+		dataType: int64
+		formatString: #,##0
+		lineageTag: col-f-docentes
+		summarizeBy: sum
+		sourceColumn: QT_DOC_BAS
+
+	column 'Porte Alunos Texto' = FORMAT(f_censo_metricas[Quantidade de Matrículas na Educação Básica], "#,##0") & " alunos"
+		dataType: string
+		lineageTag: col-f-porte-alunos-txt
+		summarizeBy: none
+
+	column 'Score Tech %' = (f_censo_metricas[Possui Banda Larga] * 0.3 + f_censo_metricas[Possui Lousa Digital] * 0.3 + f_censo_metricas[Computadores por Aluno] * 0.4)
+		dataType: double
+		formatString: 0.0%
+		lineageTag: col-f-score-tech-pct
+		summarizeBy: average
+
+	column 'Oferta EM Texto' = IF(f_censo_metricas[Oferece Ensino Médio] = 1, "Sim", "Não")
+		dataType: string
+		lineageTag: col-f-oferta-em-txt
+		summarizeBy: none
+
 	partition f_censo_metricas = m
 		mode: import
 		source =
 				let
-					Source = Csv.Document(File.Contents("d:/Projetos/ProjectBI/5.JumpSantilana/data/gold/f_censo_metricas.csv"),[Delimiter=",", Columns=14, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+					Source = Csv.Document(File.Contents("d:/Projetos/ProjectBI/5.JumpSantilana/data/gold/f_censo_metricas.csv"),[Delimiter=",", Columns=20, Encoding=65001, QuoteStyle=QuoteStyle.None]),
 					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
-					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"SK_ESCOLA", Int64.Type}, {"CO_MUNICIPIO", Int64.Type}, {"IN_INTERNET", Int64.Type}, {"IN_BANDA_LARGA", Int64.Type}, {"QT_COMP_ALUNO", type number}, {"IN_EQUIP_LOUSA_DIGITAL", Int64.Type}, {"IN_LABORATORIO_INFORMATICA", Int64.Type}, {"IN_LABORATORIO_CIENCIAS", Int64.Type}, {"IN_BIBLIOTECA_SALA_LEITURA", Int64.Type}, {"IN_MEDIO", Int64.Type}, {"QT_SALAS_UTILIZADAS", Int64.Type}, {"QT_MAT_BAS", Int64.Type}, {"PROP_DOCENTES_SUPERIOR", type number}, {"SK_DATA", Int64.Type}})
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"SK_ESCOLA", Int64.Type}, {"CO_MUNICIPIO", Int64.Type}, {"IN_INTERNET", Int64.Type}, {"IN_BANDA_LARGA", Int64.Type}, {"QT_COMP_ALUNO", type number}, {"IN_EQUIP_LOUSA_DIGITAL", Int64.Type}, {"IN_LABORATORIO_INFORMATICA", Int64.Type}, {"IN_LABORATORIO_CIENCIAS", Int64.Type}, {"IN_BIBLIOTECA_SALA_LEITURA", Int64.Type}, {"IN_INFANTIL", Int64.Type}, {"IN_FUNDAMENTAL", Int64.Type}, {"IN_MEDIO", Int64.Type}, {"IN_INTEGRAL", Int64.Type}, {"IN_AUDITORIO", Int64.Type}, {"IN_QUADRA_ESPORTES", Int64.Type}, {"QT_SALAS_UTILIZADAS", Int64.Type}, {"QT_MAT_BAS", Int64.Type}, {"QT_DOC_BAS", Int64.Type}, {"PROP_DOCENTES_SUPERIOR", type number}, {"SK_DATA", Int64.Type}}, "en-US")
 				in
 					#"Changed Type"
 

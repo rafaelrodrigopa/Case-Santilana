@@ -1,2 +1,6128 @@
 cultureInfo pt-BR
 
+	linguisticMetadata =
+			{
+			  "Version": "4.1.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "entity__medida": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "_medida": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.total_escolas": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Total Escolas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total escolas": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "aggregate escola": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "overall escola": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.pct_cobertura_ingestao": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Pct Cobertura Ingestao"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "pct cobertura ingestao": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.silhouette_score_ML": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Silhouette Score ML"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "silhouette score ML": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "ML": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "score ML": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.total_matriculas": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Total Matriculas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total matriculas": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "aggregate matricula": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "overall matricula": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.escolas_por_selo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "% Escolas por Selo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "% escolas por selo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentage escola por selo": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "pct escola por selo": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.599
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.escolas_kepler": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "% Escolas Kepler"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "% escolas kepler": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentage escola kepler": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "pct escola kepler": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.escolas_uno": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "% Escolas Uno"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "% escolas uno": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentage escola uno": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "pct escola uno": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.escolas_farias_brito": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "% Escolas Farias Brito"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "% escolas farias brito": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentage escola farias brito": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "pct escola farias brito": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.599
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.escolas_compartilha": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "% Escolas Compartilha"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "% escolas compartilha": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentage escola compartilha": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "pct escola compartilha": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.score_medio_aderencia": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Score Medio Aderencia"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "score medio aderencia": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.indice_tech": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Indice Tech"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "indice tech": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.indice_academico": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Indice Academico"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "indice academico": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.indice_docente": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Indice Docente"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "indice docente": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.indice_renda_acessibilidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Indice Renda Acessibilidade"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "indice renda acessibilidade": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.total_docentes": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Total Docentes"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total docentes": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "aggregate docente": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "overall docente": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.escolas_com_período_integral": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "% Escolas com Período Integral"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "% escolas com período integral": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentage escola com período integral": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "pct escola com período integral": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.605
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.escolas_educação_infantil": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "% Escolas Educação Infantil"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "% escolas educação infantil": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentage escola educação infantil": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "pct escola educação infantil": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.599
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.escolas_ensino_fundamental": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "% Escolas Ensino Fundamental"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "% escolas ensino fundamental": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentage escola ensino fundamental": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.617
+			          }
+			        },
+			        {
+			          "pct escola ensino fundamental": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.599
+			          }
+			        },
+			        {
+			          "% escola ensino axiom": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.464
+			          }
+			        },
+			        {
+			          "% escola ensino tenet": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.464
+			          }
+			        },
+			        {
+			          "% escola ensino stipulation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.464
+			          }
+			        }
+			      ]
+			    },
+			    "entity__medida.escolas_qualificadas_header": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "_Medidas",
+			          "ConceptualProperty": "Escolas Qualificadas Header"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "escolas qualificadas header": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "escola qualificada shot": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "escola qualificada pass": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "escola qualificada goal": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "escola qualificada slogan": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "escola qualificada legend": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "escola qualificada headpiece": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "escola qualificada description": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "escola qualificada heading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        },
+			        {
+			          "escola qualificada title": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        },
+			        {
+			          "escola qualificada caption": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "d escola": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "d_escola": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola.ID_escola": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola",
+			          "ConceptualProperty": "ID Escola"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ID escola": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "identification escola": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identity escola": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identifier escola": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "credential escola": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola.nome_da_escola": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola",
+			          "ConceptualProperty": "Nome da Escola"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "nome da escola": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola.código_do_município": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola",
+			          "ConceptualProperty": "Código do Município"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "código do município": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola.estado_UF": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola",
+			          "ConceptualProperty": "Estado (UF)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "estado (UF)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "estado": {
+			            "State": "Generated",
+			            "Weight": 0.75
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola.tipo_de_localização": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola",
+			          "ConceptualProperty": "Tipo de Localização"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "tipo de localização": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola.selo_recomendado": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola",
+			          "ConceptualProperty": "Selo Recomendado"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "selo recomendado": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola.score_de_aderência_ao_selo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola",
+			          "ConceptualProperty": "Score de Aderência ao Selo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "score de aderência ao selo": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola.ação_sugerida": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola",
+			          "ConceptualProperty": "Ação Sugerida"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ação sugerida": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola.índice_IDHM": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola",
+			          "ConceptualProperty": "Índice IDHM"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "índice IDHM": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola.região": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola",
+			          "ConceptualProperty": "Região"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "região": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola.uf___cidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola",
+			          "ConceptualProperty": "UF / CIDADE"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "uf / cidade": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "uf": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "uf cidade": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "cidade": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "d_escola.match_aderência_": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_escola",
+			          "ConceptualProperty": "Match Aderência %"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "match aderência %": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "match aderência percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "match aderência pct": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "d_municipio": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_municipio"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "d municipio": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "d_municipio": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "d_municipio.código_do_município": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_municipio",
+			          "ConceptualProperty": "Código do Município"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "código do município": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_municipio.nome_do_município": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_municipio",
+			          "ConceptualProperty": "Nome do Município"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "nome do município": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_municipio.estado_UF": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_municipio",
+			          "ConceptualProperty": "Estado (UF)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "estado (UF)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "estado": {
+			            "State": "Generated",
+			            "Weight": 0.75
+			          }
+			        }
+			      ]
+			    },
+			    "d_municipio.região": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_municipio",
+			          "ConceptualProperty": "Região"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "região": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_municipio.índice_IDHM": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_municipio",
+			          "ConceptualProperty": "Índice IDHM"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "índice IDHM": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_municipio.PIB_per_capita": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_municipio",
+			          "ConceptualProperty": "PIB Per Capita"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "PIB per capita": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_cluster_selo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_cluster_selo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "d cluster selo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "d_cluster_selo": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "d_cluster_selo.nome_do_selo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_cluster_selo",
+			          "ConceptualProperty": "Nome do Selo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "nome do selo": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_cluster_selo.perfil_alvo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_cluster_selo",
+			          "ConceptualProperty": "Perfil Alvo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "perfil alvo": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_cluster_selo.critérios_de_elegibilidade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_cluster_selo",
+			          "ConceptualProperty": "Critérios de Elegibilidade"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "critérios de elegibilidade": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "critério de elegibilidade": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        }
+			      ]
+			    },
+			    "d_cluster_selo.código_da_cor_hex": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_cluster_selo",
+			          "ConceptualProperty": "Código da Cor Hex"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "código da cor hex": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "código da cor curse": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "código da cor spell": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "código da cor jinx": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "código da cor voodoo": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "código da cor enchantment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.489
+			          }
+			        }
+			      ]
+			    },
+			    "d_calendario": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_calendario"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "d calendario": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "d_calendario": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "d_calendario.ID_data": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_calendario",
+			          "ConceptualProperty": "ID Data"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ID data": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "id information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "id fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "id info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "id statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "id document": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "id figure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "id record": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "identification data": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identity data": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identifier data": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        }
+			      ]
+			    },
+			    "d_calendario.data": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_calendario",
+			          "ConceptualProperty": "Data"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        },
+			        {
+			          "information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "document": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "figure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "record": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "d_calendario.data.hierarquia_de_data": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_calendario",
+			          "VariationSource": "Data",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hierarquia de data": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hierarquia de information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de document": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "hierarquia de figure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "hierarquia de record": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "d_calendario.data.ano": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_calendario",
+			          "VariationSource": "Data",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Ano"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ano": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "data ano": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "information ano": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "fact ano": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "info ano": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "statistic ano": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "document ano": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "figure ano": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "record ano": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "d_calendario.data.trimestre": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_calendario",
+			          "VariationSource": "Data",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Trimestre"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "trimestre": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "data trimestre": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "information trimestre": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "fact trimestre": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "info trimestre": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "statistic trimestre": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "document trimestre": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "figure trimestre": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "record trimestre": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "d_calendario.data.mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_calendario",
+			          "VariationSource": "Data",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Mês"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "mê": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "data mê": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "information mê": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "fact mê": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "info mê": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "statistic mê": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "document mê": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "figure mê": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "record mê": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "d_calendario.data.dia": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_calendario",
+			          "VariationSource": "Data",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Dia"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dia": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "data dia": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "information dia": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "fact dia": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "info dia": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "statistic dia": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "document dia": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "figure dia": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "record dia": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "d_calendario.ano": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_calendario",
+			          "ConceptualProperty": "Ano"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ano": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_calendario.mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_calendario",
+			          "ConceptualProperty": "Mês"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "mê": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_calendario.nome_do_mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_calendario",
+			          "ConceptualProperty": "Nome do Mês"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "nome do mê": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "d_calendario.trimestre": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "d_calendario",
+			          "ConceptualProperty": "Trimestre"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "trimestre": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "f censo metrica": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "f_censo_metricas": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.ID_escola": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "ID Escola"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "ID escola": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "identification escola": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identity escola": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identifier escola": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "credential escola": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.código_do_município": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Código do Município"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "código do município": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.possui_internet": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Possui Internet"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "possui internet": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.possui_banda_larga": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Possui Banda Larga"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "possui banda larga": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.computadores_por_aluno": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Computadores por Aluno"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "computadores por aluno": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "computadore por aluno": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.possui_lousa_digital": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Possui Lousa Digital"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "possui lousa digital": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.possui_laboratório_de_informática": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Possui Laboratório de Informática"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "possui laboratório de informática": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.possui_laboratório_de_ciência": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Possui Laboratório de Ciências"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "possui laboratório de ciência": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.possui_biblioteca_ou_sala_de_leitura": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Possui Biblioteca ou Sala de Leitura"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "possui biblioteca ou sala de leitura": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.oferece_ensino_médio": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Oferece Ensino Médio"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "oferece ensino médio": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.salas_de_aula_utilizada": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Salas de Aula Utilizadas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "salas de aula utilizada": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.quantidade_de_matrículas_na_educação_básica": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Quantidade de Matrículas na Educação Básica"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "quantidade de matrículas na educação básica": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "quantidade de matrícula na educação básica": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.proporção_de_docentes_com_ensino_superior": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Proporção de Docentes com Ensino Superior"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "proporção de docentes com ensino superior": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "proporção de docente com ensino superior": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.ID_data": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "ID Data"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "ID data": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "id information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "id fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "id info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "id statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "id document": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "id figure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "id record": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "identification data": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identity data": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identifier data": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.oferece_educação_infantil": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Oferece Educação Infantil"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "oferece educação infantil": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.oferece_ensino_fundamental": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Oferece Ensino Fundamental"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "oferece ensino fundamental": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "oferece ensino axiom": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.458
+			          }
+			        },
+			        {
+			          "oferece ensino tenet": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.458
+			          }
+			        },
+			        {
+			          "oferece ensino stipulation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.458
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.oferece_período_integral": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Oferece Período Integral"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "oferece período integral": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.possui_auditório": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Possui Auditório"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "possui auditório": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.possui_quadra_de_esporte": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Possui Quadra de Esportes"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "possui quadra de esporte": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.quantidade_de_docente": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Quantidade de Docentes"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "quantidade de docente": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.porte_alunos_texto": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Porte Alunos Texto"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "porte alunos texto": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "porte aluno texto": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "Porte Alunos": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.score_tech_": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Score Tech %"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "score tech %": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "score tech percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "score tech pct": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "f_censo_metrica.oferta_EM_texto": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_censo_metricas",
+			          "ConceptualProperty": "Oferta EM Texto"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "oferta EM texto": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Oferta Ensino Médio": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_qualidade_pipeline"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "f qualidade pipeline": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "f_qualidade_pipeline": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "f qualidade conduit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "f qualidade tube": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "f qualidade cylinder": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "f qualidade channel": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "f qualidade duct": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "f qualidade pipe": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline.ID_execução": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_qualidade_pipeline",
+			          "ConceptualProperty": "ID Execução"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ID execução": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "identification execução": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identity execução": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identifier execução": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "credential execução": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline.data_da_execução": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_qualidade_pipeline",
+			          "ConceptualProperty": "Data da Execução"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data da execução": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "information da execução": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "fact da execução": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "info da execução": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "statistic da execução": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "document da execução": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "figure da execução": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "record da execução": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline.total_de_registros_ingerido": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_qualidade_pipeline",
+			          "ConceptualProperty": "Total de Registros Ingeridos"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total de registros ingerido": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "total de registro ingerido": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "aggregate de registro ingerido": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.599
+			          }
+			        },
+			        {
+			          "overall de registro ingerido": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.599
+			          }
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline.taxa_de_cobertura": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_qualidade_pipeline",
+			          "ConceptualProperty": "Taxa de Cobertura"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "taxa de cobertura": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "taxon de cobertura": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline.quantidade_de_nulos_pósETL": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_qualidade_pipeline",
+			          "ConceptualProperty": "Quantidade de Nulos Pós-ETL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "quantidade de nulos pós-ETL": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "quantidade de nulo pó-ETL": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "quantidade de nulos pós ETL": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "quantidade de nulo pó ETL": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.7566
+			          }
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline.score_silhouette_ML": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_qualidade_pipeline",
+			          "ConceptualProperty": "Score Silhouette ML"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "score silhouette ML": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "ML": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "silhouette ML": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline.status_do_pipeline": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "f_qualidade_pipeline",
+			          "ConceptualProperty": "Status do Pipeline"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "status do pipeline": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "pipeline": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "do pipeline": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "category do pipeline": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "importance do pipeline": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "prestige do pipeline": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "prominence do pipeline": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "condition do pipeline": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "class do pipeline": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "grade do pipeline": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "level do pipeline": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "position do pipeline": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "rank do pipeline": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        }
+			      ]
+			    }
+			  },
+			  "Relationships": {
+			    "d_calendario_data_trimestre_has_d_calendario_data_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario.data.trimestre": {
+			          "Target": {
+			            "Entity": "d_calendario.data.trimestre"
+			          }
+			        },
+			        "d_calendario.data.mê": {
+			          "Target": {
+			            "Entity": "d_calendario.data.mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario.data.trimestre"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.data.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_have_mê"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario.data.mê"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.data.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "mê_have_trimestres"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "d_calendario.data.mê"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "d_calendario.data.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "mê_are_in_trimestres"
+			        }
+			      ]
+			    },
+			    "d_calendario_data_ano_has_d_calendario_data_trimestre": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario.data.ano": {
+			          "Target": {
+			            "Entity": "d_calendario.data.ano"
+			          }
+			        },
+			        "d_calendario.data.trimestre": {
+			          "Target": {
+			            "Entity": "d_calendario.data.trimestre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario.data.ano"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.data.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "anos_have_trimestres"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario.data.trimestre"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.data.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_have_anos"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "d_calendario.data.trimestre"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "d_calendario.data.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_are_in_anos"
+			        }
+			      ]
+			    },
+			    "d_calendario_data_hierarquia_de_data_has_d_calendario_data_dia": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario.data.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "d_calendario.data.hierarquia_de_data"
+			          }
+			        },
+			        "d_calendario.data.dia": {
+			          "Target": {
+			            "Entity": "d_calendario.data.dia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario.data.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.data.dia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_dias"
+			        }
+			      ]
+			    },
+			    "d_calendario_data_hierarquia_de_data_has_d_calendario_data_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario.data.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "d_calendario.data.hierarquia_de_data"
+			          }
+			        },
+			        "d_calendario.data.mê": {
+			          "Target": {
+			            "Entity": "d_calendario.data.mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario.data.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.data.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_mê"
+			        }
+			      ]
+			    },
+			    "d_calendario_data_hierarquia_de_data_has_d_calendario_data_trimestre": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario.data.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "d_calendario.data.hierarquia_de_data"
+			          }
+			        },
+			        "d_calendario.data.trimestre": {
+			          "Target": {
+			            "Entity": "d_calendario.data.trimestre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario.data.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.data.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_trimestres"
+			        }
+			      ]
+			    },
+			    "d_calendario_data_hierarquia_de_data_has_d_calendario_data_ano": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario.data.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "d_calendario.data.hierarquia_de_data"
+			          }
+			        },
+			        "d_calendario.data.ano": {
+			          "Target": {
+			            "Entity": "d_calendario.data.ano"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario.data.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.data.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_anos"
+			        }
+			      ]
+			    },
+			    "d_calendario_data_has_hierarquia_de_data": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario.data": {
+			          "Target": {
+			            "Entity": "d_calendario.data"
+			          }
+			        },
+			        "d_calendario.data.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "d_calendario.data.hierarquia_de_data"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario.data"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.data.hierarquia_de_data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "data_have_hierarquia_de_data"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_d_calendario": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "d_calendario": {
+			          "Target": {
+			            "Entity": "d_calendario"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "d_calendario"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_d_calendarios"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_calendarios_have_f_censo_metricas"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_d_municipio": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "d_municipio": {
+			          "Target": {
+			            "Entity": "d_municipio"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "d_municipio"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_d_municipios"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_municipio"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_municipios_have_f_censo_metricas"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_d_escola": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "d_escola"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_d_escolas"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_f_censo_metricas"
+			        }
+			      ]
+			    },
+			    "d_escola_has_d_cluster_selo": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "d_cluster_selo": {
+			          "Target": {
+			            "Entity": "d_cluster_selo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "d_cluster_selo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_d_cluster_selos"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_cluster_selo"
+			            },
+			            "Object": {
+			              "Role": "d_escola"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_cluster_selos_have_d_escolas"
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline_has_status_do_pipeline": {
+			      "Binding": {
+			        "ConceptualEntity": "f_qualidade_pipeline"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_qualidade_pipeline": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline"
+			          }
+			        },
+			        "f_qualidade_pipeline.status_do_pipeline": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline.status_do_pipeline"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_qualidade_pipeline"
+			            },
+			            "Object": {
+			              "Role": "f_qualidade_pipeline.status_do_pipeline"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_qualidade_pipelines_have_status_do_pipelines"
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline_has_score_silhouette_ML": {
+			      "Binding": {
+			        "ConceptualEntity": "f_qualidade_pipeline"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_qualidade_pipeline": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline"
+			          }
+			        },
+			        "f_qualidade_pipeline.score_silhouette_ML": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline.score_silhouette_ML"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_qualidade_pipeline"
+			            },
+			            "Object": {
+			              "Role": "f_qualidade_pipeline.score_silhouette_ML"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_qualidade_pipelines_have_score_silhouette_ML"
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline_has_quantidade_de_nulos_pósETL": {
+			      "Binding": {
+			        "ConceptualEntity": "f_qualidade_pipeline"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_qualidade_pipeline": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline"
+			          }
+			        },
+			        "f_qualidade_pipeline.quantidade_de_nulos_pósETL": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline.quantidade_de_nulos_pósETL"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_qualidade_pipeline"
+			            },
+			            "Object": {
+			              "Role": "f_qualidade_pipeline.quantidade_de_nulos_pósETL"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_qualidade_pipelines_have_quantidade_de_nulos_pósETLs"
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline_has_taxa_de_cobertura": {
+			      "Binding": {
+			        "ConceptualEntity": "f_qualidade_pipeline"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_qualidade_pipeline": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline"
+			          }
+			        },
+			        "f_qualidade_pipeline.taxa_de_cobertura": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline.taxa_de_cobertura"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_qualidade_pipeline"
+			            },
+			            "Object": {
+			              "Role": "f_qualidade_pipeline.taxa_de_cobertura"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_qualidade_pipelines_have_taxa_de_coberturas"
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline_has_total_de_registros_ingerido": {
+			      "Binding": {
+			        "ConceptualEntity": "f_qualidade_pipeline"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_qualidade_pipeline": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline"
+			          }
+			        },
+			        "f_qualidade_pipeline.total_de_registros_ingerido": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline.total_de_registros_ingerido"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_qualidade_pipeline"
+			            },
+			            "Object": {
+			              "Role": "f_qualidade_pipeline.total_de_registros_ingerido"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_qualidade_pipelines_have_total_de_registros_ingeridos"
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline_has_data_da_execução": {
+			      "Binding": {
+			        "ConceptualEntity": "f_qualidade_pipeline"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_qualidade_pipeline": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline"
+			          }
+			        },
+			        "f_qualidade_pipeline.data_da_execução": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline.data_da_execução"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_qualidade_pipeline"
+			            },
+			            "Object": {
+			              "Role": "f_qualidade_pipeline.data_da_execução"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_qualidade_pipelines_have_data_da_execuçãos"
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline_has_ID_execução": {
+			      "Binding": {
+			        "ConceptualEntity": "f_qualidade_pipeline"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_qualidade_pipeline": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline"
+			          }
+			        },
+			        "f_qualidade_pipeline.ID_execução": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline.ID_execução"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_qualidade_pipeline"
+			            },
+			            "Object": {
+			              "Role": "f_qualidade_pipeline.ID_execução"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_qualidade_pipelines_have_ID_execuçãos"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_oferta_EM_texto": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.oferta_EM_texto": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.oferta_EM_texto"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.oferta_EM_texto"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_oferta_EM_textos"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_score_tech_": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.score_tech_": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.score_tech_"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.score_tech_"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_score_tech_"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_porte_alunos_texto": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.porte_alunos_texto": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.porte_alunos_texto"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.porte_alunos_texto"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_porte_alunos_textos"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_quantidade_de_docente": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.quantidade_de_docente": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.quantidade_de_docente"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.quantidade_de_docente"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_quantidade_de_docentes"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_possui_quadra_de_esporte": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.possui_quadra_de_esporte": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.possui_quadra_de_esporte"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.possui_quadra_de_esporte"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_possui_quadra_de_esportes"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_possui_auditório": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.possui_auditório": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.possui_auditório"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.possui_auditório"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_possui_auditórios"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_oferece_período_integral": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.oferece_período_integral": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.oferece_período_integral"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.oferece_período_integral"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_oferece_período_integrals"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_oferece_ensino_fundamental": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.oferece_ensino_fundamental": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.oferece_ensino_fundamental"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.oferece_ensino_fundamental"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_oferece_ensino_fundamentals"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_oferece_educação_infantil": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.oferece_educação_infantil": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.oferece_educação_infantil"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.oferece_educação_infantil"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_oferece_educação_infantils"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_proporção_de_docentes_com_ensino_superior": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.proporção_de_docentes_com_ensino_superior": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.proporção_de_docentes_com_ensino_superior"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.proporção_de_docentes_com_ensino_superior"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_proporção_de_docentes_com_ensino_superiors"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_quantidade_de_matrículas_na_educação_básica": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.quantidade_de_matrículas_na_educação_básica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.quantidade_de_matrículas_na_educação_básica"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.quantidade_de_matrículas_na_educação_básica"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_quantidade_de_matrículas_na_educação_básicas"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_salas_de_aula_utilizada": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.salas_de_aula_utilizada": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.salas_de_aula_utilizada"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.salas_de_aula_utilizada"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_salas_de_aula_utilizadas"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_oferece_ensino_médio": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.oferece_ensino_médio": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.oferece_ensino_médio"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.oferece_ensino_médio"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_oferece_ensino_médios"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_possui_biblioteca_ou_sala_de_leitura": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.possui_biblioteca_ou_sala_de_leitura": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.possui_biblioteca_ou_sala_de_leitura"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.possui_biblioteca_ou_sala_de_leitura"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_possui_biblioteca_ou_sala_de_leituras"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_possui_laboratório_de_ciência": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.possui_laboratório_de_ciência": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.possui_laboratório_de_ciência"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.possui_laboratório_de_ciência"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_possui_laboratório_de_ciências"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_possui_laboratório_de_informática": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.possui_laboratório_de_informática": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.possui_laboratório_de_informática"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.possui_laboratório_de_informática"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_possui_laboratório_de_informáticas"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_possui_lousa_digital": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.possui_lousa_digital": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.possui_lousa_digital"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.possui_lousa_digital"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_possui_lousa_digitals"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_computadores_por_aluno": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.computadores_por_aluno": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.computadores_por_aluno"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.computadores_por_aluno"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_computadores_por_alunos"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_possui_banda_larga": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.possui_banda_larga": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.possui_banda_larga"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.possui_banda_larga"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_possui_banda_largas"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_possui_internet": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "f_censo_metrica.possui_internet": {
+			          "Target": {
+			            "Entity": "f_censo_metrica.possui_internet"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "f_censo_metrica.possui_internet"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_possui_internets"
+			        }
+			      ]
+			    },
+			    "d_calendario_has_trimestre": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario": {
+			          "Target": {
+			            "Entity": "d_calendario"
+			          }
+			        },
+			        "d_calendario.trimestre": {
+			          "Target": {
+			            "Entity": "d_calendario.trimestre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_calendarios_have_trimestres"
+			        }
+			      ]
+			    },
+			    "d_calendario_has_nome_do_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario": {
+			          "Target": {
+			            "Entity": "d_calendario"
+			          }
+			        },
+			        "d_calendario.nome_do_mê": {
+			          "Target": {
+			            "Entity": "d_calendario.nome_do_mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.nome_do_mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_calendarios_have_nome_do_mê"
+			        }
+			      ]
+			    },
+			    "d_calendario_has_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario": {
+			          "Target": {
+			            "Entity": "d_calendario"
+			          }
+			        },
+			        "d_calendario.mê": {
+			          "Target": {
+			            "Entity": "d_calendario.mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_calendarios_have_mê"
+			        }
+			      ]
+			    },
+			    "d_calendario_has_ano": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario": {
+			          "Target": {
+			            "Entity": "d_calendario"
+			          }
+			        },
+			        "d_calendario.ano": {
+			          "Target": {
+			            "Entity": "d_calendario.ano"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_calendarios_have_anos"
+			        }
+			      ]
+			    },
+			    "d_calendario_has_data": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario": {
+			          "Target": {
+			            "Entity": "d_calendario"
+			          }
+			        },
+			        "d_calendario.data": {
+			          "Target": {
+			            "Entity": "d_calendario.data"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_calendarios_have_data"
+			        }
+			      ]
+			    },
+			    "d_calendario_has_ID_data": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario": {
+			          "Target": {
+			            "Entity": "d_calendario"
+			          }
+			        },
+			        "d_calendario.ID_data": {
+			          "Target": {
+			            "Entity": "d_calendario.ID_data"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.ID_data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_calendarios_have_ID_data"
+			        }
+			      ]
+			    },
+			    "d_cluster_selo_has_código_da_cor_hex": {
+			      "Binding": {
+			        "ConceptualEntity": "d_cluster_selo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_cluster_selo": {
+			          "Target": {
+			            "Entity": "d_cluster_selo"
+			          }
+			        },
+			        "d_cluster_selo.código_da_cor_hex": {
+			          "Target": {
+			            "Entity": "d_cluster_selo.código_da_cor_hex"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_cluster_selo"
+			            },
+			            "Object": {
+			              "Role": "d_cluster_selo.código_da_cor_hex"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_cluster_selos_have_código_da_cor_hexes"
+			        }
+			      ]
+			    },
+			    "d_cluster_selo_has_critérios_de_elegibilidade": {
+			      "Binding": {
+			        "ConceptualEntity": "d_cluster_selo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_cluster_selo": {
+			          "Target": {
+			            "Entity": "d_cluster_selo"
+			          }
+			        },
+			        "d_cluster_selo.critérios_de_elegibilidade": {
+			          "Target": {
+			            "Entity": "d_cluster_selo.critérios_de_elegibilidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_cluster_selo"
+			            },
+			            "Object": {
+			              "Role": "d_cluster_selo.critérios_de_elegibilidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_cluster_selos_have_critérios_de_elegibilidades"
+			        }
+			      ]
+			    },
+			    "d_cluster_selo_has_perfil_alvo": {
+			      "Binding": {
+			        "ConceptualEntity": "d_cluster_selo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_cluster_selo": {
+			          "Target": {
+			            "Entity": "d_cluster_selo"
+			          }
+			        },
+			        "d_cluster_selo.perfil_alvo": {
+			          "Target": {
+			            "Entity": "d_cluster_selo.perfil_alvo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_cluster_selo"
+			            },
+			            "Object": {
+			              "Role": "d_cluster_selo.perfil_alvo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_cluster_selos_have_perfil_alvos"
+			        }
+			      ]
+			    },
+			    "d_cluster_selo_has_nome_do_selo": {
+			      "Binding": {
+			        "ConceptualEntity": "d_cluster_selo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_cluster_selo": {
+			          "Target": {
+			            "Entity": "d_cluster_selo"
+			          }
+			        },
+			        "d_cluster_selo.nome_do_selo": {
+			          "Target": {
+			            "Entity": "d_cluster_selo.nome_do_selo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_cluster_selo"
+			            },
+			            "Object": {
+			              "Role": "d_cluster_selo.nome_do_selo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_cluster_selos_have_nome_do_selos"
+			        }
+			      ]
+			    },
+			    "d_municipio_has_PIB_per_capita": {
+			      "Binding": {
+			        "ConceptualEntity": "d_municipio"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_municipio": {
+			          "Target": {
+			            "Entity": "d_municipio"
+			          }
+			        },
+			        "d_municipio.PIB_per_capita": {
+			          "Target": {
+			            "Entity": "d_municipio.PIB_per_capita"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_municipio"
+			            },
+			            "Object": {
+			              "Role": "d_municipio.PIB_per_capita"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_municipios_have_PIB_per_capita"
+			        },
+			        {
+			          "Adjective": {
+			            "Subject": {
+			              "Role": "d_municipio"
+			            },
+			            "Adjectives": [
+			              {
+			                "expensive": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Antonyms": [
+			              {
+			                "cheap": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Measurement": {
+			              "Role": "d_municipio.PIB_per_capita"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "PIB_per_capita_indicates_how_expensive_d_municipios_are"
+			        }
+			      ]
+			    },
+			    "d_municipio_has_índice_IDHM": {
+			      "Binding": {
+			        "ConceptualEntity": "d_municipio"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_municipio": {
+			          "Target": {
+			            "Entity": "d_municipio"
+			          }
+			        },
+			        "d_municipio.índice_IDHM": {
+			          "Target": {
+			            "Entity": "d_municipio.índice_IDHM"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_municipio"
+			            },
+			            "Object": {
+			              "Role": "d_municipio.índice_IDHM"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_municipios_have_índice_IDHMs"
+			        }
+			      ]
+			    },
+			    "d_municipio_has_região": {
+			      "Binding": {
+			        "ConceptualEntity": "d_municipio"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_municipio": {
+			          "Target": {
+			            "Entity": "d_municipio"
+			          }
+			        },
+			        "d_municipio.região": {
+			          "Target": {
+			            "Entity": "d_municipio.região"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_municipio"
+			            },
+			            "Object": {
+			              "Role": "d_municipio.região"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_municipios_have_regiãos"
+			        }
+			      ]
+			    },
+			    "d_municipio_has_estado_UF": {
+			      "Binding": {
+			        "ConceptualEntity": "d_municipio"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_municipio": {
+			          "Target": {
+			            "Entity": "d_municipio"
+			          }
+			        },
+			        "d_municipio.estado_UF": {
+			          "Target": {
+			            "Entity": "d_municipio.estado_UF"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_municipio"
+			            },
+			            "Object": {
+			              "Role": "d_municipio.estado_UF"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_municipios_have_estado_UF"
+			        }
+			      ]
+			    },
+			    "d_municipio_has_nome_do_município": {
+			      "Binding": {
+			        "ConceptualEntity": "d_municipio"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_municipio": {
+			          "Target": {
+			            "Entity": "d_municipio"
+			          }
+			        },
+			        "d_municipio.nome_do_município": {
+			          "Target": {
+			            "Entity": "d_municipio.nome_do_município"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_municipio"
+			            },
+			            "Object": {
+			              "Role": "d_municipio.nome_do_município"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_municipios_have_nome_do_municípios"
+			        }
+			      ]
+			    },
+			    "d_municipio_has_código_do_município": {
+			      "Binding": {
+			        "ConceptualEntity": "d_municipio"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_municipio": {
+			          "Target": {
+			            "Entity": "d_municipio"
+			          }
+			        },
+			        "d_municipio.código_do_município": {
+			          "Target": {
+			            "Entity": "d_municipio.código_do_município"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_municipio"
+			            },
+			            "Object": {
+			              "Role": "d_municipio.código_do_município"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_municipios_have_código_do_municípios"
+			        }
+			      ]
+			    },
+			    "d_escola_has_match_aderência_": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "d_escola.match_aderência_": {
+			          "Target": {
+			            "Entity": "d_escola.match_aderência_"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "d_escola.match_aderência_"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_match_aderência_"
+			        }
+			      ]
+			    },
+			    "d_escola_has_uf___cidade": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "d_escola.uf___cidade": {
+			          "Target": {
+			            "Entity": "d_escola.uf___cidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "d_escola.uf___cidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_uf___cidades"
+			        }
+			      ]
+			    },
+			    "d_escola_has_região": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "d_escola.região": {
+			          "Target": {
+			            "Entity": "d_escola.região"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "d_escola.região"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_regiãos"
+			        }
+			      ]
+			    },
+			    "d_escola_has_índice_IDHM": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "d_escola.índice_IDHM": {
+			          "Target": {
+			            "Entity": "d_escola.índice_IDHM"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "d_escola.índice_IDHM"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_índice_IDHMs"
+			        }
+			      ]
+			    },
+			    "d_escola_has_ação_sugerida": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "d_escola.ação_sugerida": {
+			          "Target": {
+			            "Entity": "d_escola.ação_sugerida"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "d_escola.ação_sugerida"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_ação_sugeridas"
+			        }
+			      ]
+			    },
+			    "d_escola_has_score_de_aderência_ao_selo": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "d_escola.score_de_aderência_ao_selo": {
+			          "Target": {
+			            "Entity": "d_escola.score_de_aderência_ao_selo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "d_escola.score_de_aderência_ao_selo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_score_de_aderência_ao_selos"
+			        }
+			      ]
+			    },
+			    "d_escola_has_tipo_de_localização": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "d_escola.tipo_de_localização": {
+			          "Target": {
+			            "Entity": "d_escola.tipo_de_localização"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "d_escola.tipo_de_localização"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_tipo_de_localizaçãos"
+			        }
+			      ]
+			    },
+			    "d_escola_has_estado_UF": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "d_escola.estado_UF": {
+			          "Target": {
+			            "Entity": "d_escola.estado_UF"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "d_escola.estado_UF"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_estado_UF"
+			        }
+			      ]
+			    },
+			    "d_escola_has_código_do_município": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "d_escola.código_do_município": {
+			          "Target": {
+			            "Entity": "d_escola.código_do_município"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "d_escola.código_do_município"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_código_do_municípios"
+			        }
+			      ]
+			    },
+			    "d_escola_has_nome_da_escola": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "d_escola.nome_da_escola": {
+			          "Target": {
+			            "Entity": "d_escola.nome_da_escola"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "d_escola.nome_da_escola"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_nome_da_escolas"
+			        }
+			      ]
+			    },
+			    "d_escola_has_ID_escola": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "d_escola.ID_escola": {
+			          "Target": {
+			            "Entity": "d_escola.ID_escola"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "d_escola.ID_escola"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_ID_escolas"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_escolas_qualificadas_header": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.escolas_qualificadas_header": {
+			          "Target": {
+			            "Entity": "entity__medida.escolas_qualificadas_header"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.escolas_qualificadas_header"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_escolas_qualificadas_header"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_escolas_ensino_fundamental": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.escolas_ensino_fundamental": {
+			          "Target": {
+			            "Entity": "entity__medida.escolas_ensino_fundamental"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.escolas_ensino_fundamental"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have__escolas_ensino_fundamental"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_escolas_educação_infantil": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.escolas_educação_infantil": {
+			          "Target": {
+			            "Entity": "entity__medida.escolas_educação_infantil"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.escolas_educação_infantil"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have__escolas_educação_infantil"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_escolas_com_período_integral": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.escolas_com_período_integral": {
+			          "Target": {
+			            "Entity": "entity__medida.escolas_com_período_integral"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.escolas_com_período_integral"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have__escolas_com_período_integral"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_total_docentes": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.total_docentes": {
+			          "Target": {
+			            "Entity": "entity__medida.total_docentes"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.total_docentes"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_total_docentes"
+			        }
+			      ]
+			    },
+			    "d_municipio_has_entity__medida_indice_renda_acessibilidade": {
+			      "Binding": {
+			        "ConceptualEntity": "d_municipio"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_municipio": {
+			          "Target": {
+			            "Entity": "d_municipio"
+			          }
+			        },
+			        "entity__medida.indice_renda_acessibilidade": {
+			          "Target": {
+			            "Entity": "entity__medida.indice_renda_acessibilidade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_municipio"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.indice_renda_acessibilidade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_municipios_have_indice_renda_acessibilidade"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_indice_docente": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.indice_docente": {
+			          "Target": {
+			            "Entity": "entity__medida.indice_docente"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.indice_docente"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_indice_docente"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_indice_academico": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.indice_academico": {
+			          "Target": {
+			            "Entity": "entity__medida.indice_academico"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.indice_academico"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_indice_academico"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_indice_tech": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.indice_tech": {
+			          "Target": {
+			            "Entity": "entity__medida.indice_tech"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.indice_tech"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_indice_tech"
+			        }
+			      ]
+			    },
+			    "d_escola_has_entity__medida_score_medio_aderencia": {
+			      "Binding": {
+			        "ConceptualEntity": "d_escola"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_escola": {
+			          "Target": {
+			            "Entity": "d_escola"
+			          }
+			        },
+			        "entity__medida.score_medio_aderencia": {
+			          "Target": {
+			            "Entity": "entity__medida.score_medio_aderencia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_escola"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.score_medio_aderencia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "d_escolas_have_score_medio_aderencia"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_escolas_compartilha": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.escolas_compartilha": {
+			          "Target": {
+			            "Entity": "entity__medida.escolas_compartilha"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.escolas_compartilha"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have__escolas_compartilha"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_escolas_farias_brito": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.escolas_farias_brito": {
+			          "Target": {
+			            "Entity": "entity__medida.escolas_farias_brito"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.escolas_farias_brito"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have__escolas_farias_brito"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_escolas_uno": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.escolas_uno": {
+			          "Target": {
+			            "Entity": "entity__medida.escolas_uno"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.escolas_uno"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have__escolas_uno"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_escolas_kepler": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.escolas_kepler": {
+			          "Target": {
+			            "Entity": "entity__medida.escolas_kepler"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.escolas_kepler"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have__escolas_kepler"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_escolas_por_selo": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.escolas_por_selo": {
+			          "Target": {
+			            "Entity": "entity__medida.escolas_por_selo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.escolas_por_selo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have__escolas_por_selo"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_total_matriculas": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.total_matriculas": {
+			          "Target": {
+			            "Entity": "entity__medida.total_matriculas"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.total_matriculas"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_total_matriculas"
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline_has_entity__medida_silhouette_score_ML": {
+			      "Binding": {
+			        "ConceptualEntity": "f_qualidade_pipeline"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_qualidade_pipeline": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline"
+			          }
+			        },
+			        "entity__medida.silhouette_score_ML": {
+			          "Target": {
+			            "Entity": "entity__medida.silhouette_score_ML"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_qualidade_pipeline"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.silhouette_score_ML"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_qualidade_pipelines_have_silhouette_score_ML"
+			        }
+			      ]
+			    },
+			    "f_qualidade_pipeline_has_entity__medida_pct_cobertura_ingestao": {
+			      "Binding": {
+			        "ConceptualEntity": "f_qualidade_pipeline"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_qualidade_pipeline": {
+			          "Target": {
+			            "Entity": "f_qualidade_pipeline"
+			          }
+			        },
+			        "entity__medida.pct_cobertura_ingestao": {
+			          "Target": {
+			            "Entity": "entity__medida.pct_cobertura_ingestao"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_qualidade_pipeline"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.pct_cobertura_ingestao"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_qualidade_pipelines_have_pct_cobertura_ingestao"
+			        }
+			      ]
+			    },
+			    "f_censo_metrica_has_entity__medida_total_escolas": {
+			      "Binding": {
+			        "ConceptualEntity": "f_censo_metricas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "f_censo_metrica": {
+			          "Target": {
+			            "Entity": "f_censo_metrica"
+			          }
+			        },
+			        "entity__medida.total_escolas": {
+			          "Target": {
+			            "Entity": "entity__medida.total_escolas"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "f_censo_metrica"
+			            },
+			            "Object": {
+			              "Role": "entity__medida.total_escolas"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "f_censo_metricas_have_total_escolas"
+			        }
+			      ]
+			    },
+			    "d_calendario_data_mê_has_d_calendario_data_dia": {
+			      "Binding": {
+			        "ConceptualEntity": "d_calendario"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "d_calendario.data.mê": {
+			          "Target": {
+			            "Entity": "d_calendario.data.mê"
+			          }
+			        },
+			        "d_calendario.data.dia": {
+			          "Target": {
+			            "Entity": "d_calendario.data.dia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario.data.mê"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.data.dia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "mê_have_dias"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "d_calendario.data.dia"
+			            },
+			            "Object": {
+			              "Role": "d_calendario.data.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dias_have_mê"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "d_calendario.data.dia"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "d_calendario.data.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dias_are_in_mê"
+			        }
+			      ]
+			    }
+			  },
+			  "Agents": {
+			    "Internal": {
+			      "Version": "1.1.0"
+			    }
+			  }
+			}
+		contentType: json
+

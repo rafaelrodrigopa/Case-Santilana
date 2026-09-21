@@ -1,72 +1,88 @@
 table d_escola
 	lineageTag: 1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d
 
-	column SK_ESCOLA
+	column 'ID Escola'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-sk-escola
 		summarizeBy: none
 		sourceColumn: SK_ESCOLA
 
-	column NO_ENTIDADE
+	column 'Nome da Escola'
 		dataType: string
 		lineageTag: col-no-entidade
 		summarizeBy: none
 		sourceColumn: NO_ENTIDADE
 
-	column CO_MUNICIPIO
+	column 'Código do Município'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-co-municipio
 		summarizeBy: none
 		sourceColumn: CO_MUNICIPIO
 
-	column SG_UF
+	column 'Estado (UF)'
 		dataType: string
 		lineageTag: col-sg-uf
 		summarizeBy: none
 		sourceColumn: SG_UF
 
-	column TP_LOCALIZACAO
+	column 'Tipo de Localização'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-tp-localizacao
 		summarizeBy: none
 		sourceColumn: TP_LOCALIZACAO
 
-	column SEL_RECOMENDADO
+	column 'Selo Recomendado'
 		dataType: string
 		lineageTag: col-sel-recomendado
 		summarizeBy: none
 		sourceColumn: SEL_RECOMENDADO
 
-	column SCORE_ADERENCIA_SELO
+	column 'Score de Aderência ao Selo'
 		dataType: double
 		formatString: 0.00
 		lineageTag: col-score-aderencia
 		summarizeBy: average
 		sourceColumn: SCORE_ADERENCIA_SELO
 
-	column ACAO_SUGERIDA =
-			SWITCH(
-				d_escola[SEL_RECOMENDADO],
-				"Kepler", "Apresentar Selo Kepler: Expansão Acessível & Ticket Popular",
-				"Uno", "Apresentar Selo Uno: Inovação & Plataforma Tecnológica",
-				"Farias Brito", "Apresentar Selo Farias Brito: Rigor Acadêmico & ENEM",
-				"Compartilha", "Apresentar Selo Compartilha: Formação Docente & Apoio Gestão",
-				"Abordagem Comercial Padrão"
-			)
+	column 'Ação Sugerida' = SWITCH(d_escola[Selo Recomendado], "Kepler", "Apresentar Selo Kepler: Expansão Acessível & Ticket Popular", "Uno", "Apresentar Selo Uno: Inovação & Plataforma Tecnológica", "Farias Brito", "Apresentar Selo Farias Brito: Rigor Acadêmico & ENEM", "Compartilha", "Apresentar Selo Compartilha: Formação Docente & Apoio Gestão", "Abordagem Comercial Padrão")
 		dataType: string
 		lineageTag: col-acao-sugerida
 		summarizeBy: none
+
+	column 'Índice IDHM'
+		dataType: double
+		formatString: 0.000
+		lineageTag: col-escola-idhm
+		summarizeBy: average
+		sourceColumn: IDHM
+
+	column Região
+		dataType: string
+		lineageTag: col-escola-regiao
+		summarizeBy: none
+		sourceColumn: NM_REGIAO
+
+	column 'UF / CIDADE' = LOOKUPVALUE('d_municipio'[Nome do Município], 'd_municipio'[Código do Município], d_escola[Código do Município]) & " - " & d_escola[Estado (UF)]
+		dataType: string
+		lineageTag: col-uf-cidade
+		summarizeBy: none
+
+	column 'Match Aderência %' = d_escola[Score de Aderência ao Selo] / 100
+		dataType: double
+		formatString: 0.0%
+		lineageTag: col-match-aderencia-pct
+		summarizeBy: average
 
 	partition d_escola = m
 		mode: import
 		source =
 				let
-					Source = Csv.Document(File.Contents("d:/Projetos/ProjectBI/5.JumpSantilana/data/gold/d_escola.csv"),[Delimiter=",", Columns=7, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+					Source = Csv.Document(File.Contents("d:/Projetos/ProjectBI/5.JumpSantilana/data/gold/d_escola.csv"),[Delimiter=",", Columns=9, Encoding=65001, QuoteStyle=QuoteStyle.None]),
 					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
-					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"SK_ESCOLA", Int64.Type}, {"NO_ENTIDADE", type text}, {"CO_MUNICIPIO", Int64.Type}, {"SG_UF", type text}, {"TP_LOCALIZACAO", Int64.Type}, {"SEL_RECOMENDADO", type text}, {"SCORE_ADERENCIA_SELO", type number}})
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"SK_ESCOLA", Int64.Type}, {"NO_ENTIDADE", type text}, {"CO_MUNICIPIO", Int64.Type}, {"SG_UF", type text}, {"NM_REGIAO", type text}, {"TP_LOCALIZACAO", Int64.Type}, {"IDHM", type number}, {"SEL_RECOMENDADO", type text}, {"SCORE_ADERENCIA_SELO", type number}}, "en-US")
 				in
 					#"Changed Type"
 

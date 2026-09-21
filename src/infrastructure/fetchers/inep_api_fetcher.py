@@ -85,8 +85,14 @@ class InepApiFetcher:
                 lab_cien = 0
                 biblio = np.random.choice([0, 1], p=[0.4, 0.6])
                 medio = np.random.choice([0, 1], p=[0.7, 0.3])
+                infantil = np.random.choice([0, 1], p=[0.2, 0.8])
+                fundamental = 1
+                integral = np.random.choice([0, 1], p=[0.8, 0.2])
+                auditorio = 0
+                quadra = np.random.choice([0, 1], p=[0.6, 0.4])
                 salas = np.random.randint(4, 12)
                 alunos = np.random.randint(60, 350)
+                docentes = max(4, int(alunos / 18))
                 doc_sup = round(float(np.random.uniform(0.50, 0.75)), 2)
             elif perfil == "tech":
                 in_internet = 1
@@ -97,8 +103,14 @@ class InepApiFetcher:
                 lab_cien = np.random.choice([0, 1], p=[0.4, 0.6])
                 biblio = 1
                 medio = np.random.choice([0, 1], p=[0.4, 0.6])
+                infantil = np.random.choice([0, 1], p=[0.4, 0.6])
+                fundamental = 1
+                integral = np.random.choice([0, 1], p=[0.5, 0.5])
+                auditorio = np.random.choice([0, 1], p=[0.4, 0.6])
+                quadra = 1
                 salas = np.random.randint(10, 24)
                 alunos = np.random.randint(250, 750)
+                docentes = max(10, int(alunos / 16))
                 doc_sup = round(float(np.random.uniform(0.80, 0.95)), 2)
             elif perfil == "alta_performance":
                 in_internet = 1
@@ -109,8 +121,14 @@ class InepApiFetcher:
                 lab_cien = 1
                 biblio = 1
                 medio = 1 # Foco em Ensino Médio/ENEM
+                infantil = 0
+                fundamental = 1
+                integral = np.random.choice([0, 1], p=[0.3, 0.7])
+                auditorio = 1
+                quadra = 1
                 salas = np.random.randint(15, 35)
                 alunos = np.random.randint(400, 1200)
+                docentes = max(20, int(alunos / 15))
                 doc_sup = round(float(np.random.uniform(0.90, 0.99)), 2)
             else: # grande_porte
                 in_internet = 1
@@ -121,8 +139,14 @@ class InepApiFetcher:
                 lab_cien = 1
                 biblio = 1
                 medio = np.random.choice([0, 1], p=[0.2, 0.8])
+                infantil = 1
+                fundamental = 1
+                integral = 1
+                auditorio = 1
+                quadra = 1
                 salas = np.random.randint(25, 60)
                 alunos = np.random.randint(1000, 3200)
+                docentes = max(40, int(alunos / 14))
                 doc_sup = round(float(np.random.uniform(0.85, 0.98)), 2)
 
             schools.append({
@@ -140,9 +164,15 @@ class InepApiFetcher:
                 "IN_LABORATORIO_INFORMATICA": lab_info,
                 "IN_LABORATORIO_CIENCIAS": lab_cien,
                 "IN_BIBLIOTECA_SALA_LEITURA": biblio,
+                "IN_INFANTIL": infantil,
+                "IN_FUNDAMENTAL": fundamental,
                 "IN_MEDIO": medio,
+                "IN_INTEGRAL": integral,
+                "IN_AUDITORIO": auditorio,
+                "IN_QUADRA_ESPORTES": quadra,
                 "QT_SALAS_UTILIZADAS": salas,
                 "QT_MAT_BAS": alunos,
+                "QT_DOC_BAS": docentes,
                 "PROP_DOCENTES_SUPERIOR": doc_sup
             })
 

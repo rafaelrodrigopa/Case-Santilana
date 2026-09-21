@@ -1,105 +1,80 @@
 table _Medidas
 	lineageTag: 7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d
 
-	measure 'Total Escolas' = COUNTROWS('d_escola')
+	measure 'Total Escolas' = DISTINCTCOUNT('f_censo_metricas'[ID Escola])
 		formatString: #,##0
 		lineageTag: m-total-escolas
 
-	measure 'Pct Cobertura Ingestao' = AVERAGE('f_qualidade_pipeline'[TAXA_COBERTURA_COVERAGE])
+	measure 'Pct Cobertura Ingestao' = AVERAGE('f_qualidade_pipeline'[Taxa de Cobertura])
 		formatString: 0.0%
 		lineageTag: m-qualidade-coverage
 
-	measure 'Silhouette Score ML' = AVERAGE('f_qualidade_pipeline'[SILHOUETTE_SCORE_ML])
+	measure 'Silhouette Score ML' = AVERAGE('f_qualidade_pipeline'[Score Silhouette ML])
 		formatString: 0.0000
 		lineageTag: m-qualidade-silhouette
 
-	measure 'Total Matriculas' = SUM('f_censo_metricas'[QT_MAT_BAS])
+	measure 'Total Matriculas' = SUM('f_censo_metricas'[Quantidade de Matrículas na Educação Básica])
 		formatString: #,##0
 		lineageTag: m-total-matriculas
 
-	measure '% Escolas por Selo' =
-			DIVIDE(
-				[Total Escolas],
-				CALCULATE([Total Escolas], ALL('d_cluster_selo'))
-			)
-			formatString: 0.0%
-			lineageTag: m-pct-selo
-		lineageTag: 9db66f40-5936-426d-83a7-890f95fa5e51
+	measure '% Escolas por Selo' = DIVIDE([Total Escolas], CALCULATE([Total Escolas], ALL('d_cluster_selo')))
+		formatString: 0.0%
+		lineageTag: m-pct-selo
 
-	measure '% Escolas Kepler' =
-			DIVIDE(
-				CALCULATE([Total Escolas], 'd_escola'[SEL_RECOMENDADO] = "Kepler"),
-				CALCULATE([Total Escolas], ALL('d_escola'))
-			)
-			formatString: 0.0%
-			lineageTag: m-pct-kepler
-		lineageTag: 13a68349-2d43-46e4-adbe-42dc69430163
+	measure '% Escolas Kepler' = DIVIDE(CALCULATE([Total Escolas], 'd_escola'[Selo Recomendado] = "Kepler"), CALCULATE([Total Escolas], ALL('d_escola')))
+		formatString: 0.0%
+		lineageTag: m-pct-kepler
 
-	measure '% Escolas Uno' =
-			DIVIDE(
-				CALCULATE([Total Escolas], 'd_escola'[SEL_RECOMENDADO] = "Uno"),
-				CALCULATE([Total Escolas], ALL('d_escola'))
-			)
-			formatString: 0.0%
-			lineageTag: m-pct-uno
-		lineageTag: d495b729-652c-412c-8f5e-b079881b0deb
+	measure '% Escolas Uno' = DIVIDE(CALCULATE([Total Escolas], 'd_escola'[Selo Recomendado] = "Uno"), CALCULATE([Total Escolas], ALL('d_escola')))
+		formatString: 0.0%
+		lineageTag: m-pct-uno
 
-	measure '% Escolas Farias Brito' =
-			DIVIDE(
-				CALCULATE([Total Escolas], 'd_escola'[SEL_RECOMENDADO] = "Farias Brito"),
-				CALCULATE([Total Escolas], ALL('d_escola'))
-			)
-			formatString: 0.0%
-			lineageTag: m-pct-fb
-		lineageTag: 30e5f403-3085-4970-a613-cfaa5077fe76
+	measure '% Escolas Farias Brito' = DIVIDE(CALCULATE([Total Escolas], 'd_escola'[Selo Recomendado] = "Farias Brito"), CALCULATE([Total Escolas], ALL('d_escola')))
+		formatString: 0.0%
+		lineageTag: m-pct-fb
 
-	measure '% Escolas Compartilha' =
-			DIVIDE(
-				CALCULATE([Total Escolas], 'd_escola'[SEL_RECOMENDADO] = "Compartilha"),
-				CALCULATE([Total Escolas], ALL('d_escola'))
-			)
-			formatString: 0.0%
-			lineageTag: m-pct-compartilha
-		lineageTag: 99489eb8-d229-4220-bc8a-5ce9e51c4108
+	measure '% Escolas Compartilha' = DIVIDE(CALCULATE([Total Escolas], 'd_escola'[Selo Recomendado] = "Compartilha"), CALCULATE([Total Escolas], ALL('d_escola')))
+		formatString: 0.0%
+		lineageTag: m-pct-compartilha
 
-	measure 'Score Medio Aderencia' = AVERAGE('d_escola'[SCORE_ADERENCIA_SELO])
-		formatString: 0.00
+	measure 'Score Medio Aderencia' = AVERAGE('d_escola'[Score de Aderência ao Selo])/100
+		formatString: 0.00%;-0.00%;0.00%
 		lineageTag: m-score-aderencia
 
-	measure 'Indice Tech' =
-			AVERAGEX(
-				'f_censo_metricas',
-				('f_censo_metricas'[IN_BANDA_LARGA] * 0.3 +
-				 'f_censo_metricas'[IN_EQUIP_LOUSA_DIGITAL] * 0.3 +
-				 'f_censo_metricas'[QT_COMP_ALUNO] * 0.4) * 100
-			)
-			formatString: 0.0
-			lineageTag: m-indice-tech
-		lineageTag: 838fc11e-59e5-4bcf-970c-df882cf1f2ac
+	measure 'Indice Tech' = AVERAGEX('f_censo_metricas', ('f_censo_metricas'[Possui Banda Larga] * 0.3 + 'f_censo_metricas'[Possui Lousa Digital] * 0.3 + 'f_censo_metricas'[Computadores por Aluno] * 0.4) * 100)
+		formatString: 0.0
+		lineageTag: m-indice-tech
 
-	measure 'Indice Academico' =
-			AVERAGEX(
-				'f_censo_metricas',
-				('f_censo_metricas'[IN_MEDIO] * 0.5 +
-				 'f_censo_metricas'[IN_LABORATORIO_CIENCIAS] * 0.5) * 100
-			)
-			formatString: 0.0
-			lineageTag: m-indice-academico
-		lineageTag: 8014b3ea-168d-4430-af60-57820a9e0e31
+	measure 'Indice Academico' = AVERAGEX('f_censo_metricas', ('f_censo_metricas'[Oferece Ensino Médio] * 0.5 + 'f_censo_metricas'[Possui Laboratório de Ciências] * 0.5) * 100)
+		formatString: 0.0
+		lineageTag: m-indice-academico
 
-	measure 'Indice Docente' =
-			AVERAGEX(
-				'f_censo_metricas',
-				('f_censo_metricas'[PROP_DOCENTES_SUPERIOR] * 0.6 +
-				 'f_censo_metricas'[IN_BIBLIOTECA_SALA_LEITURA] * 0.4) * 100
-			)
-			formatString: 0.0
-			lineageTag: m-indice-docente
-		lineageTag: 80911c91-553a-4b00-897b-b4b71a09a889
+	measure 'Indice Docente' = AVERAGEX('f_censo_metricas', ('f_censo_metricas'[Proporção de Docentes com Ensino Superior] * 0.6 + 'f_censo_metricas'[Possui Biblioteca ou Sala de Leitura] * 0.4) * 100)
+		formatString: 0.0
+		lineageTag: m-indice-docente
 
-	measure 'Indice Renda Acessibilidade' = AVERAGE('d_municipio'[IDHM]) * 100
+	measure 'Indice Renda Acessibilidade' = AVERAGE('d_municipio'[Índice IDHM]) * 100
 		formatString: 0.0
 		lineageTag: m-indice-renda
+
+	measure 'Total Docentes' = SUM('f_censo_metricas'[Quantidade de Docentes])
+		formatString: #,##0
+		lineageTag: m-total-docentes
+
+	measure '% Escolas com Período Integral' = DIVIDE(SUM('f_censo_metricas'[Oferece Período Integral]), COUNTROWS('f_censo_metricas'))
+		formatString: 0.0%
+		lineageTag: m-pct-integral
+
+	measure '% Escolas Educação Infantil' = DIVIDE(SUM('f_censo_metricas'[Oferece Educação Infantil]), COUNTROWS('f_censo_metricas'))
+		formatString: 0.0%
+		lineageTag: m-pct-infantil
+
+	measure '% Escolas Ensino Fundamental' = DIVIDE(SUM('f_censo_metricas'[Oferece Ensino Fundamental]), COUNTROWS('f_censo_metricas'))
+		formatString: 0.0%
+		lineageTag: m-pct-fundamental
+
+	measure 'Escolas Qualificadas Header' = "EXIBINDO " & FORMAT([Total Escolas], "#,##0") & " ESCOLAS QUALIFICADAS (SCORE ≥ 70%)"
+		lineageTag: m-escolas-qualificadas-hdr
 
 	partition _Medidas = m
 		mode: import

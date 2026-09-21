@@ -1,25 +1,25 @@
 table d_cluster_selo
 	lineageTag: 3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f
 
-	column SEL_NOME
+	column 'Nome do Selo'
 		dataType: string
 		lineageTag: col-selo-nome
 		summarizeBy: none
 		sourceColumn: SEL_NOME
 
-	column PERFIL_ALVO
+	column 'Perfil Alvo'
 		dataType: string
 		lineageTag: col-selo-perfil
 		summarizeBy: none
 		sourceColumn: PERFIL_ALVO
 
-	column CRITERIOS
+	column 'Critérios de Elegibilidade'
 		dataType: string
 		lineageTag: col-selo-criterios
 		summarizeBy: none
 		sourceColumn: CRITERIOS
 
-	column COR_HEX
+	column 'Código da Cor Hex'
 		dataType: string
 		lineageTag: col-selo-cor
 		summarizeBy: none

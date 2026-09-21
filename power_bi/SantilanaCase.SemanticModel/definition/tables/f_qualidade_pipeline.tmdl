@@ -1,48 +1,48 @@
 table f_qualidade_pipeline
 	lineageTag: 6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c
 
-	column SK_EXECUCAO
+	column 'ID Execução'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-q-sk
 		summarizeBy: none
 		sourceColumn: SK_EXECUCAO
 
-	column DATA_EXECUCAO
+	column 'Data da Execução'
 		dataType: string
 		lineageTag: col-q-data
 		summarizeBy: none
 		sourceColumn: DATA_EXECUCAO
 
-	column TOTAL_REGISTROS_INGERIDOS
+	column 'Total de Registros Ingeridos'
 		dataType: int64
 		formatString: #,##0
 		lineageTag: col-q-total
 		summarizeBy: sum
 		sourceColumn: TOTAL_REGISTROS_INGERIDOS
 
-	column TAXA_COBERTURA_COVERAGE
+	column 'Taxa de Cobertura'
 		dataType: double
 		formatString: 0.0%
 		lineageTag: col-q-coverage
 		summarizeBy: average
 		sourceColumn: TAXA_COBERTURA_COVERAGE
 
-	column CONTAGEM_NULOS_POST_ETL
+	column 'Quantidade de Nulos Pós-ETL'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-q-nulos
 		summarizeBy: sum
 		sourceColumn: CONTAGEM_NULOS_POST_ETL
 
-	column SILHOUETTE_SCORE_ML
+	column 'Score Silhouette ML'
 		dataType: double
 		formatString: 0.0000
 		lineageTag: col-q-silhouette
 		summarizeBy: average
 		sourceColumn: SILHOUETTE_SCORE_ML
 
-	column STATUS_PIPELINE
+	column 'Status do Pipeline'
 		dataType: string
 		lineageTag: col-q-status
 		summarizeBy: none
@@ -54,7 +54,7 @@ table f_qualidade_pipeline
 				let
 					Source = Csv.Document(File.Contents("d:/Projetos/ProjectBI/5.JumpSantilana/data/gold/f_qualidade_pipeline.csv"),[Delimiter=",", Columns=7, Encoding=65001, QuoteStyle=QuoteStyle.None]),
 					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
-					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"SK_EXECUCAO", Int64.Type}, {"DATA_EXECUCAO", type text}, {"TOTAL_REGISTROS_INGERIDOS", Int64.Type}, {"TAXA_COBERTURA_COVERAGE", type number}, {"CONTAGEM_NULOS_POST_ETL", Int64.Type}, {"SILHOUETTE_SCORE_ML", type number}, {"STATUS_PIPELINE", type text}})
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"SK_EXECUCAO", Int64.Type}, {"DATA_EXECUCAO", type text}, {"TOTAL_REGISTROS_INGERIDOS", Int64.Type}, {"TAXA_COBERTURA_COVERAGE", type number}, {"CONTAGEM_NULOS_POST_ETL", Int64.Type}, {"SILHOUETTE_SCORE_ML", type number}, {"STATUS_PIPELINE", type text}}, "en-US")
 				in
 					#"Changed Type"
 

@@ -1,39 +1,39 @@
 table d_municipio
 	lineageTag: 2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e
 
-	column CO_MUNICIPIO
+	column 'Código do Município'
 		dataType: int64
 		formatString: 0
 		lineageTag: col-mun-co
 		summarizeBy: none
 		sourceColumn: CO_MUNICIPIO
 
-	column NO_MUNICIPIO
+	column 'Nome do Município'
 		dataType: string
 		lineageTag: col-mun-no
 		summarizeBy: none
 		sourceColumn: NO_MUNICIPIO
 
-	column SG_UF
+	column 'Estado (UF)'
 		dataType: string
 		lineageTag: col-mun-uf
 		summarizeBy: none
 		sourceColumn: SG_UF
 
-	column NM_REGIAO
+	column Região
 		dataType: string
 		lineageTag: col-mun-regiao
 		summarizeBy: none
 		sourceColumn: NM_REGIAO
 
-	column IDHM
+	column 'Índice IDHM'
 		dataType: double
 		formatString: 0.000
 		lineageTag: col-mun-idhm
 		summarizeBy: average
 		sourceColumn: IDHM
 
-	column PIB_PER_CAPITA
+	column 'PIB Per Capita'
 		dataType: double
 		formatString: "R$"#,##0.00
 		lineageTag: col-mun-pib
@@ -46,7 +46,7 @@ table d_municipio
 				let
 					Source = Csv.Document(File.Contents("d:/Projetos/ProjectBI/5.JumpSantilana/data/gold/d_municipio.csv"),[Delimiter=",", Columns=6, Encoding=65001, QuoteStyle=QuoteStyle.None]),
 					#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
-					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"CO_MUNICIPIO", Int64.Type}, {"NO_MUNICIPIO", type text}, {"SG_UF", type text}, {"NM_REGIAO", type text}, {"IDHM", type number}, {"PIB_PER_CAPITA", type number}})
+					#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"CO_MUNICIPIO", Int64.Type}, {"NO_MUNICIPIO", type text}, {"SG_UF", type text}, {"NM_REGIAO", type text}, {"IDHM", type number}, {"PIB_PER_CAPITA", type number}}, "en-US")
 				in
 					#"Changed Type"
 

@@ -1,21 +1,21 @@
 relationship rel_escola_fato
-	fromColumn: f_censo_metricas.SK_ESCOLA
-	toColumn: d_escola.SK_ESCOLA
+	fromColumn: f_censo_metricas.'ID Escola'
+	toColumn: d_escola.'ID Escola'
 
 relationship rel_municipio_fato
-	fromColumn: f_censo_metricas.CO_MUNICIPIO
-	toColumn: d_municipio.CO_MUNICIPIO
+	fromColumn: f_censo_metricas.'Código do Município'
+	toColumn: d_municipio.'Código do Município'
 
 relationship rel_selo_escola
-	fromColumn: d_escola.SEL_RECOMENDADO
-	toColumn: d_cluster_selo.SEL_NOME
+	fromColumn: d_escola.'Selo Recomendado'
+	toColumn: d_cluster_selo.'Nome do Selo'
 
 relationship rel_calendario_fato
-	fromColumn: f_censo_metricas.SK_DATA
-	toColumn: d_calendario.SK_DATA
+	fromColumn: f_censo_metricas.'ID Data'
+	toColumn: d_calendario.'ID Data'
 
 relationship 6360f192-d8de-4976-b10b-c59b2fa2d646
 	joinOnDateBehavior: datePartOnly
-	fromColumn: d_calendario.DATA
+	fromColumn: d_calendario.Data
 	toColumn: LocalDateTable_9b308812-318a-49a3-9ec4-cafeb80f1a03.Date
 

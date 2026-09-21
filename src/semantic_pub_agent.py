@@ -35,7 +35,9 @@ class SemanticPubAgent:
             pl.col("NO_ENTIDADE"),
             pl.col("CO_MUNICIPIO"),
             pl.col("SG_UF"),
+            pl.col("NM_REGIAO"),
             pl.col("TP_LOCALIZACAO"),
+            pl.col("IDHM"),
             pl.col("SEL_RECOMENDADO"),
             pl.col("SCORE_ADERENCIA_SELO")
         ]).unique(subset=["SK_ESCOLA"])
@@ -101,9 +103,15 @@ class SemanticPubAgent:
             pl.col("IN_LABORATORIO_INFORMATICA"),
             pl.col("IN_LABORATORIO_CIENCIAS"),
             pl.col("IN_BIBLIOTECA_SALA_LEITURA"),
+            pl.col("IN_INFANTIL"),
+            pl.col("IN_FUNDAMENTAL"),
             pl.col("IN_MEDIO"),
+            pl.col("IN_INTEGRAL"),
+            pl.col("IN_AUDITORIO"),
+            pl.col("IN_QUADRA_ESPORTES"),
             pl.col("QT_SALAS_UTILIZADAS"),
             pl.col("QT_MAT_BAS"),
+            pl.col("QT_DOC_BAS"),
             pl.col("PROP_DOCENTES_SUPERIOR"),
             pl.lit(20260101).alias("SK_DATA")
         ])

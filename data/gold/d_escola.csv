@@ -1,1201 +1,1201 @@
-SK_ESCOLA,NO_ENTIDADE,CO_MUNICIPIO,SG_UF,TP_LOCALIZACAO,SEL_RECOMENDADO,SCORE_ADERENCIA_SELO
-35000224,Centro Educacional Vanguard 225,2313500,CE,1,Uno,60.92
-35000897,Liceu Progresso 898,3106200,MG,1,Farias Brito,78.87
-35000462,Colégio Futuro 463,3550308,SP,1,Compartilha,56.16
-35000870,Centro Educacional Vanguard 871,4314902,RS,1,Farias Brito,69.92
-35001028,Colégio Elite 1029,3303302,RJ,1,Farias Brito,56.2
-35000998,Centro Educacional Santa Cruz 999,3136702,MG,1,Uno,59.53
-35000245,Centro Educacional Objetivo 246,4316907,RS,1,Uno,67.26
-35000349,Instituto de Ensino Santa Cruz 350,2910800,BA,1,Uno,63.87
-35000569,Liceu Pionero 570,3136702,MG,1,Compartilha,60.89
-35000078,Liceu Integral 79,4314902,RS,1,Kepler,59.06
-35000915,Colégio Objetivo 916,2304400,CE,1,Uno,59.7
-35001126,Liceu Anchieta 1127,3301702,RJ,2,Uno,71.43
-35000367,Liceu Albert Einstein 368,3301702,RJ,1,Kepler,56.25
-35000644,Escola Saber 645,4202404,SC,1,Kepler,65.2
-35001162,Instituto de Ensino Pionero 1163,3170206,MG,1,Farias Brito,65.14
-35000325,Academia Futuro 326,5300108,DF,2,Kepler,47.27
-35000977,Colégio Albert Einstein 978,2933307,BA,2,Uno,63.71
-35000400,Academia Marista 401,3301702,RJ,1,Uno,62.7
-35000739,Centro Educacional Albert Einstein 740,4304606,RS,1,Farias Brito,62.53
-35000063,Academia Exponencial 64,1501402,PA,1,Uno,67.0
-35000388,Escola Marista 389,2304202,CE,1,Compartilha,55.96
-35000983,Colégio Futuro 984,2313500,CE,1,Kepler,55.7
-35000227,Centro Educacional Alfa 228,1302603,AM,1,Compartilha,58.77
-35001177,Colégio Elite 1178,2609600,PE,1,Kepler,55.29
-35000611,Liceu Vanguard 612,4202404,SC,1,Kepler,61.31
-35000965,Instituto de Ensino Saber 966,3136702,MG,1,Compartilha,78.3
-35000742,Colégio Saber 743,4209102,SC,1,Kepler,57.43
-35000343,Instituto de Ensino Albert Einstein 344,4304606,RS,1,Farias Brito,75.54
-35000629,Instituto de Ensino Exponencial 630,3549805,SP,1,Farias Brito,67.69
-35000206,Escola Nossa Senhora 207,3136702,MG,1,Uno,59.96
-35000980,Centro Educacional São José 981,2611101,PE,2,Uno,67.34
-35001019,Colégio Elite 1020,1302603,AM,1,Uno,62.92
-35000319,Liceu Exponencial 320,2609600,PE,1,Uno,70.89
-35000060,Escola São José 61,5208707,GO,2,Farias Brito,62.7
-35000141,Liceu Objetivo 142,4106902,PR,1,Kepler,58.84
-35000438,Academia Futuro 439,4106902,PR,1,Farias Brito,67.16
-35001105,Colégio São José 1106,4209102,SC,1,Farias Brito,73.51
-35000638,Centro Educacional Marista 639,4118204,PR,1,Kepler,67.94
-35000653,Academia Futuro 654,2313500,CE,1,Compartilha,56.53
-35000105,Escola Progresso 106,3106200,MG,1,Kepler,62.49
-35000194,Escola Elite 195,1302603,AM,1,Kepler,59.36
-35000379,Academia Pionero 380,4209102,SC,1,Farias Brito,56.08
-35000867,Colégio Marista 868,4106902,PR,1,Kepler,56.67
-35000441,Instituto de Ensino Alfa 442,4314902,RS,1,Farias Brito,61.29
-35001138,Escola Saber 1139,4209102,SC,1,Compartilha,59.82
-35000962,Colégio Santo Agostinho 963,3303302,RJ,1,Farias Brito,61.61
-35001096,Escola Dom Bosco 1097,3170206,MG,1,Farias Brito,61.25
-35001123,Instituto de Ensino Elite 1124,3509502,SP,1,Kepler,60.61
-35000745,Liceu Elite 746,2910800,BA,1,Uno,66.75
-35000766,Centro Educacional Marista 767,3170206,MG,1,Farias Brito,58.27
-35000185,Centro Educacional Fênix 186,2933307,BA,1,Kepler,53.21
-35000221,Centro Educacional Exponencial 222,2611101,PE,1,Uno,62.15
-35001016,Centro Educacional Progresso 1017,2313500,CE,1,Compartilha,57.68
-35000617,Academia São José 618,2611101,PE,1,Compartilha,55.25
-35000215,Liceu Futuro 216,4202404,SC,1,Kepler,62.19
-35000200,Escola Saber 201,3549805,SP,1,Compartilha,66.74
-35000239,Instituto de Ensino Marista 240,3136702,MG,1,Kepler,64.9
-35000706,Centro Educacional Objetivo 707,4304606,RS,1,Compartilha,57.21
-35000090,Liceu Albert Einstein 91,2304400,CE,1,Kepler,60.26
-35000712,Escola Anchieta 713,2910800,BA,1,Uno,67.29
-35000733,Escola Futuro 734,3170206,MG,1,Compartilha,60.12
-35000081,Instituto de Ensino Nossa Senhora 82,4205407,SC,1,Farias Brito,62.86
-35000927,Colégio Santo Agostinho 928,3304557,RJ,1,Kepler,61.34
-35000242,Colégio Pionero 243,4118204,PR,1,Kepler,59.43
-35001135,Colégio São José 1136,4304606,RS,1,Farias Brito,75.35
-35000757,Liceu Integral 758,2111300,MA,1,Kepler,59.67
-35000057,Escola Albert Einstein 58,2304400,CE,1,Compartilha,62.6
-35000477,Colégio Progresso 478,4205407,SC,1,Kepler,54.46
-35000197,Instituto de Ensino Marista 198,5002704,MS,1,Uno,59.63
-35000968,Centro Educacional Elite 969,4118204,PR,1,Compartilha,61.46
-35000885,Instituto de Ensino Marista 886,5208707,GO,1,Farias Brito,63.72
-35001010,Centro Educacional Vanguard 1011,2933307,BA,1,Compartilha,56.68
-35000310,Escola São José 311,4304606,RS,1,Farias Brito,66.6
-35000007,Liceu Saber 8,3170206,MG,1,Kepler,62.31
-35000179,Instituto de Ensino Exponencial 180,4316907,RS,1,Compartilha,64.69
-35000126,Escola Elite 127,5208707,GO,1,Kepler,61.67
-35001001,Colégio Anchieta 1002,4118204,PR,1,Uno,66.05
-35000394,Instituto de Ensino Saber 395,2111300,MA,1,Kepler,62.42
-35000647,Colégio Fênix 648,2933307,BA,1,Uno,68.0
-35001132,Instituto de Ensino Pionero 1133,4113700,PR,1,Kepler,64.47
-35000468,Instituto de Ensino Anchieta 469,3106200,MG,1,Kepler,64.72
-35000507,Centro Educacional Pionero 508,4314902,RS,1,Compartilha,64.24
-35001058,Academia Futuro 1059,3549805,SP,1,Kepler,59.35
-35001159,Colégio Vanguard 1160,3301702,RJ,1,Kepler,55.43
-35000093,Academia Fênix 94,5208707,GO,1,Farias Brito,67.14
-35001183,Academia Santo Agostinho 1184,5300108,DF,1,Farias Brito,57.73
-35000010,Academia Progresso 11,4113700,PR,1,Kepler,71.02
-35000909,Escola Progresso 910,2927408,BA,1,Uno,60.61
-35000066,Colégio Elite 67,3550308,SP,1,Farias Brito,70.76
-35000623,Liceu Albert Einstein 624,1302603,AM,1,Uno,63.26
-35000498,Academia Exponencial 499,3304557,RJ,1,Farias Brito,66.24
-35000635,Academia Pionero 636,3136702,MG,1,Compartilha,73.46
-35000763,Escola Dom Bosco 764,3301702,RJ,1,Uno,71.31
-35001168,Centro Educacional São José 1169,4304606,RS,2,Compartilha,54.05
-35000337,Liceu Progresso 338,3170206,MG,1,Compartilha,66.5
-35000861,Liceu Objetivo 862,3304557,RJ,1,Farias Brito,60.33
-35000391,Colégio Alfa 392,5300108,DF,1,Compartilha,48.74
-35000108,Escola Elite 109,4106902,PR,1,Compartilha,58.38
-35000843,Escola Anchieta 844,2927408,BA,1,Kepler,57.39
-35001186,Instituto de Ensino São José 1187,2111300,MA,1,Uno,63.12
-35000340,Liceu Alfa 341,4113700,PR,1,Farias Brito,72.06
-35000748,Instituto de Ensino São José 749,2609600,PE,1,Compartilha,55.33
-35000230,Escola Exponencial 231,5002704,MS,1,Compartilha,62.04
-35000602,Instituto de Ensino Alfa 603,3136702,MG,1,Uno,60.33
-35000903,Instituto de Ensino Elite 904,4314902,RS,1,Farias Brito,73.95
-35000918,Colégio Saber 919,5208707,GO,1,Farias Brito,60.73
-35000992,Colégio Futuro 993,3549805,SP,2,Kepler,59.97
-35000608,Liceu Saber 609,4316907,RS,1,Farias Brito,60.51
-35000587,Colégio Vanguard 588,2313500,CE,1,Uno,68.19
-35000132,Centro Educacional Elite 133,3550308,SP,1,Kepler,61.33
-35000382,Escola Fênix 383,2910800,BA,1,Kepler,55.71
-35000117,Liceu Vanguard 118,2927408,BA,1,Kepler,57.46
-35000632,Liceu São José 633,3303302,RJ,1,Farias Brito,65.08
-35000581,Academia Albert Einstein 582,2933307,BA,1,Uno,65.6
-35000504,Colégio São José 505,4106902,PR,1,Kepler,55.8
-35000873,Centro Educacional Anchieta 874,4205407,SC,1,Kepler,55.18
-35000444,Academia Elite 445,4205407,SC,1,Farias Brito,62.91
-35000260,Escola Nossa Senhora 261,1302603,AM,1,Compartilha,70.48
-35000266,Escola Marista 267,3549805,SP,1,Farias Brito,76.64
-35000447,Academia Nossa Senhora 448,2927408,BA,1,Uno,65.84
-35000385,Liceu Santa Cruz 386,2609600,PE,2,Compartilha,60.41
-35001004,Colégio Albert Einstein 1005,4316907,RS,1,Compartilha,55.82
-35000894,Escola Objetivo 895,3304557,RJ,1,Compartilha,68.87
-35001174,Centro Educacional Santo Agostinho 1175,2910800,BA,1,Compartilha,55.45
-35000760,Colégio Nossa Senhora 761,3509502,SP,1,Farias Brito,65.47
-35000313,Escola Santa Cruz 314,4209102,SC,1,Farias Brito,73.56
-35000269,Academia Alfa 270,3303302,RJ,1,Farias Brito,65.75
-35000218,Academia Exponencial 219,2933307,BA,1,Uno,64.43
-35000784,Centro Educacional Integral 785,2304202,CE,1,Uno,67.88
-35000837,Centro Educacional Albert Einstein 838,4314902,RS,1,Compartilha,65.12
-35000834,Escola Vanguard 835,4106902,PR,1,Compartilha,64.12
-35000307,Centro Educacional Nossa Senhora 308,4113700,PR,1,Compartilha,73.26
-35000793,Academia Alfa 794,3509502,SP,1,Farias Brito,55.43
-35000891,Escola Objetivo 892,3550308,SP,1,Farias Brito,70.31
-35001108,Centro Educacional Albert Einstein 1109,2910800,BA,1,Kepler,52.5
-35000236,Colégio Anchieta 237,3303302,RJ,1,Compartilha,50.05
-35000659,Liceu Nossa Senhora 660,5002704,MS,1,Uno,65.42
-35000254,Centro Educacional Anchieta 255,2611101,PE,1,Kepler,52.92
-35000831,Liceu Exponencial 832,3106200,MG,2,Compartilha,59.99
-35000772,Escola Albert Einstein 773,4304606,RS,1,Farias Brito,67.38
-35001171,Colégio Futuro 1172,4209102,SC,1,Kepler,58.4
-35000715,Escola Santo Agostinho 716,2609600,PE,1,Kepler,56.2
-35000584,Instituto de Ensino Nossa Senhora 585,2611101,PE,1,Uno,62.47
-35000272,Centro Educacional Integral 273,3136702,MG,1,Compartilha,60.08
-35000328,Escola Santo Agostinho 329,2111300,MA,1,Uno,64.32
-35001141,Instituto de Ensino Albert Einstein 1142,2910800,BA,1,Uno,63.08
-35000182,Liceu Futuro 183,4202404,SC,1,Compartilha,62.19
-35000051,Liceu Elite 52,2927408,BA,1,Uno,53.88
-35000096,Centro Educacional Albert Einstein 97,1501402,PA,1,Kepler,58.1
-35001144,Colégio Fênix 1145,2609600,PE,2,Uno,67.6
-35000138,Escola Alfa 139,3106200,MG,1,Kepler,62.62
-35001034,Colégio Santo Agostinho 1035,4118204,PR,1,Compartilha,59.44
-35000248,Escola Fênix 249,4202404,SC,1,Compartilha,54.1
-35000263,Colégio Marista 264,5002704,MS,1,Uno,57.5
-35000921,Academia Integral 922,1501402,PA,1,Uno,72.79
-35000486,Colégio Pionero 487,2304400,CE,1,Kepler,59.11
-35000626,Colégio Dom Bosco 627,5002704,MS,1,Uno,61.13
-35000233,Colégio Dom Bosco 234,3549805,SP,1,Farias Brito,80.78
-35000727,Liceu Exponencial 728,3509502,SP,1,Farias Brito,60.56
-35000364,Centro Educacional Dom Bosco 365,3509502,SP,1,Farias Brito,71.69
-35001120,Escola Saber 1121,2111300,MA,1,Uno,64.59
-35000775,Colégio Progresso 776,4209102,SC,1,Farias Brito,67.99
-35000641,Academia Marista 642,4316907,RS,2,Kepler,64.62
-35000355,Academia Albert Einstein 356,2304202,CE,1,Uno,61.81
-35000045,Centro Educacional Santo Agostinho 46,4314902,RS,1,Farias Brito,70.84
-35000846,Centro Educacional Albert Einstein 847,2611606,PE,1,Kepler,63.48
-35000465,Liceu Nossa Senhora 466,3304557,RJ,1,Kepler,60.28
-35000989,Escola Futuro 990,5002704,MS,1,Uno,59.66
-35000373,Centro Educacional Saber 374,4113700,PR,1,Farias Brito,65.05
-35000370,Academia Elite 371,3170206,MG,1,Farias Brito,74.38
-35000489,Escola Exponencial 490,5208707,GO,1,Compartilha,59.84
-35000102,Liceu Progresso 103,3304557,RJ,1,Kepler,61.73
-35000346,Academia Pionero 347,4209102,SC,1,Farias Brito,76.72
-35000528,Colégio Integral 529,3550308,SP,1,Kepler,59.63
-35000519,Centro Educacional Pionero 520,2304400,CE,1,Kepler,63.95
-35000361,Colégio Futuro 362,2111300,MA,1,Uno,71.75
-35000787,Escola Pionero 788,5300108,DF,1,Farias Brito,55.47
-35000778,Colégio Santo Agostinho 779,2910800,BA,1,Uno,66.77
-35000087,Centro Educacional Dom Bosco 88,2611606,PE,1,Kepler,63.11
-35000736,Escola Anchieta 737,4113700,PR,1,Farias Brito,67.29
-35000849,Colégio Santo Agostinho 850,2304400,CE,1,Uno,62.13
-35000114,Instituto de Ensino Integral 115,4205407,SC,1,Farias Brito,63.21
-35000209,Centro Educacional Santa Cruz 210,4118204,PR,1,Kepler,59.91
-35000099,Instituto de Ensino Vanguard 100,3550308,SP,1,Farias Brito,65.6
-35000840,Academia Elite 841,4205407,SC,1,Farias Brito,60.32
-35000075,Colégio Pionero 76,4106902,PR,1,Compartilha,58.47
-35000656,Instituto de Ensino Alfa 657,1302603,AM,1,Kepler,61.4
-35000790,Colégio Progresso 791,2111300,MA,1,Kepler,61.44
-35000054,Instituto de Ensino Albert Einstein 55,2611606,PE,1,Kepler,66.09
-35000593,Escola Pionero 594,5002704,MS,1,Uno,56.83
-35000084,Centro Educacional Anchieta 85,2927408,BA,1,Kepler,60.46
-35000212,Academia Objetivo 213,4316907,RS,1,Compartilha,63.76
-35000796,Instituto de Ensino Elite 797,3301702,RJ,1,Uno,61.24
-35000971,Instituto de Ensino Objetivo 972,4316907,RS,1,Kepler,63.29
-35000501,Instituto de Ensino Integral 502,3106200,MG,1,Kepler,55.7
-35000120,Centro Educacional Marista 121,2611606,PE,1,Uno,60.76
-35001150,Liceu Alfa 1151,5300108,DF,1,Kepler,48.41
-35000596,Liceu Saber 597,3549805,SP,1,Kepler,58.05
-35000516,Liceu Marista 517,2611606,PE,1,Uno,71.5
-35001180,Liceu Futuro 1181,2304202,CE,1,Kepler,50.91
-35000534,Colégio Elite 535,3106200,MG,1,Farias Brito,66.76
-35000650,Colégio Dom Bosco 651,2611101,PE,2,Uno,59.76
-35001031,Liceu Integral 1032,3136702,MG,1,Uno,62.89
-35000578,Escola Elite 579,4202404,SC,1,Kepler,60.95
-35000069,Academia Albert Einstein 70,3304557,RJ,1,Compartilha,65.24
-35000176,Colégio Anchieta 177,4118204,PR,2,Uno,55.38
-35000001,Centro Educacional Integral 2,3509502,SP,1,Farias Brito,70.21
-35000751,Liceu Nossa Senhora 752,2304202,CE,1,Kepler,52.42
-35000480,Liceu Santa Cruz 481,2927408,BA,1,Uno,64.87
-35000453,Centro Educacional Objetivo 454,2304400,CE,1,Uno,72.83
-35000912,Instituto de Ensino Pionero 913,2611606,PE,1,Kepler,63.59
-35000456,Instituto de Ensino Vanguard 457,5208707,GO,1,Kepler,59.8
-35001049,Instituto de Ensino Vanguard 1050,2313500,CE,1,Uno,60.67
-35000525,Liceu Pionero 526,1501402,PA,1,Kepler,61.4
-35000724,Colégio Pionero 725,2111300,MA,2,Compartilha,58.83
-35000072,Academia Marista 73,3106200,MG,1,Kepler,59.65
-35000703,Centro Educacional Santa Cruz 704,4113700,PR,1,Farias Brito,61.25
-35001055,Centro Educacional Fênix 1056,5002704,MS,1,Kepler,64.61
-35001153,Instituto de Ensino Exponencial 1154,2111300,MA,1,Compartilha,63.75
-35000203,Centro Educacional Fênix 204,3303302,RJ,1,Kepler,52.74
-35000855,Colégio Pionero 856,1501402,PA,1,Uno,64.57
-35000135,Academia Vanguard 136,3304557,RJ,1,Farias Brito,64.06
-35000316,Escola Elite 317,2910800,BA,1,Compartilha,54.75
-35000129,Academia São José 130,1501402,PA,1,Compartilha,56.23
-35001046,Academia Anchieta 1047,2611101,PE,1,Kepler,52.15
-35000403,Instituto de Ensino Fênix 404,3170206,MG,2,Compartilha,57.11
-35001102,Centro Educacional Alfa 1103,4304606,RS,1,Kepler,67.87
-35000700,Academia Dom Bosco 701,3170206,MG,1,Kepler,64.23
-35000605,Academia Alfa 606,4118204,PR,1,Kepler,61.2
-35000531,Liceu Santo Agostinho 532,3304557,RJ,1,Farias Brito,63.12
-35000376,Centro Educacional Vanguard 377,4304606,RS,1,Compartilha,63.32
-35000450,Escola Santa Cruz 451,2611606,PE,1,Compartilha,73.91
-35000004,Instituto de Ensino Nossa Senhora 5,3301702,RJ,1,Kepler,54.81
-35000662,Academia Dom Bosco 663,3549805,SP,1,Farias Brito,70.8
-35000251,Instituto de Ensino Alfa 252,2933307,BA,1,Uno,67.04
-35000620,Escola Progresso 621,2313500,CE,1,Kepler,58.07
-35000459,Instituto de Ensino Pionero 460,1501402,PA,1,Kepler,57.94
-35000769,Centro Educacional Albert Einstein 770,4113700,PR,1,Kepler,62.65
-35001114,Escola Marista 1115,2304202,CE,1,Compartilha,49.68
-35000754,Academia Santa Cruz 755,5300108,DF,1,Farias Brito,54.35
-35000879,Academia Vanguard 880,2611606,PE,1,Uno,70.4
-35000188,Escola Santa Cruz 189,2611101,PE,1,Uno,58.5
-35001147,Escola Pionero 1148,2304202,CE,1,Uno,60.17
-35000522,Centro Educacional Futuro 523,5208707,GO,1,Farias Brito,59.82
-35000614,Colégio São José 615,2933307,BA,1,Compartilha,51.1
-35000974,Liceu Futuro 975,4202404,SC,1,Farias Brito,72.56
-35000048,Escola Albert Einstein 49,4205407,SC,1,Compartilha,57.62
-35000876,Escola Saber 877,2927408,BA,1,Uno,62.39
-35000111,Instituto de Ensino Fênix 112,4314902,RS,1,Compartilha,63.18
-35000718,Academia São José 719,2304202,CE,1,Uno,61.47
-35000123,Colégio Anchieta 124,2304400,CE,1,Kepler,55.34
-35001025,Instituto de Ensino Santa Cruz 1026,3549805,SP,1,Compartilha,61.11
-35001052,Colégio Saber 1053,1302603,AM,1,Uno,65.64
-35000590,Instituto de Ensino Marista 591,1302603,AM,1,Uno,66.34
-35001099,Centro Educacional Objetivo 1100,4113700,PR,1,Compartilha,59.5
-35000924,Academia Exponencial 925,3550308,SP,1,Compartilha,56.57
-35000322,Instituto de Ensino Albert Einstein 323,2304202,CE,1,Uno,63.18
-35000888,Centro Educacional Progresso 889,1501402,PA,1,Uno,67.9
-35000900,Colégio Anchieta 901,4106902,PR,1,Compartilha,61.81
-35001189,Colégio Santa Cruz 1190,3509502,SP,1,Compartilha,58.02
-35000331,Centro Educacional Nossa Senhora 332,3509502,SP,1,Kepler,60.03
-35000572,Liceu São José 573,4118204,PR,1,Uno,62.76
-35000334,Academia Anchieta 335,3301702,RJ,1,Uno,64.12
-35000721,Centro Educacional Saber 722,5300108,DF,1,Farias Brito,52.95
-35000852,Centro Educacional Futuro 853,5208707,GO,1,Kepler,66.93
-35001013,Instituto de Ensino Exponencial 1014,2611101,PE,1,Kepler,53.92
-35000709,Instituto de Ensino Marista 710,4209102,SC,1,Farias Brito,73.65
-35000471,Instituto de Ensino Pionero 472,4106902,PR,1,Farias Brito,68.75
-35000665,Colégio Progresso 666,3303302,RJ,1,Kepler,50.98
-35001117,Instituto de Ensino Elite 1118,5300108,DF,1,Compartilha,48.85
-35001007,Centro Educacional Elite 1008,4202404,SC,1,Farias Brito,77.51
-35001037,Centro Educacional Dom Bosco 1038,4316907,RS,1,Uno,60.45
-35000492,Instituto de Ensino Exponencial 493,1501402,PA,1,Kepler,56.15
-35000510,Instituto de Ensino Vanguard 511,4205407,SC,1,Kepler,52.58
-35001111,Escola Saber 1112,2609600,PE,1,Uno,66.74
-35000882,Instituto de Ensino Santo Agostinho 883,2304400,CE,1,Kepler,60.17
-35000599,Instituto de Ensino Progresso 600,3303302,RJ,1,Farias Brito,62.11
-35000575,Academia Marista 576,4316907,RS,1,Kepler,63.32
-35001165,Colégio Santo Agostinho 1166,4113700,PR,1,Farias Brito,70.69
-35000474,Escola Marista 475,4314902,RS,1,Farias Brito,74.16
-35000483,Instituto de Ensino Albert Einstein 484,2611606,PE,1,Uno,66.07
-35001093,Academia São José 1094,3301702,RJ,1,Kepler,56.4
-35000397,Liceu Anchieta 398,3509502,SP,1,Kepler,60.6
-35000352,Academia Alfa 353,2609600,PE,1,Uno,62.49
-35000906,Academia Santa Cruz 907,4205407,SC,1,Kepler,57.52
-35000781,Colégio Santa Cruz 782,2609600,PE,1,Uno,70.46
-35000864,Instituto de Ensino Exponencial 865,3106200,MG,1,Kepler,60.83
-35001129,Escola Elite 1130,3170206,MG,1,Farias Brito,63.48
-35001156,Centro Educacional Vanguard 1157,3509502,SP,1,Farias Brito,64.96
-35000986,Colégio Nossa Senhora 987,1302603,AM,2,Uno,70.48
-35000495,Centro Educacional Exponencial 496,3550308,SP,1,Farias Brito,63.02
-35000358,Academia Exponencial 359,5300108,DF,1,Kepler,48.24
-35000513,Liceu Futuro 514,2927408,BA,1,Kepler,60.41
-35001022,Instituto de Ensino Marista 1023,5002704,MS,1,Kepler,68.43
-35000257,Colégio Alfa 258,2313500,CE,1,Uno,61.6
-35000995,Centro Educacional Elite 996,3303302,RJ,1,Kepler,52.22
-35001043,Liceu Santo Agostinho 1044,2933307,BA,1,Kepler,54.76
-35000858,Colégio Santa Cruz 859,3550308,SP,1,Kepler,55.08
-35001040,Colégio Anchieta 1041,4202404,SC,1,Kepler,58.59
-35000191,Liceu Pionero 192,2313500,CE,1,Uno,66.2
-35000730,Centro Educacional Santo Agostinho 731,3301702,RJ,1,Compartilha,51.63
-35000341,Escola Exponencial 342,4118204,PR,1,Uno,64.42
-35000323,Instituto de Ensino Pionero 324,2313500,CE,1,Kepler,56.64
-35001130,Liceu Integral 1131,3136702,MG,1,Kepler,65.97
-35000305,Academia Nossa Senhora 306,3136702,MG,1,Uno,57.6
-35000275,Liceu Exponencial 276,4118204,PR,1,Kepler,62.7
-35000606,Liceu Nossa Senhora 607,4314902,RS,1,Farias Brito,71.33
-35000680,Colégio Albert Einstein 681,2933307,BA,1,Uno,60.1
-35000579,Liceu Santo Agostinho 580,2927408,BA,1,Kepler,56.16
-35000103,Escola Vanguard 104,3301702,RJ,1,Kepler,56.68
-35001133,Liceu Pionero 1134,4118204,PR,1,Uno,62.92
-35000856,Liceu Elite 857,2111300,MA,1,Uno,72.39
-35001061,Instituto de Ensino Santo Agostinho 1062,3303302,RJ,1,Farias Brito,55.68
-35000963,Liceu Alfa 964,3106200,MG,1,Farias Brito,66.71
-35000969,Escola Elite 970,4314902,RS,1,Kepler,63.18
-35000999,Escola Futuro 1000,4106902,PR,1,Kepler,56.13
-35000216,Colégio Saber 217,2927408,BA,2,Kepler,56.93
-35000948,Escola Saber 949,2304400,CE,1,Kepler,60.13
-35000046,Liceu São José 47,4304606,RS,1,Farias Brito,59.56
-35000603,Academia Vanguard 604,4106902,PR,1,Kepler,59.63
-35000293,Colégio Santa Cruz 294,1302603,AM,1,Uno,72.42
-35000287,Instituto de Ensino Santo Agostinho 288,2611101,PE,1,Kepler,52.1
-35000418,Escola Vanguard 419,2609600,PE,1,Uno,60.41
-35000597,Liceu Alfa 598,3304557,RJ,1,Compartilha,62.54
-35000156,Liceu Santo Agostinho 157,2304400,CE,1,Kepler,62.03
-35000686,Academia Vanguard 687,2313500,CE,1,Compartilha,56.73
-35001067,Centro Educacional Objetivo 1068,4118204,PR,1,Uno,62.37
-35000722,Academia Objetivo 723,1302603,AM,1,Kepler,62.99
-35000231,Centro Educacional Futuro 232,3550308,SP,1,Kepler,54.16
-35000576,Liceu Progresso 577,4205407,SC,1,Farias Brito,46.95
-35000094,Colégio Anchieta 95,5300108,DF,1,Kepler,48.6
-35000284,Liceu Nossa Senhora 285,2933307,BA,1,Compartilha,55.68
-35000755,Escola Dom Bosco 756,1302603,AM,1,Uno,60.9
-35000874,Liceu Exponencial 875,4209102,SC,1,Farias Brito,57.63
-35000153,Centro Educacional Alfa 154,2611606,PE,1,Uno,60.31
-35000019,Colégio Pionero 20,2910800,BA,1,Kepler,53.48
-35000362,Academia São José 363,5002704,MS,1,Kepler,65.69
-35000841,Academia Dom Bosco 842,4209102,SC,1,Farias Brito,64.76
-35000701,Instituto de Ensino Futuro 702,3136702,MG,1,Kepler,63.78
-35000984,Instituto de Ensino Exponencial 985,5208707,GO,1,Kepler,62.83
-35000966,Colégio Pionero 967,4106902,PR,1,Farias Brito,62.23
-35000630,Liceu Anchieta 631,3304557,RJ,1,Compartilha,60.22
-35001088,Liceu Vanguard 1089,5002704,MS,1,Uno,57.63
-35000201,Liceu Marista 202,3304557,RJ,1,Farias Brito,63.23
-35000228,Liceu Anchieta 229,1501402,PA,1,Compartilha,56.84
-35000573,Centro Educacional Progresso 574,4314902,RS,1,Kepler,58.32
-35000549,Colégio Futuro 550,2611606,PE,1,Kepler,65.32
-35000868,Academia Fênix 869,4113700,PR,1,Farias Brito,64.43
-35001008,Centro Educacional Albert Einstein 1009,2927408,BA,2,Kepler,60.29
-35000082,Academia Dom Bosco 83,4209102,SC,1,Compartilha,63.27
-35000097,Liceu Dom Bosco 98,2111300,MA,1,Kepler,64.12
-35000493,Centro Educacional Dom Bosco 494,2111300,MA,1,Uno,64.5
-35000329,Centro Educacional Santa Cruz 330,5002704,MS,1,Farias Brito,63.04
-35000725,Colégio Alfa 726,5002704,MS,1,Compartilha,57.62
-35001076,Colégio Alfa 1077,2933307,BA,1,Uno,64.25
-35000076,Instituto de Ensino Saber 77,4113700,PR,1,Compartilha,74.28
-35000079,Escola Alfa 80,4304606,RS,2,Kepler,59.66
-35000939,Colégio Progresso 940,4205407,SC,1,Kepler,54.55
-35001154,Centro Educacional Objetivo 1155,5002704,MS,1,Compartilha,57.79
-35000311,Academia Albert Einstein 312,4316907,RS,1,Uno,62.67
-35000981,Colégio Santo Agostinho 982,2304400,CE,1,Uno,62.65
-35001142,Centro Educacional Elite 1143,2933307,BA,1,Compartilha,51.88
-35000850,Centro Educacional Exponencial 851,2304202,CE,1,Compartilha,54.95
-35000731,Escola Objetivo 732,3303302,RJ,1,Farias Brito,60.64
-35000359,Instituto de Ensino Progresso 360,1302603,AM,1,Uno,61.45
-35001139,Instituto de Ensino Objetivo 1140,4202404,SC,1,Farias Brito,61.34
-35000829,Academia Objetivo 830,3301702,RJ,1,Compartilha,60.58
-35000871,Centro Educacional Integral 872,4304606,RS,1,Kepler,62.85
-35000189,Instituto de Ensino Fênix 190,2304400,CE,1,Uno,69.38
-35000582,Instituto de Ensino Vanguard 583,2611606,PE,1,Uno,67.17
-35000954,Instituto de Ensino São José 955,1501402,PA,1,Uno,73.46
-35000368,Centro Educacional Pionero 369,3303302,RJ,2,Kepler,50.59
-35000070,Colégio Pionero 71,3301702,RJ,2,Uno,61.9
-35000472,Escola Santa Cruz 473,4113700,PR,1,Farias Brito,59.96
-35000296,Liceu Santo Agostinho 297,5002704,MS,1,Uno,65.35
-35000886,Instituto de Ensino Saber 887,5300108,DF,1,Farias Brito,58.24
-35000561,Liceu Dom Bosco 562,3550308,SP,2,Kepler,57.25
-35000987,Liceu Integral 988,1501402,PA,1,Uno,70.47
-35000067,Centro Educacional Santa Cruz 68,3509502,SP,1,Kepler,60.82
-35000204,Instituto de Ensino Futuro 205,3106200,MG,2,Farias Brito,61.78
-35000612,Colégio Fênix 613,2927408,BA,1,Kepler,57.61
-35000567,Colégio Futuro 568,3106200,MG,1,Farias Brito,57.12
-35001136,Escola Albert Einstein 1137,4316907,RS,1,Compartilha,53.21
-35000106,Centro Educacional Objetivo 107,3170206,MG,1,Farias Brito,65.21
-35000540,Instituto de Ensino Santo Agostinho 541,4314902,RS,1,Kepler,59.82
-35001014,Academia Progresso 1015,2304400,CE,1,Kepler,58.91
-35000704,Centro Educacional Dom Bosco 705,4118204,PR,1,Kepler,59.44
-35001073,Academia Exponencial 1074,4202404,SC,1,Kepler,61.56
-35000558,Colégio Saber 559,1501402,PA,1,Uno,75.98
-35001106,Liceu Santa Cruz 1107,4202404,SC,2,Farias Brito,70.3
-35000808,Instituto de Ensino Albert Einstein 809,4209102,SC,1,Farias Brito,65.25
-35000314,Centro Educacional São José 315,4202404,SC,1,Farias Brito,61.1
-35000335,Centro Educacional Progresso 336,3303302,RJ,1,Kepler,50.71
-35000945,Centro Educacional Alfa 946,2611606,PE,1,Uno,59.29
-35000165,Centro Educacional Santo Agostinho 166,3550308,SP,1,Compartilha,59.5
-35000817,Instituto de Ensino Progresso 818,2304202,CE,1,Uno,58.66
-35000674,Centro Educacional Dom Bosco 675,4316907,RS,1,Kepler,63.97
-35000570,Colégio Marista 571,4106902,PR,1,Kepler,54.62
-35000445,Centro Educacional Integral 446,4209102,SC,1,Kepler,59.34
-35000192,Instituto de Ensino São José 193,5208707,GO,1,Farias Brito,61.23
-35000734,Academia Elite 735,3136702,MG,1,Uno,63.49
-35000588,Instituto de Ensino Vanguard 589,5208707,GO,1,Kepler,67.97
-35000740,Instituto de Ensino Vanguard 741,4316907,RS,1,Compartilha,59.06
-35000811,Liceu Objetivo 812,2910800,BA,1,Kepler,54.77
-35000210,Escola Objetivo 211,4314902,RS,1,Farias Brito,68.46
-35000546,Colégio Vanguard 547,2927408,BA,2,Kepler,59.01
-35000972,Centro Educacional Integral 973,4205407,SC,1,Kepler,55.34
-35000487,Liceu São José 488,2304202,CE,1,Compartilha,48.88
-35000043,Liceu Marista 44,4113700,PR,1,Compartilha,61.65
-35000618,Instituto de Ensino Albert Einstein 619,2304400,CE,1,Uno,69.96
-35000499,Escola Albert Einstein 500,3301702,RJ,1,Uno,64.0
-35000234,Academia São José 235,3304557,RJ,1,Kepler,58.94
-35000600,Colégio Pionero 601,3106200,MG,1,Farias Brito,73.1
-35000162,Colégio Futuro 163,1501402,PA,1,Uno,62.88
-35000091,Liceu Objetivo 92,2304202,CE,1,Uno,62.41
-35000424,Academia Alfa 425,5300108,DF,1,Farias Brito,61.71
-35000073,Centro Educacional Integral 74,3170206,MG,1,Farias Brito,69.47
-35000344,Liceu Exponencial 345,4316907,RS,1,Kepler,60.09
-35000174,Academia Anchieta 175,4106902,PR,1,Kepler,59.07
-35001085,Academia Futuro 1086,1302603,AM,1,Uno,60.13
-35000960,Instituto de Ensino Progresso 961,3304557,RJ,1,Farias Brito,68.47
-35001082,Liceu Integral 1083,2313500,CE,1,Uno,62.04
-35000150,Academia Exponencial 151,2927408,BA,1,Uno,67.49
-35001124,Instituto de Ensino Elite 1125,3549805,SP,1,Compartilha,53.15
-35000826,Instituto de Ensino Nossa Senhora 827,3509502,SP,1,Kepler,58.74
-35001064,Instituto de Ensino Pionero 1065,3136702,MG,1,Uno,56.21
-35001100,Liceu Albert Einstein 1101,4118204,PR,1,Compartilha,57.55
-35000013,Colégio Elite 14,4304606,RS,1,Compartilha,64.58
-35000421,Colégio Elite 422,2304202,CE,1,Uno,63.55
-35000865,Escola Objetivo 866,3170206,MG,1,Compartilha,71.66
-35000668,Centro Educacional Objetivo 669,3136702,MG,1,Uno,54.02
-35000543,Centro Educacional Fênix 544,4205407,SC,1,Compartilha,54.83
-35000186,Centro Educacional Elite 187,2611606,PE,1,Uno,61.53
-35000016,Academia Santo Agostinho 17,4209102,SC,1,Kepler,60.97
-35000299,Centro Educacional Dom Bosco 300,3549805,SP,1,Farias Brito,61.58
-35000207,Escola Anchieta 208,4106902,PR,1,Farias Brito,66.11
-35000451,Colégio Santa Cruz 452,2609600,PE,1,Kepler,58.48
-35000695,Escola Pionero 696,3549805,SP,1,Farias Brito,61.72
-35000442,Liceu Exponencial 443,4304606,RS,1,Compartilha,63.12
-35000707,Academia Albert Einstein 708,4316907,RS,1,Uno,56.28
-35000225,Escola Santo Agostinho 226,5208707,GO,1,Farias Brito,61.1
-35000064,Escola Saber 65,2111300,MA,1,Compartilha,55.23
-35000594,Colégio Marista 595,3550308,SP,1,Kepler,57.06
-35000877,Centro Educacional Futuro 878,2910800,BA,1,Kepler,54.64
-35000281,Academia Santa Cruz 282,4202404,SC,2,Compartilha,63.76
-35000213,Colégio Santa Cruz 214,4205407,SC,1,Compartilha,58.17
-35000933,Colégio Objetivo 934,4106902,PR,2,Kepler,59.53
-35000326,Academia Integral 327,1302603,AM,1,Kepler,62.25
-35000615,Escola Alfa 616,2611606,PE,1,Kepler,64.62
-35000031,Centro Educacional Futuro 32,2111300,MA,2,Compartilha,74.93
-35000037,Liceu Vanguard 38,3301702,RJ,1,Uno,55.89
-35000356,Academia Integral 357,2313500,CE,1,Kepler,57.73
-35000055,Instituto de Ensino Santa Cruz 56,2609600,PE,1,Uno,67.61
-35000996,Centro Educacional Alfa 997,3106200,MG,2,Kepler,61.86
-35000713,Instituto de Ensino Albert Einstein 714,2933307,BA,1,Kepler,52.85
-35000889,Centro Educacional São José 890,2111300,MA,1,Uno,72.7
-35001112,Centro Educacional Vanguard 1113,2611101,PE,1,Compartilha,53.81
-35000537,Centro Educacional Anchieta 538,4106902,PR,1,Kepler,57.6
-35000671,Colégio Exponencial 672,4118204,PR,1,Uno,60.22
-35000978,Centro Educacional Elite 979,2611606,PE,1,Kepler,62.38
-35000859,Colégio Marista 860,3509502,SP,1,Compartilha,64.63
-35000168,Centro Educacional Marista 169,3304557,RJ,1,Compartilha,64.34
-35000942,Colégio Elite 943,2927408,BA,1,Compartilha,56.09
-35000758,Liceu Futuro 759,5002704,MS,1,Compartilha,64.02
-35000802,Instituto de Ensino Saber 803,4113700,PR,1,Kepler,68.27
-35000028,Colégio Santo Agostinho 29,5300108,DF,1,Farias Brito,58.69
-35000439,Escola Exponencial 440,4113700,PR,1,Kepler,69.91
-35000883,Colégio Nossa Senhora 884,2304202,CE,1,Compartilha,51.69
-35000237,Instituto de Ensino Marista 238,3106200,MG,1,Farias Brito,62.8
-35000481,Escola Santa Cruz 482,2910800,BA,1,Uno,72.61
-35000555,Instituto de Ensino Anchieta 556,5208707,GO,1,Kepler,61.56
-35000460,Escola Albert Einstein 461,2111300,MA,1,Kepler,63.26
-35000823,Instituto de Ensino Nossa Senhora 824,2111300,MA,1,Uno,59.1
-35001118,Colégio Albert Einstein 1119,1302603,AM,1,Uno,73.42
-35000892,Escola Vanguard 893,3509502,SP,1,Farias Brito,54.06
-35000412,Escola Pionero 413,4209102,SC,1,Farias Brito,68.61
-35000406,Centro Educacional Progresso 407,4113700,PR,1,Farias Brito,65.69
-35000100,Escola Integral 101,3509502,SP,1,Farias Brito,69.02
-35000862,Centro Educacional Albert Einstein 863,3301702,RJ,1,Compartilha,52.19
-35000799,Escola Santa Cruz 800,3170206,MG,1,Compartilha,68.84
-35000427,Centro Educacional Fênix 428,2111300,MA,1,Uno,57.62
-35001121,Centro Educacional Fênix 1122,5002704,MS,1,Farias Brito,64.47
-35000025,Liceu Marista 26,2304202,CE,1,Compartilha,46.18
-35001145,Colégio Santo Agostinho 1146,2611101,PE,1,Uno,60.79
-35000448,Centro Educacional Objetivo 449,2910800,BA,1,Compartilha,53.27
-35000564,Colégio Santa Cruz 565,3304557,RJ,1,Farias Brito,66.4
-35000743,Academia Pionero 744,4202404,SC,2,Compartilha,60.89
-35000290,Colégio Futuro 291,2313500,CE,1,Uno,54.15
-35000180,Instituto de Ensino Anchieta 181,4205407,SC,1,Kepler,56.58
-35000430,Instituto de Ensino Dom Bosco 431,3509502,SP,1,Kepler,58.5
-35000061,Academia Dom Bosco 62,5300108,DF,1,Farias Brito,53.07
-35001070,Academia Pionero 1071,4316907,RS,1,Uno,62.17
-35000052,Liceu Objetivo 53,2910800,BA,2,Kepler,56.24
-35001115,Instituto de Ensino Anchieta 1116,2313500,CE,2,Compartilha,52.24
-35000621,Academia Marista 622,5208707,GO,1,Kepler,58.21
-35000147,Academia Progresso 148,4205407,SC,1,Kepler,56.31
-35000338,Liceu Alfa 339,3136702,MG,1,Kepler,61.58
-35000716,Escola Progresso 717,2611101,PE,1,Uno,61.78
-35000698,Centro Educacional Albert Einstein 699,3303302,RJ,1,Farias Brito,67.41
-35000719,Academia Saber 720,2313500,CE,2,Compartilha,55.28
-35001103,Escola Vanguard 1104,4316907,RS,1,Kepler,58.56
-35001097,Academia São José 1098,3136702,MG,1,Uno,58.63
-35001157,Instituto de Ensino Futuro 1158,3549805,SP,1,Kepler,56.61
-35000463,Escola Pionero 464,3509502,SP,1,Farias Brito,60.84
-35000585,Escola Exponencial 586,2304400,CE,1,Uno,68.3
-35000710,Academia Elite 711,4202404,SC,1,Kepler,64.98
-35001109,Instituto de Ensino Albert Einstein 1110,2933307,BA,1,Uno,63.1
-35001005,Escola Exponencial 1006,4205407,SC,1,Kepler,54.07
-35000433,Escola Futuro 434,3301702,RJ,2,Compartilha,56.73
-35000844,Liceu Elite 845,2910800,BA,1,Kepler,52.98
-35000332,Instituto de Ensino Elite 333,3549805,SP,1,Farias Brito,77.4
-35000993,Colégio Marista 994,3304557,RJ,1,Farias Brito,60.88
-35000552,Academia Exponencial 553,2304400,CE,1,Kepler,58.43
-35000353,Colégio Alfa 354,2611101,PE,1,Kepler,53.64
-35001195,Colégio Santo Agostinho 1196,3170206,MG,1,Kepler,62.78
-35000820,Escola Pionero 821,5300108,DF,1,Kepler,48.53
-35001011,Liceu Saber 1012,2611606,PE,1,Kepler,60.93
-35000880,Liceu Anchieta 881,2609600,PE,1,Kepler,56.68
-35000469,Academia Santa Cruz 470,3170206,MG,1,Kepler,61.35
-35001020,Escola Albert Einstein 1021,1501402,PA,1,Kepler,55.94
-35000835,Liceu Anchieta 836,4113700,PR,1,Compartilha,53.55
-35000847,Liceu Albert Einstein 848,2609600,PE,1,Uno,75.12
-35000627,Instituto de Ensino Anchieta 628,3550308,SP,1,Farias Brito,74.89
-35000752,Escola São José 753,2313500,CE,1,Uno,67.33
-35001148,Colégio Objetivo 1149,2313500,CE,1,Uno,63.85
-35000365,Escola Fênix 366,3549805,SP,1,Farias Brito,72.56
-35000085,Academia Integral 86,2910800,BA,1,Uno,59.3
-35000490,Escola Fênix 491,5300108,DF,1,Farias Brito,60.36
-35000677,Escola Alfa 678,4202404,SC,1,Compartilha,56.05
-35000814,Escola Anchieta 815,2609600,PE,1,Compartilha,55.45
-35000457,Centro Educacional Objetivo 458,5300108,DF,1,Kepler,48.4
-35000308,Escola Saber 309,4118204,PR,1,Kepler,65.17
-35000466,Instituto de Ensino Progresso 467,3301702,RJ,1,Compartilha,57.19
-35000171,Instituto de Ensino Saber 172,3106200,MG,1,Farias Brito,55.5
-35000496,Academia Albert Einstein 497,3509502,SP,1,Kepler,58.16
-35000034,Colégio Exponencial 35,3509502,SP,1,Kepler,56.92
-35000838,Liceu Exponencial 839,4304606,RS,1,Farias Brito,70.56
-35001017,Colégio Santa Cruz 1018,5208707,GO,1,Kepler,64.56
-35001091,Colégio Vanguard 1092,3549805,SP,1,Farias Brito,70.07
-35001198,Liceu Santa Cruz 1199,4113700,PR,1,Compartilha,64.76
-35000454,Escola Futuro 455,2304202,CE,1,Kepler,53.23
-35001094,Liceu Progresso 1095,3303302,RJ,1,Kepler,51.67
-35000957,Colégio Alfa 958,3550308,SP,1,Kepler,60.03
-35000853,Liceu Objetivo 854,5300108,DF,2,Farias Brito,53.48
-35000749,Instituto de Ensino Exponencial 750,2611101,PE,1,Uno,61.36
-35000317,Instituto de Ensino Elite 318,2933307,BA,2,Kepler,53.14
-35000689,Colégio Elite 690,1302603,AM,1,Kepler,64.23
-35001127,Academia Dom Bosco 1128,3303302,RJ,1,Farias Brito,56.86
-35000624,Colégio Marista 625,1501402,PA,1,Compartilha,58.55
-35000183,Instituto de Ensino São José 184,2927408,BA,1,Compartilha,50.98
-35000415,Liceu Anchieta 416,2910800,BA,1,Uno,69.01
-35001079,Instituto de Ensino Marista 1080,2611101,PE,1,Kepler,52.07
-35000975,Instituto de Ensino Marista 976,2927408,BA,2,Uno,66.6
-35000728,Colégio Vanguard 729,3549805,SP,1,Farias Brito,59.66
-35000484,Academia São José 485,2609600,PE,1,Uno,65.83
-35000022,Colégio Exponencial 23,2609600,PE,1,Kepler,57.91
-35000761,Academia São José 762,3549805,SP,1,Farias Brito,61.97
-35000832,Colégio Futuro 833,3170206,MG,1,Kepler,67.31
-35000591,Liceu Dom Bosco 592,1501402,PA,1,Uno,63.9
-35000478,Liceu Pionero 479,4209102,SC,1,Farias Brito,58.89
-35001151,Escola Santa Cruz 1152,1302603,AM,1,Kepler,59.9
-35000144,Colégio Vanguard 145,4314902,RS,1,Kepler,61.15
-35000475,Instituto de Ensino Pionero 476,4304606,RS,1,Kepler,60.06
-35000278,Escola Fênix 279,4316907,RS,1,Uno,56.59
-35001192,Escola Nossa Senhora 1193,3301702,RJ,1,Kepler,55.16
-35000347,Escola Nossa Senhora 348,4202404,SC,2,Compartilha,66.34
-35000195,Centro Educacional Alfa 196,1501402,PA,1,Kepler,55.05
-35000198,Centro Educacional Vanguard 199,3550308,SP,1,Kepler,56.79
-35000683,Instituto de Ensino Santo Agostinho 684,2611101,PE,1,Uno,54.9
-35000350,Centro Educacional Integral 351,2933307,BA,1,Kepler,53.59
-35000746,Academia Elite 747,2933307,BA,1,Kepler,55.47
-35000222,Academia Nossa Senhora 223,2304400,CE,1,Compartilha,65.18
-35000088,Liceu Integral 89,2609600,PE,1,Kepler,55.12
-35000930,Liceu Santa Cruz 931,3106200,MG,1,Farias Brito,66.43
-35000990,Instituto de Ensino Futuro 991,3550308,SP,1,Farias Brito,77.4
-35000951,Colégio Alfa 952,5208707,GO,1,Farias Brito,53.64
-35000177,Colégio Alfa 178,4314902,RS,1,Compartilha,61.05
-35001023,Escola Saber 1024,3550308,SP,1,Farias Brito,59.41
-35000436,Liceu Marista 437,3170206,MG,1,Compartilha,65.17
-35000040,Colégio Elite 41,3170206,MG,1,Farias Brito,63.79
-35000159,Academia Alfa 160,5208707,GO,1,Farias Brito,62.75
-35000609,Instituto de Ensino Albert Einstein 610,4205407,SC,1,Farias Brito,60.75
-35000737,Escola Santo Agostinho 738,4118204,PR,1,Uno,57.99
-35000320,Academia Dom Bosco 321,2611101,PE,1,Kepler,53.57
-35000805,Colégio Santa Cruz 806,4304606,RS,1,Farias Brito,69.81
-35000302,Academia Alfa 303,3303302,RJ,1,Kepler,52.51
-35000058,Liceu Santo Agostinho 59,2304202,CE,1,Uno,55.75
-35000936,Centro Educacional Albert Einstein 937,4314902,RS,2,Compartilha,52.42
-35001002,Escola Santa Cruz 1003,4314902,RS,2,Farias Brito,58.52
-35000692,Centro Educacional Exponencial 693,5002704,MS,1,Compartilha,61.69
-35000219,Escola Alfa 220,2611606,PE,1,Uno,69.61
-35000409,Liceu Santo Agostinho 410,4304606,RS,1,Farias Brito,67.55
-35000049,Colégio Fênix 50,4209102,SC,1,Kepler,58.95
-35001199,Escola Dom Bosco 1200,4118204,PR,1,Kepler,59.87
-35000383,Escola Santo Agostinho 384,2933307,BA,1,Uno,58.37
-35000300,Academia Dom Bosco 301,3304557,RJ,1,Kepler,59.59
-35000115,Escola Elite 116,4209102,SC,1,Farias Brito,72.82
-35000860,Academia Dom Bosco 861,3549805,SP,1,Farias Brito,63.48
-35000324,Liceu Fênix 325,5208707,GO,1,Farias Brito,61.64
-35000511,Instituto de Ensino Progresso 512,4209102,SC,1,Farias Brito,64.33
-35000386,Liceu Progresso 387,2611101,PE,1,Uno,63.8
-35000961,Academia Anchieta 962,3301702,RJ,1,Kepler,58.16
-35000389,Academia Marista 390,2313500,CE,1,Compartilha,57.07
-35000693,Colégio Albert Einstein 694,3550308,SP,2,Kepler,56.75
-35000794,Instituto de Ensino Progresso 795,3549805,SP,1,Kepler,57.23
-35000934,Escola Santo Agostinho 935,4113700,PR,1,Compartilha,67.01
-35000029,Centro Educacional Santa Cruz 30,1302603,AM,1,Kepler,62.21
-35000988,Colégio Fênix 989,2111300,MA,1,Uno,71.3
-35000371,Escola Objetivo 372,3136702,MG,1,Kepler,58.2
-35001062,Academia Futuro 1063,3106200,MG,1,Farias Brito,68.18
-35000401,Colégio Futuro 402,3303302,RJ,2,Farias Brito,63.5
-35000982,Escola Santo Agostinho 983,2304202,CE,1,Kepler,52.31
-35000705,Instituto de Ensino Saber 706,4314902,RS,1,Kepler,56.67
-35000717,Centro Educacional Progresso 718,2304400,CE,1,Compartilha,57.77
-35000502,Liceu Vanguard 503,3170206,MG,1,Kepler,67.1
-35000508,Escola Futuro 509,4304606,RS,1,Kepler,63.18
-35000946,Centro Educacional Pionero 947,2609600,PE,1,Uno,55.44
-35000803,Liceu Dom Bosco 804,4118204,PR,1,Uno,61.39
-35000559,Colégio Integral 560,2111300,MA,1,Kepler,62.56
-35000261,Centro Educacional Albert Einstein 262,1501402,PA,1,Kepler,60.9
-35000544,Liceu Nossa Senhora 545,4209102,SC,1,Kepler,60.19
-35000178,Colégio Elite 179,4304606,RS,1,Kepler,58.65
-35000270,Colégio Progresso 271,3106200,MG,1,Kepler,60.94
-35000657,Instituto de Ensino Integral 658,1501402,PA,1,Uno,67.38
-35000910,Liceu São José 911,2910800,BA,1,Uno,65.23
-35000196,Academia Albert Einstein 197,2111300,MA,2,Uno,69.1
-35000821,Academia São José 822,1302603,AM,1,Kepler,59.8
-35000291,Escola Alfa 292,5208707,GO,1,Farias Brito,64.04
-35000068,Academia Nossa Senhora 69,3549805,SP,1,Kepler,56.08
-35000678,Liceu Saber 679,2927408,BA,1,Uno,57.0
-35000696,Colégio Nossa Senhora 697,3304557,RJ,1,Kepler,58.45
-35001172,Escola Anchieta 1173,4202404,SC,1,Kepler,61.71
-35000377,Liceu Saber 378,4316907,RS,1,Kepler,59.56
-35000904,Centro Educacional Nossa Senhora 905,4304606,RS,1,Kepler,65.31
-35000577,Academia Objetivo 578,4209102,SC,1,Farias Brito,57.18
-35000848,Instituto de Ensino Marista 849,2611101,PE,2,Uno,59.21
-35000931,Instituto de Ensino Fênix 932,3170206,MG,1,Compartilha,59.79
-35001038,Instituto de Ensino Pionero 1039,4205407,SC,1,Compartilha,60.19
-35000074,Liceu Alfa 75,3136702,MG,1,Uno,60.72
-35000633,Academia Elite 634,3106200,MG,1,Farias Brito,76.26
-35001116,Colégio Futuro 1117,5208707,GO,1,Farias Brito,66.36
-35000145,Academia Nossa Senhora 146,4304606,RS,1,Compartilha,55.85
-35001086,Liceu Fênix 1087,1501402,PA,1,Kepler,60.94
-35001178,Colégio Santo Agostinho 1179,2611101,PE,1,Kepler,51.87
-35000407,Centro Educacional Objetivo 408,4118204,PR,1,Uno,56.91
-35000425,Academia Pionero 426,1302603,AM,1,Compartilha,65.95
-35000964,Escola Pionero 965,3170206,MG,1,Compartilha,63.66
-35000053,Colégio Marista 54,2933307,BA,1,Kepler,52.54
-35000422,Instituto de Ensino Fênix 423,2313500,CE,1,Uno,63.84
-35001080,Colégio Alfa 1081,2304400,CE,1,Kepler,57.49
-35000970,Liceu Exponencial 971,4304606,RS,1,Kepler,63.29
-35000330,Liceu Progresso 331,3550308,SP,1,Farias Brito,63.76
-35000309,Liceu Saber 310,4314902,RS,1,Farias Brito,64.5
-35000913,Instituto de Ensino Alfa 914,2609600,PE,1,Compartilha,58.95
-35001032,Colégio Anchieta 1033,4106902,PR,1,Kepler,54.98
-35000008,Escola Objetivo 9,3136702,MG,1,Compartilha,64.92
-35000252,Academia Saber 253,2611606,PE,1,Compartilha,59.16
-35000520,Colégio Futuro 521,2304202,CE,1,Uno,62.08
-35000002,Liceu Dom Bosco 3,3549805,SP,1,Kepler,59.73
-35000651,Instituto de Ensino Nossa Senhora 652,2304400,CE,1,Uno,63.64
-35000636,Escola São José 637,4106902,PR,1,Compartilha,57.45
-35000726,Liceu Pionero 727,3550308,SP,1,Farias Brito,65.53
-35001196,Liceu Futuro 1197,3136702,MG,1,Uno,67.17
-35000279,Colégio São José 280,4205407,SC,1,Farias Brito,63.45
-35000660,Centro Educacional Alfa 661,3550308,SP,1,Kepler,61.03
-35000523,Centro Educacional Albert Einstein 524,5300108,DF,1,Farias Brito,54.0
-35000800,Instituto de Ensino Marista 801,3136702,MG,1,Kepler,60.98
-35000776,Academia Dom Bosco 777,4202404,SC,1,Kepler,66.61
-35000702,Centro Educacional Santo Agostinho 703,4106902,PR,1,Compartilha,57.09
-35001092,Academia São José 1093,3304557,RJ,1,Farias Brito,66.66
-35001029,Centro Educacional Santa Cruz 1030,3106200,MG,1,Compartilha,57.85
-35000032,Liceu Nossa Senhora 33,5002704,MS,1,Farias Brito,61.55
-35000065,Liceu Alfa 66,5002704,MS,1,Uno,56.58
-35000797,Liceu Marista 798,3303302,RJ,1,Kepler,52.29
-35000157,Instituto de Ensino Dom Bosco 158,2304202,CE,2,Kepler,53.14
-35000449,Escola Marista 450,2933307,BA,1,Kepler,52.93
-35000062,Academia Saber 63,1302603,AM,1,Uno,65.42
-35001113,Liceu Fênix 1114,2304400,CE,1,Uno,67.24
-35000142,Escola São José 143,4113700,PR,1,Kepler,64.49
-35000404,Centro Educacional Anchieta 405,3136702,MG,1,Kepler,60.22
-35000419,Centro Educacional Anchieta 420,2611101,PE,1,Uno,63.57
-35000943,Escola Fênix 944,2910800,BA,1,Compartilha,55.17
-35000922,Escola Albert Einstein 923,2111300,MA,1,Uno,58.61
-35000026,Academia Marista 27,2313500,CE,1,Uno,66.11
-35000446,Colégio Progresso 447,4202404,SC,1,Farias Brito,64.49
-35000112,Colégio Objetivo 113,4304606,RS,2,Farias Brito,66.51
-35000246,Liceu Fênix 247,4205407,SC,1,Farias Brito,59.75
-35000767,Centro Educacional Albert Einstein 768,3136702,MG,1,Compartilha,64.21
-35000654,Academia Exponencial 655,5208707,GO,1,Kepler,66.38
-35000571,Academia Vanguard 572,4113700,PR,1,Kepler,62.32
-35000598,Liceu São José 599,3301702,RJ,1,Uno,59.41
-35000812,Academia Saber 813,2933307,BA,1,Kepler,54.27
-35000205,Colégio Progresso 206,3170206,MG,1,Compartilha,58.88
-35000264,Instituto de Ensino Futuro 265,3550308,SP,1,Farias Brito,63.78
-35000464,Colégio São José 465,3549805,SP,1,Farias Brito,60.86
-35000666,Academia São José 667,3106200,MG,2,Compartilha,59.43
-35000121,Academia Santa Cruz 122,2609600,PE,1,Compartilha,57.15
-35000193,Academia Anchieta 194,5300108,DF,1,Kepler,48.87
-35000526,Academia Fênix 527,2111300,MA,1,Uno,73.48
-35000535,Instituto de Ensino Progresso 536,3170206,MG,1,Compartilha,64.96
-35000782,Centro Educacional São José 783,2611101,PE,1,Compartilha,52.83
-35000916,Colégio Elite 917,2304202,CE,1,Kepler,52.34
-35001175,Instituto de Ensino Santa Cruz 1176,2933307,BA,1,Uno,61.16
-35000172,Colégio Objetivo 173,3170206,MG,1,Farias Brito,72.2
-35001041,Centro Educacional Elite 1042,2927408,BA,1,Kepler,58.11
-35001193,Instituto de Ensino Progresso 1194,3303302,RJ,1,Compartilha,51.7
-35000708,Academia Progresso 709,4205407,SC,1,Farias Brito,59.76
-35000285,Instituto de Ensino Integral 286,2611606,PE,1,Uno,66.97
-35000041,Liceu Albert Einstein 42,3136702,MG,1,Uno,59.01
-35000294,Colégio Pionero 295,1501402,PA,1,Kepler,58.88
-35001053,Academia Anchieta 1054,1501402,PA,1,Kepler,53.91
-35000380,Escola Anchieta 381,4202404,SC,1,Farias Brito,67.7
-35000532,Instituto de Ensino Albert Einstein 533,3301702,RJ,1,Uno,68.05
-35000550,Escola Anchieta 551,2609600,PE,1,Uno,66.2
-35000806,Centro Educacional Futuro 807,4316907,RS,1,Uno,58.35
-35000895,Instituto de Ensino Objetivo 896,3301702,RJ,1,Kepler,55.56
-35001089,Escola Albert Einstein 1090,3550308,SP,1,Farias Brito,72.0
-35000720,Instituto de Ensino Dom Bosco 721,5208707,GO,1,Compartilha,61.52
-35000663,Instituto de Ensino Santa Cruz 664,3304557,RJ,1,Farias Brito,61.94
-35000109,Instituto de Ensino Fênix 110,4113700,PR,1,Kepler,59.79
-35000514,Centro Educacional Marista 515,2910800,BA,1,Kepler,53.05
-35000410,Liceu Integral 411,4316907,RS,1,Kepler,65.35
-35001110,Centro Educacional Exponencial 1111,2611606,PE,1,Compartilha,65.58
-35000148,Instituto de Ensino Fênix 149,4209102,SC,1,Farias Brito,69.14
-35000151,Colégio Santo Agostinho 152,2910800,BA,1,Compartilha,55.45
-35000827,Instituto de Ensino São José 828,3549805,SP,1,Farias Brito,80.11
-35001047,Escola Santa Cruz 1048,2304400,CE,2,Uno,65.17
-35000139,Academia Fênix 140,3170206,MG,1,Farias Brito,68.2
-35000434,Liceu Alfa 435,3303302,RJ,2,Kepler,52.28
-35000023,Liceu Albert Einstein 24,2611101,PE,1,Compartilha,55.34
-35000160,Colégio Progresso 161,5300108,DF,1,Kepler,48.42
-35000574,Academia Elite 575,4304606,RS,1,Kepler,63.76
-35000288,Academia Anchieta 289,2304400,CE,1,Kepler,61.91
-35000699,Instituto de Ensino Vanguard 700,3106200,MG,1,Kepler,60.14
-35000011,Liceu Saber 12,4118204,PR,1,Uno,57.47
-35001071,Academia Futuro 1072,4205407,SC,2,Compartilha,58.51
-35000458,Academia Santo Agostinho 459,1302603,AM,1,Uno,61.98
-35000249,Centro Educacional Progresso 250,2927408,BA,1,Compartilha,61.43
-35000991,Academia Albert Einstein 992,3509502,SP,1,Farias Brito,62.88
-35000815,Colégio Progresso 816,2611101,PE,1,Kepler,54.44
-35000958,Liceu Alfa 959,3509502,SP,2,Farias Brito,67.22
-35000562,Liceu Progresso 563,3509502,SP,1,Compartilha,50.71
-35001050,Academia Saber 1051,5208707,GO,1,Farias Brito,61.53
-35001190,Centro Educacional Futuro 1191,3549805,SP,1,Farias Brito,71.55
-35000583,Escola São José 584,2609600,PE,1,Kepler,58.66
-35000586,Centro Educacional Santa Cruz 587,2304202,CE,1,Uno,52.28
-35000038,Colégio Integral 39,3303302,RJ,1,Farias Brito,59.1
-35000672,Escola Integral 673,4314902,RS,1,Kepler,60.49
-35000169,Centro Educacional Vanguard 170,3301702,RJ,2,Compartilha,57.8
-35000136,Academia Exponencial 137,3301702,RJ,1,Uno,60.43
-35000452,Instituto de Ensino São José 453,2611101,PE,1,Kepler,51.27
-35000154,Centro Educacional Progresso 155,2609600,PE,1,Compartilha,58.12
-35000547,Liceu Pionero 548,2910800,BA,1,Uno,64.26
-35001122,Academia Objetivo 1123,3550308,SP,1,Farias Brito,54.18
-35000467,Liceu Marista 468,3303302,RJ,1,Farias Brito,52.23
-35000333,Centro Educacional Alfa 334,3304557,RJ,1,Farias Brito,64.17
-35001160,Centro Educacional Exponencial 1161,3303302,RJ,1,Farias Brito,57.15
-35000642,Escola Pionero 643,4205407,SC,1,Farias Brito,69.07
-35000985,Liceu Vanguard 986,5300108,DF,1,Farias Brito,53.14
-35001104,Escola Anchieta 1105,4205407,SC,1,Farias Brito,59.13
-35001026,Colégio Elite 1027,3304557,RJ,1,Compartilha,56.76
-35000681,Instituto de Ensino Albert Einstein 682,2611606,PE,1,Compartilha,62.32
-35001098,Instituto de Ensino Exponencial 1099,4106902,PR,1,Compartilha,60.85
-35000318,Liceu Marista 319,2611606,PE,1,Kepler,67.04
-35000714,Colégio Marista 715,2611606,PE,1,Uno,71.43
-35000553,Centro Educacional Marista 554,2304202,CE,1,Kepler,51.13
-35000267,Academia Santa Cruz 268,3304557,RJ,1,Kepler,62.77
-35000392,Instituto de Ensino Marista 393,1302603,AM,1,Kepler,61.68
-35001181,Colégio Pionero 1182,2313500,CE,1,Uno,72.38
-35001035,Centro Educacional Exponencial 1036,4314902,RS,1,Compartilha,56.31
-35000243,Escola Marista 244,4314902,RS,1,Kepler,60.54
-35000589,Centro Educacional Alfa 590,5300108,DF,1,Compartilha,47.45
-35000791,Instituto de Ensino Saber 792,5002704,MS,1,Kepler,65.51
-35000187,Colégio Objetivo 188,2609600,PE,1,Kepler,56.68
-35000565,Instituto de Ensino São José 566,3301702,RJ,1,Uno,63.84
-35000711,Colégio Objetivo 712,2927408,BA,1,Uno,62.34
-35000127,Escola Albert Einstein 128,5300108,DF,2,Kepler,48.66
-35000973,Escola Objetivo 974,4209102,SC,1,Farias Brito,76.43
-35000907,Colégio Elite 908,4209102,SC,1,Kepler,59.97
-35000592,Centro Educacional Marista 593,2111300,MA,1,Compartilha,54.11
-35000005,Centro Educacional Santa Cruz 6,3303302,RJ,1,Farias Brito,61.84
-35000839,Colégio Elite 840,4316907,RS,1,Kepler,63.53
-35000580,Colégio Albert Einstein 581,2910800,BA,1,Compartilha,56.71
-35000836,Instituto de Ensino Elite 837,4118204,PR,1,Compartilha,60.96
-35000181,Colégio Nossa Senhora 182,4209102,SC,1,Compartilha,57.97
-35000047,Centro Educacional Pionero 48,4316907,RS,2,Kepler,62.53
-35000184,Colégio Vanguard 185,2910800,BA,1,Uno,59.73
-35000669,Colégio Progresso 670,4106902,PR,1,Farias Brito,58.28
-35000431,Liceu Vanguard 432,3549805,SP,1,Kepler,60.82
-35000976,Colégio Nossa Senhora 977,2910800,BA,1,Kepler,56.22
-35000684,Liceu São José 685,2304400,CE,1,Compartilha,62.48
-35001044,Instituto de Ensino Anchieta 1045,2611606,PE,1,Uno,63.3
-35000017,Escola Anchieta 18,4202404,SC,1,Farias Brito,70.52
-35000779,Academia Dom Bosco 780,2933307,BA,1,Kepler,53.72
-35001184,Centro Educacional Futuro 1185,1302603,AM,1,Uno,61.86
-35000928,Academia Santo Agostinho 929,3301702,RJ,1,Compartilha,58.39
-35000455,Colégio Progresso 456,2313500,CE,1,Kepler,58.23
-35000321,Academia Albert Einstein 322,2304400,CE,1,Kepler,59.03
-35000967,Instituto de Ensino Santo Agostinho 968,4113700,PR,1,Farias Brito,54.86
-35000648,Centro Educacional Albert Einstein 649,2611606,PE,1,Kepler,63.83
-35000773,Instituto de Ensino Nossa Senhora 774,4316907,RS,1,Uno,58.3
-35001119,Escola Futuro 1120,1501402,PA,1,Uno,65.83
-35000845,Colégio Integral 846,2933307,BA,1,Compartilha,53.64
-35000949,Colégio Progresso 950,2304202,CE,1,Kepler,50.63
-35000124,Colégio Integral 125,2304202,CE,2,Uno,70.11
-35000595,Academia Nossa Senhora 596,3509502,SP,1,Kepler,57.66
-35000163,Centro Educacional Albert Einstein 164,2111300,MA,1,Kepler,61.83
-35000306,Escola Futuro 307,4106902,PR,1,Kepler,60.02
-35000833,Colégio Saber 834,3136702,MG,1,Uno,62.15
-35000940,Instituto de Ensino Pionero 941,4209102,SC,1,Farias Brito,67.32
-35001169,Colégio Alfa 1170,4316907,RS,2,Uno,63.16
-35000273,Centro Educacional Progresso 274,4106902,PR,1,Kepler,58.68
-35000416,Centro Educacional Albert Einstein 417,2933307,BA,1,Uno,59.0
-35000538,Centro Educacional Pionero 539,4113700,PR,1,Kepler,68.42
-35001059,Colégio Vanguard 1060,3304557,RJ,1,Compartilha,62.41
-35001065,Centro Educacional Nossa Senhora 1066,4106902,PR,1,Compartilha,57.22
-35000327,Instituto de Ensino Santa Cruz 328,1501402,PA,1,Uno,58.82
-35001166,Instituto de Ensino Integral 1167,4118204,PR,1,Compartilha,70.09
-35000952,Colégio Santa Cruz 953,5300108,DF,1,Kepler,49.1
-35000788,Colégio Nossa Senhora 789,1302603,AM,1,Kepler,58.21
-35001163,Liceu Santo Agostinho 1164,3136702,MG,1,Uno,58.96
-35000818,Centro Educacional Alfa 819,2313500,CE,1,Compartilha,56.03
-35000282,Escola Exponencial 283,2927408,BA,1,Uno,63.91
-35000645,Centro Educacional Progresso 646,2927408,BA,1,Kepler,61.52
-35000687,Academia Saber 688,5208707,GO,1,Farias Brito,60.55
-35000851,Centro Educacional Saber 852,2313500,CE,1,Uno,60.83
-35001187,Instituto de Ensino Pionero 1188,5002704,MS,1,Compartilha,68.81
-35000413,Colégio Santa Cruz 414,4202404,SC,1,Farias Brito,64.44
-35000202,Colégio São José 203,3301702,RJ,1,Uno,60.95
-35000020,Academia Dom Bosco 21,2933307,BA,2,Uno,61.72
-35000675,Liceu Pionero 676,4205407,SC,2,Farias Brito,59.57
-35000723,Liceu Elite 724,1501402,PA,1,Uno,69.34
-35001101,Escola Marista 1102,4314902,RS,1,Farias Brito,66.57
-35000050,Centro Educacional Objetivo 51,4202404,SC,1,Compartilha,55.42
-35000056,Liceu Exponencial 57,2611101,PE,1,Uno,60.49
-35001068,Academia Santa Cruz 1069,4314902,RS,1,Farias Brito,77.65
-35000898,Instituto de Ensino Pionero 899,3170206,MG,1,Farias Brito,69.69
-35001083,Academia Santo Agostinho 1084,5208707,GO,1,Kepler,58.54
-35000276,Centro Educacional Elite 277,4314902,RS,1,Kepler,55.71
-35000395,Liceu Integral 396,5002704,MS,1,Compartilha,72.64
-35000830,Colégio Fênix 831,3303302,RJ,1,Kepler,51.79
-35000428,Academia Futuro 429,5002704,MS,1,Uno,60.14
-35000044,Academia Elite 45,4118204,PR,1,Kepler,62.49
-35000690,Academia Elite 691,1501402,PA,1,Uno,70.74
-35000071,Instituto de Ensino Alfa 72,3303302,RJ,1,Farias Brito,60.95
-35000937,Centro Educacional Integral 938,4304606,RS,1,Farias Brito,59.94
-35000529,Colégio Pionero 530,3509502,SP,1,Farias Brito,76.64
-35000014,Academia Nossa Senhora 15,4316907,RS,1,Uno,59.24
-35000175,Centro Educacional Pionero 176,4113700,PR,1,Kepler,68.53
-35000517,Liceu São José 518,2609600,PE,1,Uno,60.91
-35000925,Centro Educacional Saber 926,3509502,SP,1,Compartilha,62.42
-35000035,Liceu Alfa 36,3549805,SP,1,Compartilha,56.08
-35000258,Academia Santo Agostinho 259,5208707,GO,1,Kepler,66.43
-35000059,Escola Futuro 60,2313500,CE,1,Kepler,57.82
-35000315,Centro Educacional Saber 316,2927408,BA,1,Kepler,57.93
-35000336,Liceu Anchieta 337,3106200,MG,1,Farias Brito,64.19
-35000955,Liceu Saber 956,2111300,MA,1,Compartilha,62.04
-35000809,Centro Educacional Albert Einstein 810,4202404,SC,1,Farias Brito,70.17
-35000199,Academia Vanguard 200,3509502,SP,1,Kepler,60.6
-35000374,Liceu Marista 375,4118204,PR,1,Uno,56.28
-35000297,Liceu Futuro 298,3550308,SP,1,Farias Brito,56.9
-35000133,Escola Saber 134,3509502,SP,1,Kepler,60.05
-35000437,Colégio Objetivo 438,3136702,MG,1,Uno,64.57
-35000461,Escola Futuro 462,5002704,MS,1,Kepler,65.96
-35000901,Academia Marista 902,4113700,PR,1,Farias Brito,66.75
-35000857,Instituto de Ensino Integral 858,5002704,MS,1,Uno,60.7
-35000118,Instituto de Ensino Nossa Senhora 119,2910800,BA,1,Compartilha,51.47
-35000166,Escola Alfa 167,3509502,SP,1,Farias Brito,62.1
-35000639,Colégio Vanguard 640,4314902,RS,1,Kepler,57.84
-35000764,Liceu Objetivo 765,3303302,RJ,1,Farias Brito,67.06
-35001056,Academia Albert Einstein 1057,3550308,SP,1,Farias Brito,62.57
-35000255,Instituto de Ensino Alfa 256,2304400,CE,1,Kepler,57.98
-35000303,Instituto de Ensino Santa Cruz 304,3106200,MG,2,Farias Brito,74.8
-35000398,Centro Educacional Saber 399,3549805,SP,1,Kepler,56.23
-35000190,Centro Educacional Alfa 191,2304202,CE,1,Compartilha,51.11
-35000842,Colégio Marista 843,4202404,SC,1,Compartilha,68.43
-35001074,Instituto de Ensino Integral 1075,2927408,BA,1,Uno,60.37
-35001077,Escola Pionero 1078,2611606,PE,1,Kepler,64.74
-35000979,Liceu Nossa Senhora 980,2609600,PE,1,Uno,71.1
-35000729,Academia Nossa Senhora 730,3304557,RJ,1,Kepler,56.25
-35000443,Centro Educacional Dom Bosco 444,4316907,RS,1,Compartilha,63.41
-35000770,Instituto de Ensino Elite 771,4118204,PR,1,Uno,62.3
-35000505,Instituto de Ensino Integral 506,4113700,PR,1,Compartilha,61.03
-35000568,Centro Educacional São José 569,3170206,MG,2,Farias Brito,65.85
-35000785,Instituto de Ensino Vanguard 786,2313500,CE,1,Uno,66.66
-35000240,Colégio Santo Agostinho 241,4106902,PR,1,Kepler,59.23
-35000919,Academia Dom Bosco 920,5300108,DF,1,Farias Brito,53.16
-35000541,Escola Marista 542,4304606,RS,1,Farias Brito,59.29
-35001095,Escola Marista 1096,3106200,MG,2,Compartilha,52.97
-35000440,Instituto de Ensino Futuro 441,4118204,PR,1,Compartilha,55.01
-35000556,Escola Santa Cruz 557,5300108,DF,1,Farias Brito,59.17
-35001107,Instituto de Ensino São José 1108,2927408,BA,1,Kepler,62.08
-35000824,Colégio Progresso 825,5002704,MS,1,Compartilha,71.19
-35000130,Colégio São José 131,2111300,MA,1,Compartilha,59.04
-35000312,Academia Alfa 313,4205407,SC,2,Farias Brito,59.32
-35000854,Escola São José 855,1302603,AM,1,Uno,60.25
-35000408,Centro Educacional Anchieta 409,4314902,RS,1,Farias Brito,71.66
-35001087,Instituto de Ensino Albert Einstein 1088,2111300,MA,1,Kepler,59.0
-35000149,Instituto de Ensino Anchieta 150,4202404,SC,1,Compartilha,57.04
-35000435,Academia Elite 436,3106200,MG,2,Compartilha,54.25
-35000217,Instituto de Ensino Albert Einstein 218,2910800,BA,1,Uno,52.95
-35000920,Escola Marista 921,1302603,AM,1,Uno,60.52
-35000518,Colégio Futuro 519,2611101,PE,1,Compartilha,52.81
-35000887,Academia Anchieta 888,1302603,AM,1,Uno,63.53
-35001176,Liceu Alfa 1177,2611606,PE,1,Kepler,60.59
-35000866,Academia Objetivo 867,3136702,MG,1,Uno,63.31
-35000369,Escola Dom Bosco 370,3106200,MG,1,Kepler,61.25
-35000560,Colégio Fênix 561,5002704,MS,1,Compartilha,74.76
-35000128,Centro Educacional Dom Bosco 129,1302603,AM,1,Uno,59.43
-35000131,Instituto de Ensino Marista 132,5002704,MS,1,Kepler,61.61
-35000744,Academia Dom Bosco 745,2927408,BA,1,Uno,61.2
-35001060,Academia Anchieta 1061,3301702,RJ,1,Uno,62.23
-35001066,Centro Educacional São José 1067,4113700,PR,1,Farias Brito,69.75
-35000771,Instituto de Ensino Integral 772,4314902,RS,1,Kepler,56.73
-35000816,Liceu Futuro 817,2304400,CE,1,Kepler,56.05
-35000250,Academia Marista 251,2910800,BA,1,Uno,63.33
-35000658,Instituto de Ensino Vanguard 659,2111300,MA,1,Kepler,59.09
-35001009,Academia Anchieta 1010,2910800,BA,1,Uno,66.46
-35000750,Liceu Albert Einstein 751,2304400,CE,1,Uno,54.81
-35000208,Centro Educacional Nossa Senhora 209,4113700,PR,1,Farias Brito,59.95
-35000417,Academia Fênix 418,2611606,PE,2,Kepler,63.4
-35000024,Escola Santo Agostinho 25,2304400,CE,1,Kepler,59.91
-35000503,Instituto de Ensino Anchieta 504,3136702,MG,1,Uno,60.57
-35001051,Centro Educacional Nossa Senhora 1052,5300108,DF,1,Farias Brito,57.07
-35000628,Colégio Marista 629,3509502,SP,1,Farias Brito,71.32
-35000890,Instituto de Ensino Integral 891,5002704,MS,1,Kepler,69.02
-35001137,Escola Integral 1138,4205407,SC,1,Kepler,52.05
-35000917,Liceu Futuro 918,2313500,CE,1,Kepler,55.9
-35000557,Colégio Progresso 558,1302603,AM,1,Kepler,59.57
-35000214,Centro Educacional Santa Cruz 215,4209102,SC,2,Kepler,55.86
-35000604,Academia Marista 605,4113700,PR,1,Farias Brito,68.41
-35000828,Escola Progresso 829,3304557,RJ,1,Kepler,61.34
-35000015,Escola Pionero 16,4205407,SC,1,Compartilha,51.78
-35000119,Instituto de Ensino Santo Agostinho 120,2933307,BA,1,Kepler,55.8
-35000170,Escola Santa Cruz 171,3303302,RJ,1,Farias Brito,57.54
-35000878,Centro Educacional Exponencial 879,2933307,BA,1,Uno,60.82
-35000554,Instituto de Ensino Vanguard 555,2313500,CE,1,Uno,64.44
-35000911,Centro Educacional Saber 912,2933307,BA,1,Uno,64.9
-35001042,Escola Santo Agostinho 1043,2910800,BA,1,Uno,56.99
-35000009,Escola Vanguard 10,4106902,PR,1,Farias Brito,76.46
-35000479,Liceu Dom Bosco 480,4202404,SC,1,Kepler,58.55
-35001057,Centro Educacional Integral 1058,3509502,SP,1,Compartilha,56.87
-35000774,Academia Dom Bosco 775,4205407,SC,1,Farias Brito,64.49
-35001036,Escola Progresso 1037,4304606,RS,1,Farias Brito,67.1
-35001024,Liceu Vanguard 1025,3509502,SP,2,Kepler,55.49
-35000482,Centro Educacional Anchieta 483,2933307,BA,1,Uno,61.08
-35001185,Centro Educacional Futuro 1186,1501402,PA,1,Uno,68.76
-35000810,Colégio Santo Agostinho 811,2927408,BA,1,Kepler,57.98
-35001158,Liceu São José 1159,3304557,RJ,1,Kepler,63.22
-35000664,Centro Educacional Fênix 665,3301702,RJ,1,Kepler,57.31
-35000804,Liceu Objetivo 805,4314902,RS,2,Kepler,57.75
-35001128,Centro Educacional Vanguard 1129,3106200,MG,1,Farias Brito,71.72
-35001030,Academia Anchieta 1031,3170206,MG,1,Kepler,66.61
-35000042,Liceu Objetivo 43,4106902,PR,1,Kepler,56.56
-35000682,Escola Nossa Senhora 683,2609600,PE,2,Kepler,56.6
-35001173,Escola Fênix 1174,2927408,BA,1,Compartilha,62.91
-35000536,Colégio Nossa Senhora 537,3136702,MG,1,Kepler,62.36
-35000506,Centro Educacional Marista 507,4118204,PR,1,Compartilha,67.25
-35000607,Escola Fênix 608,4304606,RS,1,Compartilha,60.82
-35000372,Colégio Santa Cruz 373,4106902,PR,1,Kepler,59.9
-35000289,Colégio Objetivo 290,2304202,CE,1,Uno,67.63
-35000396,Liceu Objetivo 397,3550308,SP,1,Farias Brito,64.8
-35001125,Liceu Marista 1126,3304557,RJ,1,Kepler,62.87
-35000110,Instituto de Ensino Pionero 111,4118204,PR,1,Kepler,66.23
-35001197,Escola Dom Bosco 1198,4106902,PR,1,Kepler,57.87
-35000801,Liceu Exponencial 802,4106902,PR,1,Farias Brito,71.92
-35000387,Academia Vanguard 388,2304400,CE,1,Uno,66.55
-35000551,Instituto de Ensino Albert Einstein 552,2611101,PE,1,Uno,66.21
-35000673,Centro Educacional Alfa 674,4304606,RS,1,Farias Brito,73.46
-35000527,Academia Anchieta 528,5002704,MS,1,Kepler,65.1
-35000926,Colégio Albert Einstein 927,3549805,SP,1,Kepler,58.18
-35000283,Instituto de Ensino Elite 284,2910800,BA,1,Compartilha,51.97
-35000643,Centro Educacional Objetivo 644,4209102,SC,1,Farias Brito,69.39
-35000080,Centro Educacional Fênix 81,4316907,RS,1,Farias Brito,61.52
-35000262,Colégio Vanguard 263,2111300,MA,1,Kepler,61.81
-35000631,Centro Educacional Progresso 632,3301702,RJ,1,Kepler,55.18
-35000679,Liceu São José 680,2910800,BA,1,Kepler,52.41
-35000783,Escola Elite 784,2304400,CE,1,Kepler,60.23
-35000938,Colégio Progresso 939,4316907,RS,1,Uno,58.47
-35001134,Escola Marista 1135,4314902,RS,1,Farias Brito,68.58
-35000134,Escola Nossa Senhora 135,3549805,SP,1,Farias Brito,68.4
-35000884,Instituto de Ensino Integral 885,2313500,CE,1,Uno,72.49
-35000295,Liceu Dom Bosco 296,2111300,MA,1,Kepler,57.78
-35001078,Academia Objetivo 1079,2609600,PE,1,Uno,61.25
-35000548,Academia Albert Einstein 549,2933307,BA,1,Kepler,53.58
-35000158,Colégio Santa Cruz 159,2313500,CE,1,Kepler,57.23
-35001072,Escola Dom Bosco 1073,4209102,SC,1,Kepler,52.78
-35000869,Colégio Vanguard 870,4118204,PR,1,Uno,60.41
-35001015,Instituto de Ensino Progresso 1016,2304202,CE,1,Kepler,51.16
-35000929,Liceu Anchieta 930,3303302,RJ,1,Farias Brito,48.09
-35001084,Academia Anchieta 1085,5300108,DF,1,Farias Brito,59.2
-35000622,Liceu Dom Bosco 623,5300108,DF,1,Compartilha,47.49
-35000667,Escola Objetivo 668,3170206,MG,1,Kepler,64.46
-35000036,Centro Educacional Futuro 37,3304557,RJ,1,Kepler,63.58
-35000137,Centro Educacional Santa Cruz 138,3303302,RJ,1,Kepler,51.01
-35000241,Liceu Saber 242,4113700,PR,1,Farias Brito,56.72
-35000143,Academia Objetivo 144,4118204,PR,1,Compartilha,56.7
-35000792,Academia Saber 793,3550308,SP,1,Farias Brito,63.32
-35000762,Liceu Pionero 763,3304557,RJ,1,Farias Brito,63.58
-35001000,Academia São José 1001,4113700,PR,1,Farias Brito,64.75
-35001048,Escola Futuro 1049,2304202,CE,2,Uno,64.38
-35001021,Liceu Pionero 1022,2111300,MA,1,Kepler,60.85
-35000902,Instituto de Ensino Santo Agostinho 903,4118204,PR,2,Compartilha,59.21
-35000155,Colégio Saber 156,2611101,PE,1,Uno,66.23
-35000688,Colégio Elite 689,5300108,DF,2,Farias Brito,62.01
-35001006,Instituto de Ensino Elite 1007,4209102,SC,1,Kepler,56.99
-35001194,Academia São José 1195,3106200,MG,1,Compartilha,54.1
-35000429,Liceu Dom Bosco 430,3550308,SP,2,Kepler,61.0
-35000670,Colégio Progresso 671,4113700,PR,1,Kepler,64.94
-35000125,Centro Educacional Marista 126,2313500,CE,1,Kepler,57.14
-35000756,Instituto de Ensino Dom Bosco 757,1501402,PA,1,Kepler,56.0
-35000613,Academia Pionero 614,2910800,BA,1,Kepler,54.65
-35000741,Escola Dom Bosco 742,4205407,SC,1,Kepler,55.44
-35000872,Centro Educacional Santo Agostinho 873,4316907,RS,1,Kepler,61.71
-35001003,Centro Educacional Integral 1004,4304606,RS,1,Kepler,61.64
-35001143,Academia Nossa Senhora 1144,2611606,PE,1,Uno,61.32
-35000259,Colégio São José 260,5300108,DF,1,Kepler,47.45
-35000798,Colégio São José 799,3106200,MG,1,Farias Brito,65.76
-35000351,Instituto de Ensino Anchieta 352,2611606,PE,1,Compartilha,57.16
-35000485,Escola Alfa 486,2611101,PE,1,Uno,61.37
-35000905,Colégio São José 906,4316907,RS,1,Compartilha,68.99
-35000360,Colégio Saber 361,1501402,PA,1,Kepler,56.5
-35000384,Academia Santo Agostinho 385,2611606,PE,1,Uno,65.37
-35001152,Liceu Albert Einstein 1153,1501402,PA,1,Uno,67.24
-35000378,Liceu Saber 379,4205407,SC,1,Compartilha,56.18
-35001131,Instituto de Ensino Elite 1132,4106902,PR,2,Kepler,59.46
-35000357,Escola Anchieta 358,5208707,GO,1,Kepler,63.68
-35000390,Colégio São José 391,5208707,GO,1,Kepler,64.96
-35000366,Academia Objetivo 367,3304557,RJ,1,Farias Brito,67.02
-35000286,Academia Exponencial 287,2609600,PE,1,Kepler,54.28
-35001033,Centro Educacional Saber 1034,4113700,PR,1,Compartilha,59.74
-35000685,Centro Educacional Integral 686,2304202,CE,1,Uno,59.72
-35000539,Centro Educacional Saber 540,4118204,PR,1,Kepler,66.38
-35000953,Escola Santo Agostinho 954,1302603,AM,1,Kepler,61.29
-35000006,Academia Integral 7,3106200,MG,1,Compartilha,66.57
-35001182,Liceu Pionero 1183,5208707,GO,1,Kepler,62.34
-35001018,Escola Futuro 1019,5300108,DF,1,Farias Brito,58.55
-35000113,Instituto de Ensino Anchieta 114,4316907,RS,1,Compartilha,57.74
-35000863,Liceu Santa Cruz 864,3303302,RJ,1,Farias Brito,65.29
-35000161,Escola Anchieta 162,1302603,AM,1,Kepler,61.97
-35000780,Instituto de Ensino Progresso 781,2611606,PE,1,Kepler,64.87
-35000077,Colégio Santo Agostinho 78,4118204,PR,1,Uno,59.11
-35001045,Colégio São José 1046,2609600,PE,1,Uno,64.92
-35000822,Escola Vanguard 823,1501402,PA,2,Kepler,61.34
-35000512,Escola Vanguard 513,4202404,SC,1,Farias Brito,64.29
-35000533,Centro Educacional Nossa Senhora 534,3303302,RJ,1,Farias Brito,64.55
-35000274,Academia Saber 275,4113700,PR,1,Kepler,64.96
-35000646,Escola Alfa 647,2910800,BA,1,Compartilha,55.84
-35000813,Escola Albert Einstein 814,2611606,PE,1,Kepler,65.22
-35000039,Centro Educacional Santo Agostinho 40,3106200,MG,1,Kepler,58.07
-35000122,Academia Fênix 123,2611101,PE,1,Kepler,53.04
-35000941,Instituto de Ensino Progresso 942,4202404,SC,1,Farias Brito,66.98
-35000140,Academia Vanguard 141,3136702,MG,1,Uno,59.58
-35000994,Centro Educacional Saber 995,3301702,RJ,1,Uno,61.47
-35000610,Colégio Marista 611,4209102,SC,1,Kepler,60.04
-35000345,Instituto de Ensino Elite 346,4205407,SC,1,Kepler,56.61
-35000226,Instituto de Ensino Nossa Senhora 227,5300108,DF,1,Farias Brito,51.42
-35000619,Escola Nossa Senhora 620,2304202,CE,1,Uno,59.83
-35000167,Instituto de Ensino Marista 168,3549805,SP,1,Kepler,57.73
-35000003,Escola Vanguard 4,3304557,RJ,1,Farias Brito,61.57
-35000298,Academia Albert Einstein 299,3509502,SP,1,Farias Brito,73.29
-35001063,Colégio Santo Agostinho 1064,3170206,MG,2,Compartilha,55.03
-35001081,Instituto de Ensino Vanguard 1082,2304202,CE,1,Kepler,53.35
-35000545,Academia Progresso 546,4202404,SC,1,Kepler,64.82
-35000542,Liceu Anchieta 543,4316907,RS,1,Farias Brito,59.31
-35000411,Academia Saber 412,4205407,SC,2,Farias Brito,63.12
-35000420,Escola Progresso 421,2304400,CE,1,Uno,65.25
-35001161,Liceu Santo Agostinho 1162,3106200,MG,1,Farias Brito,62.49
-35000426,Centro Educacional Santa Cruz 427,1501402,PA,1,Kepler,58.85
-35000235,Instituto de Ensino Pionero 236,3301702,RJ,1,Uno,68.36
-35000021,Academia Marista 22,2611606,PE,1,Compartilha,65.2
-35000223,Liceu Objetivo 224,2304202,CE,2,Kepler,51.25
-35000747,Liceu Anchieta 748,2611606,PE,1,Uno,58.15
-35000393,Escola São José 394,1501402,PA,2,Compartilha,64.83
-35000494,Liceu Pionero 495,5002704,MS,1,Compartilha,62.93
-35000786,Colégio Integral 787,5208707,GO,2,Compartilha,60.65
-35000491,Liceu Dom Bosco 492,1302603,AM,1,Kepler,59.47
-35000825,Liceu Alfa 826,3550308,SP,1,Farias Brito,65.11
-35000566,Centro Educacional São José 567,3303302,RJ,1,Farias Brito,65.15
-35000509,Instituto de Ensino Vanguard 510,4316907,RS,1,Compartilha,75.43
-35000768,Colégio Objetivo 769,4106902,PR,1,Farias Brito,69.89
-35000601,Academia Exponencial 602,3170206,MG,1,Kepler,59.72
-35000030,Escola Objetivo 31,1501402,PA,1,Uno,64.55
-35000229,Academia Alfa 230,2111300,MA,1,Kepler,64.04
-35000089,Instituto de Ensino Marista 90,2611101,PE,1,Kepler,53.82
-35000301,Academia Albert Einstein 302,3301702,RJ,2,Uno,61.83
-35000956,Centro Educacional Integral 957,5002704,MS,1,Uno,59.04
-35000807,Instituto de Ensino Fênix 808,4205407,SC,1,Kepler,52.83
-35000000,Centro Educacional Saber 1,3550308,SP,1,Farias Brito,66.86
-35000765,Academia Integral 766,3106200,MG,1,Farias Brito,71.34
-35000414,Academia Fênix 415,2927408,BA,1,Uno,66.93
-35001027,Instituto de Ensino Albert Einstein 1028,3301702,RJ,1,Compartilha,54.81
-35000012,Academia Anchieta 13,4314902,RS,1,Farias Brito,67.29
-35000789,Escola Albert Einstein 790,1501402,PA,1,Kepler,61.91
-35001075,Liceu Fênix 1076,2910800,BA,1,Kepler,56.48
-35000280,Instituto de Ensino Fênix 281,4209102,SC,1,Kepler,56.51
-35000402,Instituto de Ensino Vanguard 403,3106200,MG,1,Kepler,63.19
-35000146,Academia Exponencial 147,4316907,RS,1,Compartilha,74.7
-35000423,Colégio Santo Agostinho 424,5208707,GO,1,Kepler,59.21
-35001054,Instituto de Ensino Futuro 1055,2111300,MA,1,Uno,61.32
-35000092,Escola Exponencial 93,2313500,CE,1,Uno,69.47
-35000819,Academia Anchieta 820,5208707,GO,2,Kepler,65.76
-35000095,Liceu Progresso 96,1302603,AM,1,Uno,65.2
-35001191,Colégio Nossa Senhora 1192,3304557,RJ,1,Kepler,58.74
-35000875,Colégio Exponencial 876,4202404,SC,1,Farias Brito,64.08
-35000738,Escola São José 739,4314902,RS,1,Compartilha,55.62
-35000244,Centro Educacional Marista 245,4304606,RS,1,Kepler,61.65
-35000753,Instituto de Ensino Exponencial 754,5208707,GO,2,Farias Brito,63.85
-35000265,Centro Educacional São José 266,3509502,SP,1,Farias Brito,71.81
-35000950,Academia São José 951,2313500,CE,1,Kepler,54.84
-35000521,Instituto de Ensino São José 522,2313500,CE,2,Uno,71.41
-35000640,Academia Progresso 641,4304606,RS,1,Kepler,63.86
-35000530,Escola Saber 531,3549805,SP,1,Farias Brito,62.17
-35000256,Escola Progresso 257,2304202,CE,1,Uno,68.9
-35000405,Liceu São José 406,4106902,PR,1,Kepler,56.14
-35000173,Academia Marista 174,3136702,MG,1,Uno,69.11
-35000676,Escola Futuro 677,4209102,SC,1,Farias Brito,78.63
-35000515,Liceu Albert Einstein 516,2933307,BA,1,Kepler,54.8
-35000691,Liceu Vanguard 692,2111300,MA,1,Compartilha,60.26
-35001069,Colégio Pionero 1070,4304606,RS,1,Kepler,58.73
-35000697,Instituto de Ensino Albert Einstein 698,3301702,RJ,1,Uno,68.32
-35000694,Centro Educacional Saber 695,3509502,SP,1,Kepler,59.69
-35001188,Liceu Saber 1189,3550308,SP,1,Farias Brito,74.84
-35000247,Centro Educacional Vanguard 248,4209102,SC,1,Farias Brito,69.24
-35000637,Centro Educacional Vanguard 638,4113700,PR,1,Kepler,58.76
-35000893,Colégio Santa Cruz 894,3549805,SP,1,Farias Brito,68.51
-35000107,Colégio Exponencial 108,3136702,MG,1,Kepler,59.97
-35000152,Centro Educacional Exponencial 153,2933307,BA,1,Kepler,55.48
-35000253,Colégio Saber 254,2609600,PE,2,Kepler,56.27
-35000375,Liceu Elite 376,4314902,RS,1,Kepler,61.45
-35000232,Instituto de Ensino Santa Cruz 233,3509502,SP,1,Farias Brito,74.33
-35000488,Academia Pionero 489,2313500,CE,1,Kepler,56.49
-35000476,Liceu Anchieta 477,4316907,RS,1,Kepler,69.1
-35000271,Colégio Integral 272,3170206,MG,1,Kepler,60.0
-35000881,Centro Educacional Anchieta 882,2611101,PE,1,Uno,57.99
-35000116,Instituto de Ensino Albert Einstein 117,4202404,SC,1,Compartilha,54.69
-35001164,Instituto de Ensino Objetivo 1165,4106902,PR,1,Farias Brito,69.53
-35000932,Escola Pionero 933,3136702,MG,1,Uno,55.91
-35000432,Colégio Santa Cruz 433,3304557,RJ,1,Farias Brito,76.45
-35000947,Academia Dom Bosco 948,2611101,PE,2,Kepler,51.21
-35000381,Academia Anchieta 382,2927408,BA,1,Uno,65.19
-35000292,Colégio Santo Agostinho 293,5300108,DF,1,Compartilha,47.39
-35000899,Liceu Objetivo 900,3136702,MG,1,Kepler,61.28
-35000914,Instituto de Ensino Progresso 915,2611101,PE,1,Uno,58.84
-35001170,Academia Albert Einstein 1171,4205407,SC,1,Farias Brito,64.45
-35000661,Instituto de Ensino Objetivo 662,3509502,SP,1,Kepler,56.92
-35000277,Escola Vanguard 278,4304606,RS,1,Kepler,63.95
-35000944,Centro Educacional Elite 945,2933307,BA,1,Kepler,55.61
-35000908,Instituto de Ensino Alfa 909,4202404,SC,1,Farias Brito,75.98
-35001167,Colégio Dom Bosco 1168,4314902,RS,1,Compartilha,56.59
-35000997,Centro Educacional Elite 998,3170206,MG,1,Farias Brito,66.48
-35000098,Colégio Dom Bosco 99,5002704,MS,1,Uno,59.63
-35001012,Instituto de Ensino Anchieta 1013,2609600,PE,1,Uno,54.3
-35001090,Centro Educacional Dom Bosco 1091,3509502,SP,1,Kepler,61.17
-35000101,Centro Educacional Saber 102,3549805,SP,1,Farias Brito,68.71
-35000652,Academia Objetivo 653,2304202,CE,1,Kepler,54.32
-35000268,Instituto de Ensino Anchieta 269,3301702,RJ,1,Uno,61.64
-35001149,Colégio Nossa Senhora 1150,5208707,GO,1,Kepler,64.91
-35000354,Liceu Pionero 355,2304400,CE,1,Uno,61.78
-35000238,Instituto de Ensino Objetivo 239,3170206,MG,1,Farias Brito,67.29
-35001179,Academia Fênix 1180,2304400,CE,2,Uno,65.53
-35000339,Instituto de Ensino Pionero 340,4106902,PR,1,Farias Brito,69.56
-35000634,Escola Marista 635,3170206,MG,1,Compartilha,61.99
-35000759,Liceu Integral 760,3550308,SP,1,Farias Brito,69.64
-35000027,Colégio Nossa Senhora 28,5208707,GO,1,Farias Brito,63.2
-35000211,Liceu Elite 212,4304606,RS,1,Kepler,64.75
-35000524,Liceu Progresso 525,1302603,AM,1,Compartilha,72.94
-35000563,Escola Vanguard 564,3549805,SP,1,Kepler,58.18
-35001155,Escola Saber 1156,3550308,SP,1,Compartilha,49.98
-35000399,Centro Educacional Fênix 400,3304557,RJ,1,Farias Brito,62.27
-35001140,Colégio Alfa 1141,2927408,BA,1,Uno,66.13
-35000625,Instituto de Ensino Exponencial 626,2111300,MA,1,Kepler,68.21
-35000655,Centro Educacional Vanguard 656,5300108,DF,1,Farias Brito,50.34
-35000086,Liceu Futuro 87,2933307,BA,1,Uno,69.48
-35001039,Liceu Progresso 1040,4209102,SC,1,Farias Brito,63.87
-35000732,Academia Dom Bosco 733,3106200,MG,1,Farias Brito,68.85
-35000923,Escola Alfa 924,5002704,MS,1,Farias Brito,60.66
-35000304,Academia Nossa Senhora 305,3170206,MG,1,Kepler,60.36
-35000497,Liceu Objetivo 498,3549805,SP,1,Kepler,56.95
-35000735,Colégio Exponencial 736,4106902,PR,1,Compartilha,56.42
-35000649,Escola Progresso 650,2609600,PE,1,Uno,71.07
-35000083,Liceu Nossa Senhora 84,4202404,SC,1,Kepler,59.89
-35000470,Escola Dom Bosco 471,3136702,MG,2,Uno,61.2
-35000959,Escola Elite 960,3549805,SP,1,Compartilha,60.96
-35000616,Academia Integral 617,2609600,PE,1,Uno,68.58
-35000935,Centro Educacional Nossa Senhora 936,4118204,PR,1,Compartilha,64.58
-35000473,Instituto de Ensino Fênix 474,4118204,PR,1,Kepler,59.86
-35000342,Academia Exponencial 343,4314902,RS,1,Kepler,64.25
-35000500,Centro Educacional Pionero 501,3303302,RJ,1,Farias Brito,62.55
-35000896,Academia Fênix 897,3303302,RJ,1,Farias Brito,54.97
-35000164,Centro Educacional Anchieta 165,5002704,MS,1,Kepler,63.34
-35000363,Centro Educacional Dom Bosco 364,3550308,SP,1,Compartilha,64.15
-35000795,Liceu Albert Einstein 796,3304557,RJ,1,Compartilha,56.72
-35000033,Liceu Dom Bosco 34,3550308,SP,1,Farias Brito,70.57
-35000104,Instituto de Ensino Dom Bosco 105,3303302,RJ,1,Compartilha,45.5
-35000018,Centro Educacional Progresso 19,2927408,BA,1,Kepler,61.07
-35000348,Centro Educacional Progresso 349,2927408,BA,1,Uno,64.48
-35000220,Colégio Albert Einstein 221,2609600,PE,1,Uno,55.32
-35001146,Colégio Dom Bosco 1147,2304400,CE,1,Uno,76.89
-35000777,Centro Educacional Saber 778,2927408,BA,1,Compartilha,65.22
+SK_ESCOLA,NO_ENTIDADE,CO_MUNICIPIO,SG_UF,NM_REGIAO,TP_LOCALIZACAO,IDHM,SEL_RECOMENDADO,SCORE_ADERENCIA_SELO
+35001096,Centro Educacional Alfa 1097,3170206,MG,Sudeste,1,0.789,Kepler,57.23
+35000885,Instituto de Ensino Integral 886,5208707,GO,Centro-Oeste,1,0.799,Kepler,59.69
+35001028,Liceu Anchieta 1029,3303302,RJ,Sudeste,1,0.837,Uno,59.9
+35000459,Centro Educacional Anchieta 460,1501402,PA,Norte,1,0.746,Kepler,58.57
+35000120,Liceu Dom Bosco 121,2611606,PE,Nordeste,1,0.772,Kepler,64.87
+35001001,Liceu Objetivo 1002,4118204,PR,Sul,1,0.75,Kepler,55.85
+35000787,Instituto de Ensino Santo Agostinho 788,5300108,DF,Centro-Oeste,1,0.824,Uno,57.57
+35000179,Academia Progresso 180,4316907,RS,Sul,1,0.784,Farias Brito,59.24
+35000569,Escola Objetivo 570,3136702,MG,Sudeste,1,0.778,Kepler,67.87
+35000736,Liceu Saber 737,4113700,PR,Sul,2,0.788,Uno,59.98
+35000078,Colégio Santa Cruz 79,4314902,RS,Sul,1,0.805,Compartilha,60.52
+35000977,Academia Pionero 978,2933307,BA,Nordeste,1,0.718,Farias Brito,62.42
+35000382,Escola Fênix 383,2910800,BA,Nordeste,1,0.712,Farias Brito,73.59
+35000599,Instituto de Ensino Futuro 600,3303302,RJ,Sudeste,2,0.837,Kepler,52.69
+35001046,Liceu Vanguard 1047,2611101,PE,Nordeste,1,0.697,Farias Brito,65.09
+35000114,Centro Educacional Pionero 115,4205407,SC,Sul,1,0.847,Compartilha,56.45
+35000331,Instituto de Ensino Dom Bosco 332,3509502,SP,Sudeste,1,0.805,Uno,64.21
+35000313,Colégio Alfa 314,4209102,SC,Sul,1,0.809,Uno,61.55
+35000620,Liceu Pionero 621,2313500,CE,Nordeste,1,0.714,Farias Brito,63.91
+35000727,Centro Educacional Futuro 728,3509502,SP,Sudeste,1,0.805,Kepler,61.98
+35001120,Academia Elite 1121,2111300,MA,Nordeste,1,0.768,Compartilha,71.1
+35000111,Instituto de Ensino Saber 112,4314902,RS,Sul,2,0.805,Compartilha,56.26
+35000096,Liceu Objetivo 97,1501402,PA,Norte,1,0.746,Compartilha,57.66
+35000224,Liceu Fênix 225,2313500,CE,Nordeste,1,0.714,Farias Brito,55.33
+35001102,Liceu Pionero 1103,4304606,RS,Sul,1,0.782,Uno,57.84
+35000388,Centro Educacional Nossa Senhora 389,2304202,CE,Nordeste,1,0.713,Farias Brito,70.37
+35001186,Academia Integral 1187,2111300,MA,Nordeste,1,0.768,Kepler,59.49
+35000123,Centro Educacional Dom Bosco 124,2304400,CE,Nordeste,1,0.754,Farias Brito,76.37
+35000858,Centro Educacional Santa Cruz 859,3550308,SP,Sudeste,1,0.805,Kepler,56.25
+35000004,Centro Educacional Santa Cruz 5,3301702,RJ,Sudeste,2,0.711,Farias Brito,63.14
+35000063,Colégio Progresso 64,1501402,PA,Norte,1,0.746,Farias Brito,59.6
+35001019,Escola Exponencial 1020,1302603,AM,Norte,1,0.737,Kepler,60.4
+35000992,Instituto de Ensino Santa Cruz 993,3549805,SP,Sudeste,1,0.807,Uno,63.68
+35000635,Colégio Exponencial 636,3136702,MG,Sudeste,1,0.778,Farias Brito,63.5
+35000647,Academia Nossa Senhora 648,2933307,BA,Nordeste,2,0.718,Compartilha,55.76
+35000638,Academia São José 639,4118204,PR,Sul,1,0.75,Kepler,62.18
+35000117,Colégio Saber 118,2927408,BA,Nordeste,1,0.759,Farias Brito,62.12
+35000272,Liceu Fênix 273,3136702,MG,Sudeste,1,0.778,Uno,57.16
+35001180,Instituto de Ensino Integral 1181,2304202,CE,Nordeste,1,0.713,Farias Brito,67.17
+35001058,Academia Saber 1059,3549805,SP,Sudeste,1,0.807,Kepler,61.35
+35000989,Academia Vanguard 990,5002704,MS,Centro-Oeste,1,0.784,Farias Brito,58.23
+35000962,Centro Educacional São José 963,3303302,RJ,Sudeste,1,0.837,Kepler,51.92
+35000212,Academia Fênix 213,4316907,RS,Sul,1,0.784,Uno,63.45
+35001013,Academia Nossa Senhora 1014,2611101,PE,Nordeste,1,0.697,Farias Brito,56.91
+35000010,Academia Fênix 11,4113700,PR,Sul,1,0.788,Kepler,60.96
+35000754,Escola Vanguard 755,5300108,DF,Centro-Oeste,1,0.824,Kepler,47.09
+35000831,Instituto de Ensino Exponencial 832,3106200,MG,Sudeste,1,0.81,Kepler,63.18
+35000760,Academia Fênix 761,3509502,SP,Sudeste,1,0.805,Uno,60.36
+35001165,Academia Santo Agostinho 1166,4113700,PR,Sul,1,0.788,Kepler,70.78
+35000060,Liceu Exponencial 61,5208707,GO,Centro-Oeste,1,0.799,Uno,64.14
+35000352,Centro Educacional Exponencial 353,2609600,PE,Nordeste,1,0.735,Farias Brito,75.95
+35000108,Colégio Vanguard 109,4106902,PR,Sul,1,0.823,Compartilha,58.47
+35000513,Escola Progresso 514,2927408,BA,Nordeste,1,0.759,Kepler,59.41
+35000653,Liceu Objetivo 654,2313500,CE,Nordeste,1,0.714,Farias Brito,70.24
+35000444,Centro Educacional Objetivo 445,4205407,SC,Sul,1,0.847,Kepler,54.62
+35000188,Escola Santa Cruz 189,2611101,PE,Nordeste,1,0.697,Farias Brito,61.76
+35000525,Centro Educacional Progresso 526,1501402,PA,Norte,1,0.746,Farias Brito,57.53
+35000462,Colégio Anchieta 463,3550308,SP,Sudeste,1,0.805,Uno,66.86
+35000480,Centro Educacional Progresso 481,2927408,BA,Nordeste,1,0.759,Farias Brito,52.11
+35000141,Colégio Futuro 142,4106902,PR,Sul,1,0.823,Uno,59.24
+35000239,Escola Anchieta 240,3136702,MG,Sudeste,1,0.778,Farias Brito,63.17
+35000266,Colégio Alfa 267,3549805,SP,Sudeste,1,0.807,Uno,61.73
+35000045,Colégio Albert Einstein 46,4314902,RS,Sul,1,0.805,Kepler,57.76
+35000447,Colégio Vanguard 448,2927408,BA,Nordeste,1,0.759,Farias Brito,62.81
+35000263,Instituto de Ensino Santa Cruz 264,5002704,MS,Centro-Oeste,1,0.784,Uno,65.05
+35000132,Colégio Saber 133,3550308,SP,Sudeste,1,0.805,Uno,69.37
+35000778,Colégio Santa Cruz 779,2910800,BA,Nordeste,1,0.712,Farias Brito,57.02
+35001189,Instituto de Ensino Fênix 1190,3509502,SP,Sudeste,1,0.805,Kepler,62.98
+35000340,Academia Santa Cruz 341,4113700,PR,Sul,1,0.788,Kepler,68.62
+35000662,Academia Dom Bosco 663,3549805,SP,Sudeste,1,0.807,Kepler,63.2
+35000397,Escola Alfa 398,3509502,SP,Sudeste,1,0.805,Uno,72.21
+35001129,Centro Educacional Futuro 1130,3170206,MG,Sudeste,1,0.789,Uno,75.4
+35000790,Colégio Integral 791,2111300,MA,Nordeste,1,0.768,Farias Brito,64.84
+35000221,Instituto de Ensino Santo Agostinho 222,2611101,PE,Nordeste,1,0.697,Farias Brito,64.16
+35000626,Escola Santa Cruz 627,5002704,MS,Centro-Oeste,1,0.784,Uno,59.89
+35000007,Colégio Integral 8,3170206,MG,Sudeste,1,0.789,Uno,70.14
+35001138,Escola São José 1139,4209102,SC,Sul,1,0.809,Compartilha,57.67
+35000337,Escola Nossa Senhora 338,3170206,MG,Sudeste,1,0.789,Kepler,60.2
+35000206,Instituto de Ensino Objetivo 207,3136702,MG,Sudeste,1,0.778,Kepler,61.17
+35000730,Liceu Fênix 731,3301702,RJ,Sudeste,1,0.711,Farias Brito,69.98
+35000876,Academia Integral 877,2927408,BA,Nordeste,1,0.759,Farias Brito,62.17
+35000700,Academia São José 701,3170206,MG,Sudeste,2,0.789,Kepler,61.46
+35000376,Colégio Santo Agostinho 377,4304606,RS,Sul,1,0.782,Uno,60.14
+35000105,Colégio Vanguard 106,3106200,MG,Sudeste,1,0.81,Uno,60.14
+35000781,Escola Fênix 782,2609600,PE,Nordeste,1,0.735,Kepler,56.57
+35000403,Centro Educacional São José 404,3170206,MG,Sudeste,1,0.789,Kepler,61.94
+35001022,Liceu Exponencial 1023,5002704,MS,Centro-Oeste,1,0.784,Uno,68.92
+35000400,Instituto de Ensino Pionero 401,3301702,RJ,Sudeste,1,0.711,Farias Brito,60.0
+35000215,Academia Marista 216,4202404,SC,Sul,1,0.806,Uno,66.87
+35001108,Colégio Anchieta 1109,2910800,BA,Nordeste,1,0.712,Farias Brito,65.23
+35000328,Escola Anchieta 329,2111300,MA,Nordeste,1,0.768,Farias Brito,65.15
+35000245,Escola Albert Einstein 246,4316907,RS,Sul,1,0.784,Uno,62.94
+35000090,Instituto de Ensino Santa Cruz 91,2304400,CE,Nordeste,1,0.754,Kepler,58.58
+35000852,Liceu Albert Einstein 853,5208707,GO,Centro-Oeste,1,0.799,Compartilha,63.36
+35000066,Instituto de Ensino Exponencial 67,3550308,SP,Sudeste,1,0.805,Uno,65.37
+35000194,Liceu Albert Einstein 195,1302603,AM,Norte,2,0.737,Kepler,60.51
+35000900,Colégio São José 901,4106902,PR,Sul,1,0.823,Compartilha,60.06
+35000980,Liceu Marista 981,2611101,PE,Nordeste,1,0.697,Farias Brito,62.99
+35000483,Escola Progresso 484,2611606,PE,Nordeste,1,0.772,Compartilha,64.77
+35000504,Instituto de Ensino Nossa Senhora 505,4106902,PR,Sul,2,0.823,Kepler,58.84
+35000001,Escola Santa Cruz 2,3509502,SP,Sudeste,2,0.805,Uno,67.95
+35000706,Instituto de Ensino Marista 707,4304606,RS,Sul,2,0.782,Uno,70.73
+35000849,Instituto de Ensino Fênix 850,2304400,CE,Nordeste,1,0.754,Farias Brito,72.54
+35000581,Escola Nossa Senhora 582,2933307,BA,Nordeste,1,0.718,Kepler,55.2
+35001010,Instituto de Ensino Alfa 1011,2933307,BA,Nordeste,1,0.718,Farias Brito,70.27
+35000602,Liceu São José 603,3136702,MG,Sudeste,1,0.778,Farias Brito,65.97
+35000361,Liceu Santo Agostinho 362,2111300,MA,Nordeste,1,0.768,Kepler,60.36
+35000236,Instituto de Ensino Pionero 237,3303302,RJ,Sudeste,1,0.837,Compartilha,49.46
+35000927,Liceu Santa Cruz 928,3304557,RJ,Sudeste,1,0.799,Uno,58.41
+35000197,Academia Nossa Senhora 198,5002704,MS,Centro-Oeste,1,0.784,Uno,59.53
+35000891,Instituto de Ensino Marista 892,3550308,SP,Sudeste,2,0.805,Uno,66.48
+35000069,Colégio Alfa 70,3304557,RJ,Sudeste,1,0.799,Compartilha,67.85
+35001031,Colégio Elite 1032,3136702,MG,Sudeste,1,0.778,Kepler,64.32
+35000986,Instituto de Ensino Albert Einstein 987,1302603,AM,Norte,1,0.737,Farias Brito,67.18
+35000611,Instituto de Ensino Progresso 612,4202404,SC,Sul,1,0.806,Uno,62.66
+35000200,Colégio Vanguard 201,3549805,SP,Sudeste,1,0.807,Kepler,59.37
+35000531,Academia Fênix 532,3304557,RJ,Sudeste,1,0.799,Kepler,60.78
+35000888,Instituto de Ensino Vanguard 889,1501402,PA,Norte,1,0.746,Farias Brito,64.57
+35000998,Centro Educacional Futuro 999,3136702,MG,Sudeste,1,0.778,Uno,59.76
+35000641,Liceu Marista 642,4316907,RS,Sul,1,0.784,Farias Brito,62.37
+35000316,Escola Pionero 317,2910800,BA,Nordeste,1,0.712,Kepler,54.65
+35000254,Colégio Marista 255,2611101,PE,Nordeste,1,0.697,Farias Brito,58.32
+35000605,Academia Alfa 606,4118204,PR,Sul,2,0.75,Compartilha,60.87
+35000665,Colégio Albert Einstein 666,3303302,RJ,Sudeste,1,0.837,Kepler,52.26
+35000176,Liceu Santa Cruz 177,4118204,PR,Sul,1,0.75,Farias Brito,58.89
+35000081,Centro Educacional Elite 82,4205407,SC,Sul,1,0.847,Uno,61.9
+35000656,Centro Educacional Dom Bosco 657,1302603,AM,Norte,1,0.737,Kepler,60.67
+35000846,Academia Albert Einstein 847,2611606,PE,Nordeste,1,0.772,Farias Brito,64.89
+35001153,Escola Progresso 1154,2111300,MA,Nordeste,1,0.768,Kepler,61.32
+35000870,Instituto de Ensino Vanguard 871,4314902,RS,Sul,1,0.805,Uno,69.74
+35000126,Academia Progresso 127,5208707,GO,Centro-Oeste,1,0.799,Kepler,66.32
+35001055,Colégio Exponencial 1056,5002704,MS,Centro-Oeste,1,0.784,Uno,67.02
+35000242,Liceu Alfa 243,4118204,PR,Sul,1,0.75,Kepler,62.21
+35000584,Colégio Vanguard 585,2611101,PE,Nordeste,1,0.697,Compartilha,51.96
+35000322,Liceu Anchieta 323,2304202,CE,Nordeste,1,0.713,Farias Brito,53.88
+35000346,Instituto de Ensino Santa Cruz 347,4209102,SC,Sul,1,0.809,Kepler,55.83
+35000367,Escola Saber 368,3301702,RJ,Sudeste,1,0.711,Compartilha,61.82
+35000924,Instituto de Ensino Vanguard 925,3550308,SP,Sudeste,1,0.805,Kepler,61.16
+35000864,Colégio Santo Agostinho 865,3106200,MG,Sudeste,1,0.81,Uno,64.03
+35000471,Centro Educacional Marista 472,4106902,PR,Sul,1,0.823,Uno,74.1
+35000650,Academia São José 651,2611101,PE,Nordeste,1,0.697,Farias Brito,60.42
+35000310,Escola Objetivo 311,4304606,RS,Sul,1,0.782,Kepler,61.53
+35000370,Colégio Fênix 371,3170206,MG,Sudeste,1,0.789,Kepler,62.06
+35000135,Colégio Exponencial 136,3304557,RJ,Sudeste,1,0.799,Uno,62.38
+35000453,Colégio Pionero 454,2304400,CE,Nordeste,1,0.754,Farias Brito,73.69
+35000861,Liceu Progresso 862,3304557,RJ,Sudeste,1,0.799,Compartilha,66.89
+35000867,Instituto de Ensino Elite 868,4106902,PR,Sul,2,0.823,Uno,73.89
+35000307,Liceu Elite 308,4113700,PR,Sul,1,0.788,Compartilha,55.3
+35000983,Academia São José 984,2313500,CE,Nordeste,1,0.714,Farias Brito,72.43
+35000843,Centro Educacional Elite 844,2927408,BA,Nordeste,1,0.759,Kepler,60.44
+35000334,Academia Anchieta 335,3301702,RJ,Sudeste,1,0.711,Farias Brito,61.31
+35001147,Academia Vanguard 1148,2304202,CE,Nordeste,1,0.713,Compartilha,50.24
+35001144,Escola Exponencial 1145,2609600,PE,Nordeste,1,0.735,Kepler,57.01
+35000102,Colégio Anchieta 103,3304557,RJ,Sudeste,1,0.799,Uno,58.29
+35000498,Centro Educacional Objetivo 499,3304557,RJ,Sudeste,1,0.799,Uno,66.0
+35000319,Escola Alfa 320,2609600,PE,Nordeste,1,0.735,Compartilha,54.81
+35000906,Academia Futuro 907,4205407,SC,Sul,1,0.847,Uno,57.45
+35001093,Liceu São José 1094,3301702,RJ,Sudeste,1,0.711,Farias Brito,67.62
+35000072,Academia Integral 73,3106200,MG,Sudeste,1,0.81,Uno,62.64
+35000099,Liceu Vanguard 100,3550308,SP,Sudeste,1,0.805,Kepler,57.96
+35000918,Academia Santo Agostinho 919,5208707,GO,Centro-Oeste,1,0.799,Compartilha,65.53
+35000965,Academia Nossa Senhora 966,3136702,MG,Sudeste,1,0.778,Farias Brito,64.19
+35001037,Academia Exponencial 1038,4316907,RS,Sul,1,0.784,Kepler,61.27
+35000522,Academia Integral 523,5208707,GO,Centro-Oeste,1,0.799,Uno,51.71
+35000391,Liceu Exponencial 392,5300108,DF,Centro-Oeste,1,0.824,Uno,50.08
+35001141,Liceu Santa Cruz 1142,2910800,BA,Nordeste,1,0.712,Compartilha,55.2
+35000733,Liceu Progresso 734,3170206,MG,Sudeste,1,0.789,Uno,73.61
+35000385,Escola Exponencial 386,2609600,PE,Nordeste,1,0.735,Kepler,52.59
+35000048,Liceu Santa Cruz 49,4205407,SC,Sul,1,0.847,Kepler,55.92
+35000191,Centro Educacional Exponencial 192,2313500,CE,Nordeste,1,0.714,Farias Brito,63.05
+35000995,Liceu Dom Bosco 996,3303302,RJ,Sudeste,1,0.837,Uno,54.32
+35001150,Escola Alfa 1151,5300108,DF,Centro-Oeste,1,0.824,Compartilha,48.33
+35000897,Academia Santo Agostinho 898,3106200,MG,Sudeste,1,0.81,Kepler,65.34
+35001171,Escola Futuro 1172,4209102,SC,Sul,1,0.809,Compartilha,61.62
+35000057,Colégio Exponencial 58,2304400,CE,Nordeste,1,0.754,Kepler,61.49
+35000477,Centro Educacional Elite 478,4205407,SC,Sul,1,0.847,Kepler,53.2
+35000739,Escola Progresso 740,4304606,RS,Sul,1,0.782,Uno,73.72
+35001162,Centro Educacional Albert Einstein 1163,3170206,MG,Sudeste,1,0.789,Kepler,68.89
+35000724,Escola Vanguard 725,2111300,MA,Nordeste,2,0.768,Farias Brito,60.32
+35000456,Colégio Fênix 457,5208707,GO,Centro-Oeste,1,0.799,Kepler,60.43
+35000519,Liceu Saber 520,2304400,CE,Nordeste,1,0.754,Farias Brito,67.98
+35000873,Academia Anchieta 874,4205407,SC,Sul,1,0.847,Kepler,58.16
+35001049,Colégio Alfa 1050,2313500,CE,Nordeste,1,0.714,Farias Brito,66.76
+35000364,Academia Alfa 365,3509502,SP,Sudeste,1,0.805,Uno,74.16
+35001114,Instituto de Ensino São José 1115,2304202,CE,Nordeste,1,0.713,Farias Brito,58.11
+35001016,Escola Elite 1017,2313500,CE,Nordeste,1,0.714,Compartilha,55.35
+35000450,Colégio Integral 451,2611606,PE,Nordeste,1,0.772,Farias Brito,60.82
+35000495,Centro Educacional Exponencial 496,3550308,SP,Sudeste,1,0.805,Uno,69.11
+35000534,Colégio Exponencial 535,3106200,MG,Sudeste,1,0.81,Uno,66.18
+35000617,Instituto de Ensino Objetivo 618,2611101,PE,Nordeste,1,0.697,Kepler,50.99
+35000325,Liceu Nossa Senhora 326,5300108,DF,Centro-Oeste,1,0.824,Kepler,49.34
+35000474,Academia Vanguard 475,4314902,RS,Sul,1,0.805,Kepler,58.46
+35000182,Colégio Elite 183,4202404,SC,Sul,2,0.806,Compartilha,62.99
+35001111,Academia Nossa Senhora 1112,2609600,PE,Nordeste,1,0.735,Kepler,51.45
+35000793,Academia Futuro 794,3509502,SP,Sudeste,1,0.805,Uno,66.84
+35000343,Liceu Fênix 344,4304606,RS,Sul,1,0.782,Uno,65.74
+35000968,Escola Saber 969,4118204,PR,Sul,1,0.75,Compartilha,60.92
+35000492,Escola Nossa Senhora 493,1501402,PA,Norte,1,0.746,Kepler,57.47
+35000203,Instituto de Ensino Marista 204,3303302,RJ,Sudeste,1,0.837,Uno,60.93
+35000971,Centro Educacional Marista 972,4316907,RS,Sul,1,0.784,Farias Brito,61.98
+35000251,Instituto de Ensino Nossa Senhora 252,2933307,BA,Nordeste,1,0.718,Kepler,53.28
+35000748,Escola Exponencial 749,2609600,PE,Nordeste,1,0.735,Kepler,57.17
+35000772,Instituto de Ensino Pionero 773,4304606,RS,Sul,1,0.782,Compartilha,62.9
+35000587,Instituto de Ensino Santa Cruz 588,2313500,CE,Nordeste,1,0.714,Farias Brito,75.7
+35001117,Centro Educacional Nossa Senhora 1118,5300108,DF,Centro-Oeste,1,0.824,Uno,55.58
+35000974,Centro Educacional Objetivo 975,4202404,SC,Sul,1,0.806,Compartilha,59.89
+35000358,Academia Albert Einstein 359,5300108,DF,Centro-Oeste,1,0.824,Uno,54.17
+35000138,Instituto de Ensino Marista 139,3106200,MG,Sudeste,1,0.81,Uno,72.91
+35000218,Academia Anchieta 219,2933307,BA,Nordeste,1,0.718,Kepler,54.31
+35000441,Colégio Vanguard 442,4314902,RS,Sul,1,0.805,Uno,63.68
+35000438,Academia Nossa Senhora 439,4106902,PR,Sul,1,0.823,Uno,63.59
+35001025,Instituto de Ensino Santo Agostinho 1026,3549805,SP,Sudeste,1,0.807,Kepler,56.52
+35000703,Academia São José 704,4113700,PR,Sul,1,0.788,Uno,67.09
+35000855,Academia Anchieta 856,1501402,PA,Norte,1,0.746,Farias Brito,73.43
+35000528,Instituto de Ensino Albert Einstein 529,3550308,SP,Sudeste,1,0.805,Uno,77.05
+35000084,Liceu Fênix 85,2927408,BA,Nordeste,1,0.759,Farias Brito,54.32
+35000608,Academia Elite 609,4316907,RS,Sul,1,0.784,Compartilha,76.44
+35001126,Instituto de Ensino Exponencial 1127,3301702,RJ,Sudeste,2,0.711,Compartilha,56.35
+35001132,Instituto de Ensino Nossa Senhora 1133,4113700,PR,Sul,1,0.788,Uno,65.91
+35000763,Colégio Objetivo 764,3301702,RJ,Sudeste,1,0.711,Farias Brito,55.56
+35000712,Colégio Saber 713,2910800,BA,Nordeste,1,0.712,Farias Brito,62.84
+35000796,Escola Elite 797,3301702,RJ,Sudeste,1,0.711,Farias Brito,61.86
+35001099,Escola Nossa Senhora 1100,4113700,PR,Sul,1,0.788,Compartilha,59.14
+35000185,Liceu Dom Bosco 186,2933307,BA,Nordeste,2,0.718,Kepler,54.34
+35000766,Centro Educacional Nossa Senhora 767,3170206,MG,Sudeste,1,0.789,Kepler,65.98
+35000912,Liceu Vanguard 913,2611606,PE,Nordeste,1,0.772,Kepler,62.95
+35000572,Colégio Dom Bosco 573,4118204,PR,Sul,1,0.75,Kepler,56.94
+35001004,Colégio Santo Agostinho 1005,4316907,RS,Sul,1,0.784,Uno,66.45
+35000751,Academia Elite 752,2304202,CE,Nordeste,2,0.713,Kepler,52.74
+35000054,Escola Alfa 55,2611606,PE,Nordeste,1,0.772,Kepler,66.61
+35000507,Escola Pionero 508,4314902,RS,Sul,2,0.805,Uno,58.91
+35000921,Academia Santa Cruz 922,1501402,PA,Norte,1,0.746,Compartilha,56.4
+35000578,Academia Fênix 579,4202404,SC,Sul,1,0.806,Kepler,59.38
+35000757,Escola Vanguard 758,2111300,MA,Nordeste,1,0.768,Farias Brito,51.49
+35001156,Centro Educacional Dom Bosco 1157,3509502,SP,Sudeste,1,0.805,Uno,66.72
+35001168,Colégio Dom Bosco 1169,4304606,RS,Sul,2,0.782,Kepler,58.04
+35001159,Instituto de Ensino Fênix 1160,3301702,RJ,Sudeste,1,0.711,Kepler,55.01
+35000915,Instituto de Ensino Santa Cruz 916,2304400,CE,Nordeste,1,0.754,Kepler,61.99
+35000379,Escola Albert Einstein 380,4209102,SC,Sul,1,0.809,Compartilha,59.24
+35000709,Academia Vanguard 710,4209102,SC,Sul,1,0.809,Uno,60.9
+35000721,Centro Educacional Objetivo 722,5300108,DF,Centro-Oeste,2,0.824,Kepler,47.98
+35000742,Centro Educacional Integral 743,4209102,SC,Sul,1,0.809,Kepler,58.37
+35000909,Liceu Dom Bosco 910,2927408,BA,Nordeste,1,0.759,Kepler,59.12
+35000051,Escola Saber 52,2927408,BA,Nordeste,1,0.759,Farias Brito,58.26
+35000355,Escola Objetivo 356,2304202,CE,Nordeste,1,0.713,Farias Brito,61.4
+35000614,Colégio Marista 615,2933307,BA,Nordeste,1,0.718,Farias Brito,67.32
+35000465,Liceu Nossa Senhora 466,3304557,RJ,Sudeste,1,0.799,Kepler,66.18
+35001183,Escola Alfa 1184,5300108,DF,Centro-Oeste,1,0.824,Kepler,47.78
+35000718,Colégio Alfa 719,2304202,CE,Nordeste,1,0.713,Kepler,53.62
+35001105,Liceu Alfa 1106,4209102,SC,Sul,1,0.809,Uno,58.02
+35000486,Colégio São José 487,2304400,CE,Nordeste,1,0.754,Farias Brito,57.95
+35000575,Colégio Futuro 576,4316907,RS,Sul,1,0.784,Kepler,64.55
+35000087,Instituto de Ensino Futuro 88,2611606,PE,Nordeste,1,0.772,Farias Brito,59.3
+35000903,Academia Progresso 904,4314902,RS,Sul,1,0.805,Uno,58.58
+35001123,Instituto de Ensino Futuro 1124,3509502,SP,Sudeste,1,0.805,Uno,72.4
+35001040,Centro Educacional Albert Einstein 1041,4202404,SC,Sul,1,0.806,Kepler,59.2
+35000075,Liceu Integral 76,4106902,PR,Sul,1,0.823,Kepler,56.58
+35000623,Liceu Alfa 624,1302603,AM,Norte,1,0.737,Farias Brito,67.79
+35001043,Instituto de Ensino Nossa Senhora 1044,2933307,BA,Nordeste,1,0.718,Farias Brito,53.13
+35000468,Academia São José 469,3106200,MG,Sudeste,1,0.81,Uno,64.75
+35001177,Centro Educacional Vanguard 1178,2609600,PE,Nordeste,1,0.735,Farias Brito,69.75
+35000629,Colégio Nossa Senhora 630,3549805,SP,Sudeste,1,0.807,Kepler,59.99
+35000840,Academia Integral 841,4205407,SC,Sul,1,0.847,Uno,60.71
+35000349,Escola Nossa Senhora 350,2910800,BA,Nordeste,1,0.712,Farias Brito,58.35
+35000394,Escola Alfa 395,2111300,MA,Nordeste,1,0.768,Farias Brito,65.03
+35000745,Centro Educacional Alfa 746,2910800,BA,Nordeste,1,0.712,Compartilha,54.15
+35000248,Liceu Objetivo 249,4202404,SC,Sul,1,0.806,Uno,66.21
+35000230,Centro Educacional Fênix 231,5002704,MS,Centro-Oeste,1,0.784,Compartilha,60.19
+35000775,Academia Nossa Senhora 776,4209102,SC,Sul,1,0.809,Kepler,60.93
+35000596,Centro Educacional Fênix 597,3549805,SP,Sudeste,1,0.807,Uno,56.23
+35000260,Liceu São José 261,1302603,AM,Norte,1,0.737,Compartilha,56.68
+35000632,Escola Objetivo 633,3303302,RJ,Sudeste,1,0.837,Compartilha,47.82
+35000590,Academia Anchieta 591,1302603,AM,Norte,1,0.737,Farias Brito,64.8
+35001174,Liceu Alfa 1175,2910800,BA,Nordeste,1,0.712,Farias Brito,55.61
+35000093,Academia Albert Einstein 94,5208707,GO,Centro-Oeste,1,0.799,Uno,57.39
+35000516,Colégio Objetivo 517,2611606,PE,Nordeste,1,0.772,Kepler,68.17
+35000879,Escola Exponencial 880,2611606,PE,Nordeste,1,0.772,Kepler,64.08
+35000659,Escola Albert Einstein 660,5002704,MS,Centro-Oeste,1,0.784,Farias Brito,58.87
+35000501,Instituto de Ensino Elite 502,3106200,MG,Sudeste,1,0.81,Compartilha,56.31
+35001135,Instituto de Ensino Exponencial 1136,4304606,RS,Sul,1,0.782,Uno,57.9
+35000257,Academia Albert Einstein 258,2313500,CE,Nordeste,2,0.714,Farias Brito,69.33
+35000882,Centro Educacional Saber 883,2304400,CE,Nordeste,1,0.754,Farias Brito,70.89
+35000894,Instituto de Ensino Anchieta 895,3304557,RJ,Sudeste,1,0.799,Uno,60.31
+35000837,Escola Dom Bosco 838,4314902,RS,Sul,1,0.805,Uno,71.0
+35000209,Escola Pionero 210,4118204,PR,Sul,1,0.75,Uno,61.96
+35000233,Escola Nossa Senhora 234,3549805,SP,Sudeste,1,0.807,Compartilha,54.65
+35000784,Liceu Saber 785,2304202,CE,Nordeste,1,0.713,Compartilha,54.73
+35000227,Colégio Elite 228,1302603,AM,Norte,1,0.737,Farias Brito,59.69
+35000769,Liceu Elite 770,4113700,PR,Sul,1,0.788,Compartilha,70.46
+35000269,Liceu Exponencial 270,3303302,RJ,Sudeste,1,0.837,Uno,61.38
+35000834,Academia Alfa 835,4106902,PR,Sul,1,0.823,Uno,61.75
+35000644,Escola Elite 645,4202404,SC,Sul,1,0.806,Kepler,62.75
+35000510,Centro Educacional Objetivo 511,4205407,SC,Sul,1,0.847,Uno,58.26
+35001034,Centro Educacional Anchieta 1035,4118204,PR,Sul,1,0.75,Kepler,65.21
+35001052,Escola Objetivo 1053,1302603,AM,Norte,1,0.737,Farias Brito,68.21
+35000489,Colégio Santo Agostinho 490,5208707,GO,Centro-Oeste,1,0.799,Kepler,63.94
+35001007,Escola Alfa 1008,4202404,SC,Sul,1,0.806,Uno,76.62
+35000593,Liceu Saber 594,5002704,MS,Centro-Oeste,1,0.784,Uno,58.57
+35000129,Liceu Elite 130,1501402,PA,Norte,1,0.746,Farias Brito,60.46
+35000715,Liceu Exponencial 716,2609600,PE,Nordeste,1,0.735,Farias Brito,60.26
+35000373,Academia Vanguard 374,4113700,PR,Sul,1,0.788,Uno,64.63
+35000737,Instituto de Ensino Albert Einstein 738,4118204,PR,Sul,1,0.75,Farias Brito,62.59
+35000207,Liceu Objetivo 208,4106902,PR,Sul,1,0.823,Compartilha,58.26
+35000314,Escola Fênix 315,4202404,SC,Sul,1,0.806,Uno,60.86
+35000016,Escola Dom Bosco 17,4209102,SC,Sul,1,0.809,Uno,60.3
+35000320,Colégio Saber 321,2611101,PE,Nordeste,1,0.697,Farias Brito,61.14
+35000472,Academia Exponencial 473,4113700,PR,Sul,1,0.788,Kepler,62.74
+35000409,Liceu Dom Bosco 410,4304606,RS,Sul,1,0.782,Compartilha,61.31
+35000618,Centro Educacional Dom Bosco 619,2304400,CE,Nordeste,1,0.754,Farias Brito,61.34
+35000591,Centro Educacional Dom Bosco 592,1501402,PA,Norte,2,0.746,Compartilha,63.01
+35000841,Liceu Pionero 842,4209102,SC,Sul,1,0.809,Uno,70.27
+35000317,Escola Santo Agostinho 318,2933307,BA,Nordeste,1,0.718,Compartilha,57.04
+35000543,Colégio Santo Agostinho 544,4205407,SC,Sul,2,0.847,Kepler,57.4
+35000028,Liceu Alfa 29,5300108,DF,Centro-Oeste,1,0.824,Compartilha,48.6
+35000064,Liceu Saber 65,2111300,MA,Nordeste,1,0.768,Compartilha,57.48
+35000418,Instituto de Ensino Fênix 419,2609600,PE,Nordeste,1,0.735,Kepler,55.52
+35000564,Liceu Fênix 565,3304557,RJ,Sudeste,1,0.799,Uno,65.52
+35000844,Instituto de Ensino Objetivo 845,2910800,BA,Nordeste,1,0.712,Farias Brito,74.05
+35001097,Academia Albert Einstein 1098,3136702,MG,Sudeste,1,0.778,Compartilha,57.83
+35000752,Academia Integral 753,2313500,CE,Nordeste,1,0.714,Farias Brito,60.27
+35000579,Colégio Albert Einstein 580,2927408,BA,Nordeste,2,0.759,Farias Brito,63.46
+35000362,Colégio Progresso 363,5002704,MS,Centro-Oeste,1,0.784,Uno,57.59
+35000293,Academia Anchieta 294,1302603,AM,Norte,1,0.737,Kepler,62.92
+35000460,Colégio Santo Agostinho 461,2111300,MA,Nordeste,1,0.768,Farias Brito,61.44
+35000823,Instituto de Ensino Objetivo 824,2111300,MA,Nordeste,1,0.768,Kepler,61.87
+35001002,Academia São José 1003,4314902,RS,Sul,1,0.805,Kepler,61.42
+35000415,Centro Educacional Futuro 416,2910800,BA,Nordeste,1,0.712,Farias Brito,71.51
+35000073,Instituto de Ensino Dom Bosco 74,3170206,MG,Sudeste,1,0.789,Uno,69.36
+35000847,Instituto de Ensino Saber 848,2609600,PE,Nordeste,1,0.735,Compartilha,57.03
+35000746,Escola Objetivo 747,2933307,BA,Nordeste,1,0.718,Compartilha,57.45
+35000930,Liceu Albert Einstein 931,3106200,MG,Sudeste,1,0.81,Uno,58.51
+35000344,Centro Educacional Saber 345,4316907,RS,Sul,1,0.784,Uno,62.72
+35000299,Academia Fênix 300,3549805,SP,Sudeste,1,0.807,Kepler,54.45
+35000811,Liceu Futuro 812,2910800,BA,Nordeste,1,0.712,Farias Brito,65.78
+35000892,Instituto de Ensino Objetivo 893,3509502,SP,Sudeste,1,0.805,Compartilha,55.23
+35000076,Academia Exponencial 77,4113700,PR,Sul,2,0.788,Compartilha,65.51
+35000978,Colégio Albert Einstein 979,2611606,PE,Nordeste,1,0.772,Kepler,62.42
+35000088,Instituto de Ensino São José 89,2609600,PE,Nordeste,1,0.735,Farias Brito,70.14
+35000537,Centro Educacional Marista 538,4106902,PR,Sul,1,0.823,Uno,68.32
+35000454,Escola Saber 455,2304202,CE,Nordeste,1,0.713,Farias Brito,59.79
+35000365,Colégio Alfa 366,3549805,SP,Sudeste,2,0.807,Uno,62.4
+35000630,Liceu São José 631,3304557,RJ,Sudeste,1,0.799,Compartilha,59.45
+35000871,Instituto de Ensino Saber 872,4304606,RS,Sul,1,0.782,Uno,68.85
+35000716,Centro Educacional Integral 717,2611101,PE,Nordeste,1,0.697,Farias Brito,54.28
+35000171,Centro Educacional Santo Agostinho 172,3106200,MG,Sudeste,1,0.81,Kepler,60.41
+35001157,Colégio Dom Bosco 1158,3549805,SP,Sudeste,1,0.807,Kepler,58.42
+35000165,Liceu Anchieta 166,3550308,SP,Sudeste,2,0.805,Uno,60.0
+35000457,Escola Progresso 458,5300108,DF,Centro-Oeste,1,0.824,Uno,59.13
+35000808,Centro Educacional Objetivo 809,4209102,SC,Sul,1,0.809,Kepler,53.79
+35000933,Escola Elite 934,4106902,PR,Sul,1,0.823,Uno,60.4
+35001192,Instituto de Ensino Nossa Senhora 1193,3301702,RJ,Sudeste,1,0.711,Compartilha,54.01
+35000749,Escola Elite 750,2611101,PE,Nordeste,1,0.697,Farias Brito,57.54
+35000549,Colégio Integral 550,2611606,PE,Nordeste,1,0.772,Uno,56.41
+35000713,Centro Educacional Vanguard 714,2933307,BA,Nordeste,1,0.718,Farias Brito,71.08
+35000475,Escola Anchieta 476,4304606,RS,Sul,1,0.782,Uno,54.08
+35000287,Colégio Integral 288,2611101,PE,Nordeste,1,0.697,Farias Brito,60.13
+35000874,Centro Educacional Dom Bosco 875,4209102,SC,Sul,1,0.809,Kepler,60.17
+35000097,Liceu Elite 98,2111300,MA,Nordeste,1,0.768,Farias Brito,68.66
+35000022,Academia Futuro 23,2609600,PE,Nordeste,1,0.735,Farias Brito,62.75
+35000275,Academia Objetivo 276,4118204,PR,Sul,1,0.75,Farias Brito,67.53
+35000329,Escola São José 330,5002704,MS,Centro-Oeste,2,0.784,Uno,56.91
+35000338,Academia Nossa Senhora 339,3136702,MG,Sudeste,2,0.778,Kepler,59.65
+35000106,Centro Educacional Marista 107,3170206,MG,Sudeste,1,0.789,Kepler,66.8
+35000496,Centro Educacional Integral 497,3509502,SP,Sudeste,1,0.805,Compartilha,61.07
+35001014,Liceu Anchieta 1015,2304400,CE,Nordeste,1,0.754,Farias Brito,67.79
+35000987,Instituto de Ensino Nossa Senhora 988,1501402,PA,Norte,1,0.746,Kepler,59.15
+35000677,Instituto de Ensino Progresso 678,4202404,SC,Sul,1,0.806,Kepler,61.37
+35001145,Academia Vanguard 1146,2611101,PE,Nordeste,1,0.697,Farias Brito,65.68
+35000695,Centro Educacional Alfa 696,3549805,SP,Sudeste,2,0.807,Kepler,58.56
+35000082,Colégio Albert Einstein 83,4209102,SC,Sul,1,0.809,Kepler,57.89
+35001154,Centro Educacional Exponencial 1155,5002704,MS,Centro-Oeste,1,0.784,Kepler,67.75
+35000945,Liceu Fênix 946,2611606,PE,Nordeste,1,0.772,Compartilha,65.62
+35000427,Escola Anchieta 428,2111300,MA,Nordeste,1,0.768,Compartilha,66.38
+35000225,Centro Educacional Albert Einstein 226,5208707,GO,Centro-Oeste,1,0.799,Kepler,66.5
+35000954,Centro Educacional Anchieta 955,1501402,PA,Norte,1,0.746,Farias Brito,65.74
+35000046,Academia Pionero 47,4304606,RS,Sul,1,0.782,Kepler,63.77
+35000237,Instituto de Ensino Exponencial 238,3106200,MG,Sudeste,1,0.81,Kepler,63.06
+35000162,Liceu Marista 163,1501402,PA,Norte,1,0.746,Compartilha,63.11
+35000814,Colégio Elite 815,2609600,PE,Nordeste,1,0.735,Kepler,54.23
+35001064,Colégio Integral 1065,3136702,MG,Sudeste,1,0.778,Uno,60.45
+35000692,Escola Futuro 693,5002704,MS,Centro-Oeste,2,0.784,Kepler,66.76
+35000359,Escola Integral 360,1302603,AM,Norte,1,0.737,Kepler,65.62
+35000204,Centro Educacional Objetivo 205,3106200,MG,Sudeste,1,0.81,Uno,61.98
+35000880,Centro Educacional Objetivo 881,2609600,PE,Nordeste,1,0.735,Farias Brito,64.31
+35000761,Colégio Futuro 762,3549805,SP,Sudeste,1,0.807,Uno,72.88
+35000725,Colégio Fênix 726,5002704,MS,Centro-Oeste,1,0.784,Uno,62.12
+35000758,Colégio Marista 759,5002704,MS,Centro-Oeste,1,0.784,Kepler,65.2
+35001109,Academia Alfa 1110,2933307,BA,Nordeste,1,0.718,Kepler,55.26
+35000213,Instituto de Ensino Santo Agostinho 214,4205407,SC,Sul,1,0.847,Kepler,55.65
+35000707,Escola Futuro 708,4316907,RS,Sul,1,0.784,Uno,66.37
+35001070,Colégio Santa Cruz 1071,4316907,RS,Sul,1,0.784,Kepler,58.98
+35000820,Instituto de Ensino Santo Agostinho 821,5300108,DF,Centro-Oeste,1,0.824,Uno,50.91
+35000889,Instituto de Ensino Santa Cruz 890,2111300,MA,Nordeste,1,0.768,Farias Brito,56.58
+35000177,Academia Alfa 178,4314902,RS,Sul,1,0.805,Compartilha,59.04
+35000853,Instituto de Ensino Integral 854,5300108,DF,Centro-Oeste,1,0.824,Uno,53.08
+35000326,Colégio Anchieta 327,1302603,AM,Norte,1,0.737,Compartilha,59.73
+35000838,Centro Educacional Progresso 839,4304606,RS,Sul,2,0.782,Kepler,59.22
+35000936,Academia Santa Cruz 937,4314902,RS,Sul,1,0.805,Uno,62.51
+35000999,Colégio Pionero 1000,4106902,PR,Sul,1,0.823,Kepler,55.69
+35001005,Centro Educacional Vanguard 1006,4205407,SC,Sul,1,0.847,Kepler,56.87
+35000198,Academia Elite 199,3550308,SP,Sudeste,2,0.805,Uno,76.74
+35000835,Academia Vanguard 836,4113700,PR,Sul,1,0.788,Uno,59.44
+35000826,Instituto de Ensino Marista 827,3509502,SP,Sudeste,1,0.805,Uno,73.36
+35001121,Instituto de Ensino Exponencial 1122,5002704,MS,Centro-Oeste,1,0.784,Kepler,60.6
+35000606,Colégio Marista 607,4314902,RS,Sul,1,0.805,Uno,70.65
+35000615,Liceu Anchieta 616,2611606,PE,Nordeste,1,0.772,Kepler,60.89
+35000481,Escola Vanguard 482,2910800,BA,Nordeste,1,0.712,Kepler,53.64
+35000555,Colégio Objetivo 556,5208707,GO,Centro-Oeste,2,0.799,Kepler,60.31
+35000951,Escola Exponencial 952,5208707,GO,Centro-Oeste,1,0.799,Compartilha,66.34
+35000975,Escola Saber 976,2927408,BA,Nordeste,1,0.759,Compartilha,52.74
+35000487,Instituto de Ensino Futuro 488,2304202,CE,Nordeste,1,0.713,Farias Brito,72.05
+35000335,Instituto de Ensino Nossa Senhora 336,3303302,RJ,Sudeste,1,0.837,Kepler,51.13
+35000701,Escola Alfa 702,3136702,MG,Sudeste,1,0.778,Farias Brito,64.54
+35000963,Liceu Saber 964,3106200,MG,Sudeste,1,0.81,Uno,71.68
+35001091,Centro Educacional Alfa 1092,3549805,SP,Sudeste,1,0.807,Uno,63.29
+35000561,Escola Futuro 562,3550308,SP,Sudeste,1,0.805,Uno,66.31
+35000350,Colégio Santa Cruz 351,2933307,BA,Nordeste,1,0.718,Compartilha,54.22
+35000341,Liceu Futuro 342,4118204,PR,Sul,1,0.75,Kepler,62.23
+35000710,Escola Fênix 711,4202404,SC,Sul,2,0.806,Compartilha,72.64
+35000353,Liceu Futuro 354,2611101,PE,Nordeste,1,0.697,Kepler,52.84
+35000189,Academia Futuro 190,2304400,CE,Nordeste,1,0.754,Farias Brito,70.44
+35000195,Liceu Vanguard 196,1501402,PA,Norte,1,0.746,Farias Brito,67.41
+35000939,Instituto de Ensino São José 940,4205407,SC,Sul,1,0.847,Uno,62.77
+35000558,Academia Pionero 559,1501402,PA,Norte,1,0.746,Farias Brito,70.62
+35001088,Instituto de Ensino Nossa Senhora 1089,5002704,MS,Centro-Oeste,1,0.784,Compartilha,67.51
+35000040,Colégio Pionero 41,3170206,MG,Sudeste,1,0.789,Uno,70.28
+35000228,Centro Educacional São José 229,1501402,PA,Norte,2,0.746,Farias Brito,69.73
+35000308,Colégio Elite 309,4118204,PR,Sul,1,0.75,Farias Brito,63.26
+35000013,Academia Santo Agostinho 14,4304606,RS,Sul,1,0.782,Kepler,67.88
+35000499,Colégio Pionero 500,3301702,RJ,Sudeste,1,0.711,Farias Brito,61.04
+35000168,Academia Saber 169,3304557,RJ,Sudeste,1,0.799,Compartilha,60.34
+35000037,Colégio Progresso 38,3301702,RJ,Sudeste,1,0.711,Compartilha,54.16
+35000219,Instituto de Ensino Santa Cruz 220,2611606,PE,Nordeste,1,0.772,Farias Brito,65.18
+35000290,Liceu Anchieta 291,2313500,CE,Nordeste,1,0.714,Farias Brito,63.12
+35000805,Liceu Futuro 806,4304606,RS,Sul,1,0.782,Kepler,65.8
+35000850,Centro Educacional Integral 851,2304202,CE,Nordeste,1,0.713,Kepler,52.39
+35000347,Colégio Saber 348,4202404,SC,Sul,1,0.806,Kepler,60.46
+35000573,Academia Vanguard 574,4314902,RS,Sul,1,0.805,Uno,72.88
+35000180,Centro Educacional Nossa Senhora 181,4205407,SC,Sul,1,0.847,Uno,61.26
+35000067,Centro Educacional Santo Agostinho 68,3509502,SP,Sudeste,1,0.805,Compartilha,59.17
+35000603,Instituto de Ensino Nossa Senhora 604,4106902,PR,Sul,1,0.823,Kepler,57.74
+35000311,Colégio Saber 312,4316907,RS,Sul,1,0.784,Kepler,62.2
+35001061,Escola Nossa Senhora 1062,3303302,RJ,Sudeste,1,0.837,Uno,56.89
+35000231,Academia Alfa 232,3550308,SP,Sudeste,1,0.805,Uno,67.12
+35000957,Colégio Saber 958,3550308,SP,Sudeste,1,0.805,Kepler,60.72
+35000948,Instituto de Ensino Santa Cruz 949,2304400,CE,Nordeste,1,0.754,Kepler,59.69
+35001106,Colégio Futuro 1107,4202404,SC,Sul,1,0.806,Uno,68.65
+35000621,Colégio Futuro 622,5208707,GO,Centro-Oeste,1,0.799,Kepler,61.75
+35000728,Colégio Futuro 729,3549805,SP,Sudeste,1,0.807,Uno,62.29
+35001017,Instituto de Ensino Santa Cruz 1018,5208707,GO,Centro-Oeste,1,0.799,Kepler,63.66
+35000186,Liceu Futuro 187,2611606,PE,Nordeste,2,0.772,Kepler,63.55
+35000100,Centro Educacional Saber 101,3509502,SP,Sudeste,1,0.805,Compartilha,56.85
+35000070,Instituto de Ensino Santa Cruz 71,3301702,RJ,Sudeste,1,0.711,Farias Brito,55.8
+35001195,Escola Integral 1196,3170206,MG,Sudeste,1,0.789,Compartilha,55.7
+35000356,Academia Fênix 357,2313500,CE,Nordeste,1,0.714,Farias Brito,65.07
+35000996,Colégio Futuro 997,3106200,MG,Sudeste,1,0.81,Uno,75.9
+35000862,Colégio Santa Cruz 863,3301702,RJ,Sudeste,1,0.711,Kepler,57.08
+35000442,Liceu Dom Bosco 443,4304606,RS,Sul,2,0.782,Kepler,62.13
+35000969,Liceu Dom Bosco 970,4314902,RS,Sul,1,0.805,Kepler,61.25
+35000281,Escola Vanguard 282,4202404,SC,Sul,2,0.806,Kepler,61.48
+35000463,Centro Educacional Objetivo 464,3509502,SP,Sudeste,1,0.805,Kepler,56.88
+35001085,Liceu Albert Einstein 1086,1302603,AM,Norte,1,0.737,Kepler,65.79
+35000052,Escola Saber 53,2910800,BA,Nordeste,1,0.712,Kepler,56.08
+35000058,Liceu Nossa Senhora 59,2304202,CE,Nordeste,1,0.713,Farias Brito,69.15
+35000683,Academia Marista 684,2611101,PE,Nordeste,1,0.697,Kepler,51.03
+35000594,Centro Educacional Albert Einstein 595,3550308,SP,Sudeste,1,0.805,Compartilha,57.52
+35000034,Escola Saber 35,3509502,SP,Sudeste,1,0.805,Kepler,55.86
+35000424,Colégio Futuro 425,5300108,DF,Centro-Oeste,2,0.824,Uno,56.88
+35000612,Academia Anchieta 613,2927408,BA,Nordeste,1,0.759,Farias Brito,63.38
+35000597,Colégio São José 598,3304557,RJ,Sudeste,1,0.799,Compartilha,59.37
+35000802,Academia Dom Bosco 803,4113700,PR,Sul,1,0.788,Kepler,61.57
+35000993,Academia Fênix 994,3304557,RJ,Sudeste,1,0.799,Uno,62.61
+35000305,Liceu Pionero 306,3136702,MG,Sudeste,1,0.778,Farias Brito,62.55
+35000674,Liceu Anchieta 675,4316907,RS,Sul,1,0.784,Uno,60.99
+35000856,Colégio Exponencial 857,2111300,MA,Nordeste,1,0.768,Compartilha,60.08
+35000025,Liceu São José 26,2304202,CE,Nordeste,1,0.713,Farias Brito,61.69
+35000552,Colégio Vanguard 553,2304400,CE,Nordeste,1,0.754,Kepler,59.6
+35000031,Liceu São José 32,2111300,MA,Nordeste,1,0.768,Farias Brito,73.21
+35000079,Colégio São José 80,4304606,RS,Sul,2,0.782,Kepler,61.83
+35001151,Academia Nossa Senhora 1152,1302603,AM,Norte,1,0.737,Kepler,58.93
+35001008,Liceu Futuro 1009,2927408,BA,Nordeste,1,0.759,Farias Brito,63.01
+35000582,Escola Exponencial 583,2611606,PE,Nordeste,1,0.772,Kepler,62.32
+35000984,Colégio Santo Agostinho 985,5208707,GO,Centro-Oeste,1,0.799,Uno,60.06
+35000061,Instituto de Ensino São José 62,5300108,DF,Centro-Oeste,1,0.824,Compartilha,50.14
+35000430,Centro Educacional Santo Agostinho 431,3509502,SP,Sudeste,1,0.805,Kepler,62.81
+35000686,Instituto de Ensino Pionero 687,2313500,CE,Nordeste,1,0.714,Farias Brito,71.09
+35000433,Centro Educacional Vanguard 434,3301702,RJ,Sudeste,1,0.711,Kepler,53.16
+35000153,Instituto de Ensino Integral 154,2611606,PE,Nordeste,1,0.772,Farias Brito,61.5
+35000624,Colégio Elite 625,1501402,PA,Norte,1,0.746,Kepler,59.15
+35000570,Liceu São José 571,4106902,PR,Sul,1,0.823,Compartilha,55.46
+35000296,Liceu São José 297,5002704,MS,Centro-Oeste,1,0.784,Uno,59.36
+35000490,Escola Exponencial 491,5300108,DF,Centro-Oeste,1,0.824,Compartilha,48.78
+35000942,Academia Anchieta 943,2927408,BA,Nordeste,1,0.759,Farias Brito,61.19
+35000886,Academia Anchieta 887,5300108,DF,Centro-Oeste,1,0.824,Kepler,48.57
+35001139,Instituto de Ensino Nossa Senhora 1140,4202404,SC,Sul,2,0.806,Uno,64.59
+35000421,Colégio Alfa 422,2304202,CE,Nordeste,1,0.713,Kepler,53.04
+35000755,Centro Educacional Nossa Senhora 756,1302603,AM,Norte,1,0.737,Kepler,56.75
+35000049,Liceu São José 50,4209102,SC,Sul,1,0.809,Uno,68.82
+35000150,Instituto de Ensino Progresso 151,2927408,BA,Nordeste,1,0.759,Farias Brito,69.42
+35000055,Academia Nossa Senhora 56,2609600,PE,Nordeste,1,0.735,Kepler,53.43
+35000719,Colégio Futuro 720,2313500,CE,Nordeste,2,0.714,Kepler,54.37
+35000546,Escola Integral 547,2927408,BA,Nordeste,1,0.759,Farias Brito,58.91
+35000466,Instituto de Ensino Marista 467,3301702,RJ,Sudeste,1,0.711,Kepler,54.97
+35000966,Liceu Alfa 967,4106902,PR,Sul,1,0.823,Kepler,59.43
+35001103,Instituto de Ensino Saber 1104,4316907,RS,Sul,1,0.784,Kepler,64.83
+35000210,Liceu Pionero 211,4314902,RS,Sul,1,0.805,Uno,62.68
+35000156,Colégio Nossa Senhora 157,2304400,CE,Nordeste,1,0.754,Compartilha,61.18
+35000323,Escola Integral 324,2313500,CE,Nordeste,1,0.714,Farias Brito,69.2
+35001127,Instituto de Ensino Fênix 1128,3303302,RJ,Sudeste,1,0.837,Kepler,51.89
+35000019,Liceu Dom Bosco 20,2910800,BA,Nordeste,1,0.712,Farias Brito,59.75
+35000668,Escola Futuro 669,3136702,MG,Sudeste,1,0.778,Kepler,70.59
+35000588,Instituto de Ensino Pionero 589,5208707,GO,Centro-Oeste,1,0.799,Uno,59.9
+35000484,Centro Educacional São José 485,2609600,PE,Nordeste,1,0.735,Farias Brito,69.22
+35000609,Centro Educacional Alfa 610,4205407,SC,Sul,1,0.847,Kepler,57.47
+35000883,Liceu Fênix 884,2304202,CE,Nordeste,1,0.713,Compartilha,53.98
+35001076,Academia Santo Agostinho 1077,2933307,BA,Nordeste,1,0.718,Farias Brito,56.46
+35001133,Liceu Vanguard 1134,4118204,PR,Sul,1,0.75,Farias Brito,60.8
+35000284,Colégio Santo Agostinho 285,2933307,BA,Nordeste,1,0.718,Farias Brito,75.2
+35001130,Colégio Alfa 1131,3136702,MG,Sudeste,1,0.778,Farias Brito,64.72
+35001073,Escola Exponencial 1074,4202404,SC,Sul,1,0.806,Uno,68.67
+35000585,Academia Saber 586,2304400,CE,Nordeste,1,0.754,Farias Brito,65.37
+35000183,Colégio Marista 184,2927408,BA,Nordeste,1,0.759,Farias Brito,57.89
+35000740,Academia Fênix 741,4316907,RS,Sul,1,0.784,Uno,63.34
+35000302,Colégio Santo Agostinho 303,3303302,RJ,Sudeste,1,0.837,Uno,56.49
+35000445,Centro Educacional Progresso 446,4209102,SC,Sul,1,0.809,Kepler,62.24
+35000144,Instituto de Ensino Marista 145,4314902,RS,Sul,1,0.805,Kepler,60.53
+35000201,Escola Santa Cruz 202,3304557,RJ,Sudeste,1,0.799,Uno,68.43
+35000332,Centro Educacional Elite 333,3549805,SP,Sudeste,1,0.807,Uno,63.43
+35000436,Colégio Vanguard 437,3170206,MG,Sudeste,1,0.789,Compartilha,65.43
+35000731,Colégio Alfa 732,3303302,RJ,Sudeste,1,0.837,Uno,51.85
+35000671,Liceu Futuro 672,4118204,PR,Sul,1,0.75,Uno,57.69
+35000743,Centro Educacional Objetivo 744,4202404,SC,Sul,1,0.806,Kepler,58.96
+35001023,Centro Educacional São José 1024,3550308,SP,Sudeste,1,0.805,Kepler,59.05
+35000406,Centro Educacional Alfa 407,4113700,PR,Sul,1,0.788,Kepler,67.47
+35000799,Centro Educacional Santa Cruz 800,3170206,MG,Sudeste,1,0.789,Kepler,61.49
+35000448,Liceu Albert Einstein 449,2910800,BA,Nordeste,1,0.712,Kepler,54.82
+35000689,Academia Fênix 690,1302603,AM,Norte,1,0.737,Kepler,64.1
+35000877,Centro Educacional Progresso 878,2910800,BA,Nordeste,1,0.712,Compartilha,51.71
+35000469,Academia Marista 470,3170206,MG,Sudeste,1,0.789,Uno,67.15
+35000722,Escola Vanguard 723,1302603,AM,Norte,1,0.737,Farias Brito,65.83
+35000868,Centro Educacional Alfa 869,4113700,PR,Sul,1,0.788,Kepler,58.6
+35000817,Escola Pionero 818,2304202,CE,Nordeste,1,0.713,Farias Brito,58.99
+35001118,Instituto de Ensino Vanguard 1119,1302603,AM,Norte,1,0.737,Compartilha,68.98
+35001100,Liceu Integral 1101,4118204,PR,Sul,1,0.75,Compartilha,62.61
+35000192,Liceu Pionero 193,5208707,GO,Centro-Oeste,1,0.799,Kepler,67.72
+35000478,Instituto de Ensino Albert Einstein 479,4209102,SC,Sul,1,0.809,Kepler,57.69
+35000576,Instituto de Ensino Objetivo 577,4205407,SC,Sul,1,0.847,Kepler,54.03
+35000174,Liceu Marista 175,4106902,PR,Sul,1,0.823,Uno,63.54
+35001124,Escola São José 1125,3549805,SP,Sudeste,1,0.807,Compartilha,65.05
+35000990,Escola Fênix 991,3550308,SP,Sudeste,1,0.805,Compartilha,64.0
+35000972,Centro Educacional Albert Einstein 973,4205407,SC,Sul,1,0.847,Uno,62.26
+35000734,Instituto de Ensino Elite 735,3136702,MG,Sudeste,1,0.778,Uno,61.27
+35001067,Colégio Progresso 1068,4118204,PR,Sul,1,0.75,Farias Brito,65.12
+35000412,Centro Educacional Dom Bosco 413,4209102,SC,Sul,1,0.809,Kepler,53.52
+35001011,Colégio Integral 1012,2611606,PE,Nordeste,1,0.772,Kepler,64.56
+35001079,Liceu Saber 1080,2611101,PE,Nordeste,1,0.697,Farias Brito,60.15
+35000222,Centro Educacional Elite 223,2304400,CE,Nordeste,1,0.754,Compartilha,56.45
+35000627,Academia São José 628,3550308,SP,Sudeste,1,0.805,Compartilha,67.0
+35000567,Instituto de Ensino Alfa 568,3106200,MG,Sudeste,1,0.81,Kepler,59.92
+35001020,Academia Objetivo 1021,1501402,PA,Norte,1,0.746,Kepler,58.95
+35000451,Colégio Progresso 452,2609600,PE,Nordeste,1,0.735,Kepler,57.66
+35000865,Escola Integral 866,3170206,MG,Sudeste,1,0.789,Kepler,62.52
+35001112,Centro Educacional Saber 1113,2611101,PE,Nordeste,1,0.697,Farias Brito,59.38
+35000698,Instituto de Ensino Marista 699,3303302,RJ,Sudeste,1,0.837,Uno,56.67
+35001094,Academia Exponencial 1095,3303302,RJ,Sudeste,1,0.837,Kepler,52.07
+35000147,Liceu Saber 148,4205407,SC,Sul,1,0.847,Uno,52.74
+35000091,Instituto de Ensino Progresso 92,2304202,CE,Nordeste,1,0.713,Farias Brito,55.68
+35000234,Liceu São José 235,3304557,RJ,Sudeste,1,0.799,Uno,76.47
+35000439,Centro Educacional Anchieta 440,4113700,PR,Sul,1,0.788,Uno,61.28
+35000043,Colégio Fênix 44,4113700,PR,Sul,1,0.788,Uno,69.22
+35000103,Escola Santa Cruz 104,3301702,RJ,Sudeste,1,0.711,Farias Brito,65.17
+35001115,Academia Santa Cruz 1116,2313500,CE,Nordeste,1,0.714,Kepler,56.69
+35001198,Escola Anchieta 1199,4113700,PR,Sul,2,0.788,Kepler,61.78
+35000832,Colégio Marista 833,3170206,MG,Sudeste,1,0.789,Uno,69.92
+35000981,Instituto de Ensino Alfa 982,2304400,CE,Nordeste,2,0.754,Kepler,57.24
+35001142,Colégio Progresso 1143,2933307,BA,Nordeste,1,0.718,Farias Brito,55.27
+35000540,Escola Elite 541,4314902,RS,Sul,2,0.805,Uno,72.21
+35000829,Colégio Santo Agostinho 830,3301702,RJ,Sudeste,2,0.711,Farias Brito,61.29
+35000600,Instituto de Ensino Dom Bosco 601,3106200,MG,Sudeste,1,0.81,Kepler,63.34
+35000680,Colégio São José 681,2933307,BA,Nordeste,1,0.718,Farias Brito,66.77
+35000159,Colégio Vanguard 160,5208707,GO,Centro-Oeste,1,0.799,Uno,60.23
+35000960,Colégio Santo Agostinho 961,3304557,RJ,Sudeste,1,0.799,Kepler,61.37
+35000859,Centro Educacional Vanguard 860,3509502,SP,Sudeste,1,0.805,Kepler,60.93
+35000493,Instituto de Ensino Elite 494,2111300,MA,Nordeste,1,0.768,Compartilha,67.77
+35001082,Colégio Exponencial 1083,2313500,CE,Nordeste,1,0.714,Farias Brito,67.58
+35000216,Centro Educacional Santa Cruz 217,2927408,BA,Nordeste,2,0.759,Kepler,55.12
+35000704,Centro Educacional Objetivo 705,4118204,PR,Sul,1,0.75,Uno,59.68
+35001136,Colégio Integral 1137,4316907,RS,Sul,1,0.784,Uno,58.37
+35000368,Academia Santo Agostinho 369,3303302,RJ,Sudeste,2,0.837,Uno,62.66
+35000278,Colégio Dom Bosco 279,4316907,RS,Sul,1,0.784,Uno,59.95
+35000094,Colégio Alfa 95,5300108,DF,Centro-Oeste,1,0.824,Uno,58.49
+35001148,Instituto de Ensino Albert Einstein 1149,2313500,CE,Nordeste,1,0.714,Farias Brito,64.62
+35000085,Colégio Alfa 86,2910800,BA,Nordeste,1,0.712,Farias Brito,63.29
+35000702,Colégio Santo Agostinho 703,4106902,PR,Sul,1,0.823,Uno,73.19
+35000374,Colégio Exponencial 375,4118204,PR,Sul,2,0.75,Compartilha,55.53
+35000005,Liceu Futuro 6,3303302,RJ,Sudeste,1,0.837,Uno,64.07
+35001169,Liceu Integral 1170,4316907,RS,Sul,1,0.784,Kepler,68.58
+35000928,Instituto de Ensino Exponencial 929,3301702,RJ,Sudeste,1,0.711,Compartilha,56.86
+35000458,Instituto de Ensino Anchieta 459,1302603,AM,Norte,1,0.737,Kepler,63.51
+35000711,Liceu Santo Agostinho 712,2927408,BA,Nordeste,1,0.759,Farias Brito,69.22
+35001038,Escola Anchieta 1039,4205407,SC,Sul,1,0.847,Compartilha,54.86
+35000541,Escola Saber 542,4304606,RS,Sul,1,0.782,Uno,65.84
+35000833,Colégio Futuro 834,3136702,MG,Sudeste,1,0.778,Kepler,63.44
+35000764,Escola Albert Einstein 765,3303302,RJ,Sudeste,1,0.837,Compartilha,53.01
+35000830,Colégio Anchieta 831,3303302,RJ,Sudeste,1,0.837,Compartilha,49.03
+35001065,Colégio Progresso 1066,4106902,PR,Sul,1,0.823,Compartilha,55.74
+35000053,Centro Educacional Alfa 54,2933307,BA,Nordeste,1,0.718,Farias Brito,65.89
+35000696,Colégio São José 697,3304557,RJ,Sudeste,1,0.799,Kepler,58.7
+35000035,Liceu Fênix 36,3549805,SP,Sudeste,1,0.807,Uno,72.13
+35000074,Colégio Integral 75,3136702,MG,Sudeste,1,0.778,Compartilha,58.23
+35000988,Academia Pionero 989,2111300,MA,Nordeste,1,0.768,Farias Brito,59.89
+35001059,Academia Anchieta 1060,3304557,RJ,Sudeste,1,0.799,Kepler,59.98
+35000041,Academia Vanguard 42,3136702,MG,Sudeste,1,0.778,Kepler,67.19
+35000669,Instituto de Ensino Vanguard 670,4106902,PR,Sul,1,0.823,Uno,64.94
+35000026,Instituto de Ensino Dom Bosco 27,2313500,CE,Nordeste,2,0.714,Farias Brito,61.15
+35001047,Instituto de Ensino Santo Agostinho 1048,2304400,CE,Nordeste,2,0.754,Kepler,58.71
+35000895,Academia Fênix 896,3301702,RJ,Sudeste,1,0.711,Compartilha,56.21
+35000264,Centro Educacional Santa Cruz 265,3550308,SP,Sudeste,2,0.805,Compartilha,54.05
+35000770,Liceu Santo Agostinho 771,4118204,PR,Sul,1,0.75,Farias Brito,62.28
+35001098,Escola Vanguard 1099,4106902,PR,Sul,1,0.823,Kepler,61.69
+35001092,Liceu Santo Agostinho 1093,3304557,RJ,Sudeste,2,0.799,Kepler,60.33
+35000964,Escola Santo Agostinho 965,3170206,MG,Sudeste,1,0.789,Compartilha,64.48
+35000553,Liceu Pionero 554,2304202,CE,Nordeste,1,0.713,Farias Brito,67.34
+35001032,Academia São José 1033,4106902,PR,Sul,1,0.823,Kepler,59.9
+35000913,Liceu Integral 914,2609600,PE,Nordeste,1,0.735,Kepler,52.4
+35000452,Colégio Elite 453,2611101,PE,Nordeste,1,0.697,Kepler,54.12
+35000800,Academia Elite 801,3136702,MG,Sudeste,1,0.778,Kepler,68.57
+35000386,Escola Santa Cruz 387,2611101,PE,Nordeste,1,0.697,Compartilha,55.73
+35000574,Instituto de Ensino Nossa Senhora 575,4304606,RS,Sul,1,0.782,Compartilha,64.18
+35000979,Centro Educacional Marista 980,2609600,PE,Nordeste,1,0.735,Compartilha,57.43
+35001095,Colégio Saber 1096,3106200,MG,Sudeste,2,0.81,Kepler,59.83
+35001083,Centro Educacional Elite 1084,5208707,GO,Centro-Oeste,1,0.799,Kepler,61.31
+35000330,Escola Pionero 331,3550308,SP,Sudeste,1,0.805,Uno,70.21
+35000529,Colégio Futuro 530,3509502,SP,Sudeste,1,0.805,Uno,58.3
+35001071,Colégio Santo Agostinho 1072,4205407,SC,Sul,1,0.847,Compartilha,58.8
+35000455,Academia Vanguard 456,2313500,CE,Nordeste,1,0.714,Compartilha,50.2
+35000249,Escola Saber 250,2927408,BA,Nordeste,1,0.759,Kepler,61.16
+35000321,Academia Marista 322,2304400,CE,Nordeste,1,0.754,Kepler,58.94
+35000633,Colégio Futuro 634,3106200,MG,Sudeste,1,0.81,Uno,63.66
+35000580,Academia Albert Einstein 581,2910800,BA,Nordeste,1,0.712,Compartilha,55.13
+35000443,Centro Educacional Vanguard 444,4316907,RS,Sul,1,0.784,Kepler,64.13
+35000130,Liceu Santo Agostinho 131,2111300,MA,Nordeste,1,0.768,Farias Brito,57.62
+35000675,Escola Saber 676,4205407,SC,Sul,1,0.847,Kepler,56.28
+35000720,Escola Dom Bosco 721,5208707,GO,Centro-Oeste,1,0.799,Uno,61.05
+35000904,Academia Nossa Senhora 905,4304606,RS,Sul,1,0.782,Compartilha,62.15
+35000592,Centro Educacional Saber 593,2111300,MA,Nordeste,1,0.768,Kepler,62.83
+35001113,Academia Elite 1114,2304400,CE,Nordeste,1,0.754,Kepler,59.05
+35000583,Academia Albert Einstein 584,2609600,PE,Nordeste,1,0.735,Compartilha,61.01
+35000032,Escola Pionero 33,5002704,MS,Centro-Oeste,1,0.784,Farias Brito,58.31
+35000309,Academia Anchieta 310,4314902,RS,Sul,1,0.805,Compartilha,52.37
+35000824,Centro Educacional Santo Agostinho 825,5002704,MS,Centro-Oeste,1,0.784,Kepler,62.56
+35000693,Escola Marista 694,3550308,SP,Sudeste,1,0.805,Compartilha,59.37
+35000919,Colégio São José 920,5300108,DF,Centro-Oeste,1,0.824,Kepler,49.82
+35000782,Escola Nossa Senhora 783,2611101,PE,Nordeste,2,0.697,Kepler,50.08
+35000163,Escola Santa Cruz 164,2111300,MA,Nordeste,1,0.768,Farias Brito,57.72
+35000514,Instituto de Ensino Alfa 515,2910800,BA,Nordeste,1,0.712,Farias Brito,66.97
+35000172,Colégio Elite 173,3170206,MG,Sudeste,1,0.789,Compartilha,63.32
+35001041,Colégio Objetivo 1042,2927408,BA,Nordeste,2,0.759,Compartilha,57.21
+35001089,Colégio Alfa 1090,3550308,SP,Sudeste,1,0.805,Uno,63.07
+35000297,Centro Educacional Dom Bosco 298,3550308,SP,Sudeste,1,0.805,Kepler,57.79
+35000791,Colégio Futuro 792,5002704,MS,Centro-Oeste,1,0.784,Farias Brito,60.42
+35000946,Escola Saber 947,2609600,PE,Nordeste,1,0.735,Farias Brito,63.14
+35001199,Colégio Anchieta 1200,4118204,PR,Sul,1,0.75,Kepler,64.86
+35000243,Colégio Progresso 244,4314902,RS,Sul,1,0.805,Uno,76.64
+35000288,Colégio Anchieta 289,2304400,CE,Nordeste,2,0.754,Farias Brito,63.47
+35000648,Colégio Objetivo 649,2611606,PE,Nordeste,1,0.772,Kepler,60.9
+35000011,Instituto de Ensino Vanguard 12,4118204,PR,Sul,1,0.75,Kepler,63.28
+35000505,Escola São José 506,4113700,PR,Sul,1,0.788,Uno,65.02
+35000300,Liceu Exponencial 301,3304557,RJ,Sudeste,1,0.799,Kepler,57.17
+35001029,Liceu Albert Einstein 1030,3106200,MG,Sudeste,1,0.81,Uno,72.34
+35000568,Academia São José 569,3170206,MG,Sudeste,2,0.789,Compartilha,58.91
+35000773,Centro Educacional Objetivo 774,4316907,RS,Sul,1,0.784,Uno,63.75
+35000910,Academia Exponencial 911,2910800,BA,Nordeste,1,0.712,Farias Brito,62.28
+35000407,Academia Fênix 408,4118204,PR,Sul,1,0.75,Compartilha,56.98
+35000169,Academia Elite 170,3301702,RJ,Sudeste,1,0.711,Farias Brito,71.95
+35000395,Escola Santa Cruz 396,5002704,MS,Centro-Oeste,1,0.784,Kepler,62.67
+35000812,Instituto de Ensino Pionero 813,2933307,BA,Nordeste,1,0.718,Farias Brito,71.38
+35000392,Escola Marista 393,1302603,AM,Norte,1,0.737,Farias Brito,61.23
+35000699,Liceu Santo Agostinho 700,3106200,MG,Sudeste,1,0.81,Kepler,62.71
+35000922,Colégio Alfa 923,2111300,MA,Nordeste,1,0.768,Farias Brito,72.77
+35001122,Centro Educacional Santa Cruz 1123,3550308,SP,Sudeste,1,0.805,Uno,64.96
+35000767,Academia Exponencial 768,3136702,MG,Sudeste,1,0.778,Kepler,67.6
+35000193,Colégio Integral 194,5300108,DF,Centro-Oeste,1,0.824,Uno,57.75
+35000139,Centro Educacional Objetivo 140,3170206,MG,Sudeste,1,0.789,Kepler,63.37
+35000535,Centro Educacional Pionero 536,3170206,MG,Sudeste,2,0.789,Uno,69.37
+35000937,Centro Educacional Marista 938,4304606,RS,Sul,1,0.782,Kepler,64.29
+35000991,Centro Educacional Santo Agostinho 992,3509502,SP,Sudeste,1,0.805,Compartilha,64.28
+35001056,Academia Saber 1057,3550308,SP,Sudeste,2,0.805,Uno,62.3
+35000252,Escola Anchieta 253,2611606,PE,Nordeste,1,0.772,Compartilha,65.18
+35001116,Liceu Progresso 1117,5208707,GO,Centro-Oeste,1,0.799,Kepler,63.58
+35001035,Centro Educacional Pionero 1036,4314902,RS,Sul,2,0.805,Uno,60.71
+35000434,Liceu Santa Cruz 435,3303302,RJ,Sudeste,1,0.837,Kepler,53.62
+35000809,Instituto de Ensino Saber 810,4202404,SC,Sul,1,0.806,Compartilha,60.04
+35001193,Escola Santa Cruz 1194,3303302,RJ,Sudeste,1,0.837,Compartilha,49.98
+35001077,Liceu Santo Agostinho 1078,2611606,PE,Nordeste,1,0.772,Farias Brito,66.94
+35001190,Liceu Saber 1191,3549805,SP,Sudeste,1,0.807,Uno,62.7
+35000416,Centro Educacional São José 417,2933307,BA,Nordeste,1,0.718,Compartilha,54.3
+35000589,Escola Vanguard 590,5300108,DF,Centro-Oeste,1,0.824,Uno,54.81
+35000860,Escola Santo Agostinho 861,3549805,SP,Sudeste,1,0.807,Uno,72.76
+35000333,Centro Educacional Albert Einstein 334,3304557,RJ,Sudeste,1,0.799,Uno,61.27
+35000202,Colégio Anchieta 203,3301702,RJ,Sudeste,1,0.711,Compartilha,55.55
+35000544,Academia Objetivo 545,4209102,SC,Sul,1,0.809,Compartilha,57.17
+35000068,Colégio Fênix 69,3549805,SP,Sudeste,2,0.807,Uno,68.28
+35000142,Academia Santo Agostinho 143,4113700,PR,Sul,1,0.788,Compartilha,60.41
+35001160,Escola Anchieta 1161,3303302,RJ,Sudeste,1,0.837,Kepler,52.03
+35000857,Liceu Saber 858,5002704,MS,Centro-Oeste,1,0.784,Kepler,62.62
+35000517,Instituto de Ensino Futuro 518,2609600,PE,Nordeste,1,0.735,Kepler,53.55
+35000961,Academia Dom Bosco 962,3301702,RJ,Sudeste,1,0.711,Farias Brito,57.1
+35000934,Colégio Santa Cruz 935,4113700,PR,Sul,1,0.788,Uno,64.57
+35000324,Colégio Futuro 325,5208707,GO,Centro-Oeste,1,0.799,Uno,67.94
+35000371,Instituto de Ensino Santo Agostinho 372,3136702,MG,Sudeste,1,0.778,Uno,62.25
+35001163,Centro Educacional Santa Cruz 1164,3136702,MG,Sudeste,1,0.778,Kepler,66.02
+35000398,Liceu Pionero 399,3549805,SP,Sudeste,1,0.807,Kepler,57.81
+35000440,Liceu Santo Agostinho 441,4118204,PR,Sul,2,0.75,Compartilha,54.06
+35000943,Colégio Santa Cruz 944,2910800,BA,Nordeste,1,0.712,Kepler,50.5
+35000663,Academia Elite 664,3304557,RJ,Sudeste,1,0.799,Kepler,61.3
+35000255,Escola Albert Einstein 256,2304400,CE,Nordeste,1,0.754,Farias Brito,76.22
+35000639,Instituto de Ensino Dom Bosco 640,4314902,RS,Sul,1,0.805,Compartilha,63.55
+35000779,Centro Educacional Futuro 780,2933307,BA,Nordeste,1,0.718,Farias Brito,72.31
+35000931,Escola Marista 932,3170206,MG,Sudeste,1,0.789,Uno,64.43
+35001175,Escola Santo Agostinho 1176,2933307,BA,Nordeste,1,0.718,Farias Brito,53.33
+35000246,Instituto de Ensino Elite 247,4205407,SC,Sul,1,0.847,Uno,62.43
+35000261,Centro Educacional Nossa Senhora 262,1501402,PA,Norte,1,0.746,Farias Brito,77.2
+35001119,Instituto de Ensino São José 1120,1501402,PA,Norte,1,0.746,Farias Brito,72.93
+35000038,Escola Elite 39,3303302,RJ,Sudeste,2,0.837,Kepler,51.61
+35000821,Instituto de Ensino Exponencial 822,1302603,AM,Norte,1,0.737,Kepler,61.57
+35000982,Liceu Marista 983,2304202,CE,Nordeste,1,0.713,Compartilha,48.63
+35000586,Colégio Elite 587,2304202,CE,Nordeste,1,0.713,Farias Brito,67.65
+35001181,Instituto de Ensino Dom Bosco 1182,2313500,CE,Nordeste,1,0.714,Farias Brito,66.61
+35000785,Colégio Albert Einstein 786,2313500,CE,Nordeste,1,0.714,Kepler,54.66
+35001107,Colégio Progresso 1108,2927408,BA,Nordeste,1,0.759,Kepler,57.77
+35000178,Centro Educacional Saber 179,4304606,RS,Sul,1,0.782,Kepler,61.77
+35000401,Instituto de Ensino Santo Agostinho 402,3303302,RJ,Sudeste,1,0.837,Uno,65.77
+35000532,Liceu Albert Einstein 533,3301702,RJ,Sudeste,1,0.711,Farias Brito,62.96
+35000550,Colégio Pionero 551,2609600,PE,Nordeste,1,0.735,Farias Brito,68.22
+35000071,Colégio Pionero 72,3303302,RJ,Sudeste,1,0.837,Uno,58.15
+35000431,Colégio Anchieta 432,3549805,SP,Sudeste,2,0.807,Compartilha,60.96
+35000901,Instituto de Ensino Objetivo 902,4113700,PR,Sul,1,0.788,Uno,69.99
+35000109,Colégio Santa Cruz 110,4113700,PR,Sul,2,0.788,Uno,58.22
+35000717,Colégio Elite 718,2304400,CE,Nordeste,1,0.754,Kepler,58.53
+35000422,Escola Santo Agostinho 423,2313500,CE,Nordeste,1,0.714,Farias Brito,72.13
+35000014,Escola Marista 15,4316907,RS,Sul,1,0.784,Compartilha,60.87
+35000303,Academia Santa Cruz 304,3106200,MG,Sudeste,1,0.81,Compartilha,63.66
+35000157,Liceu Futuro 158,2304202,CE,Nordeste,1,0.713,Compartilha,53.62
+35000449,Instituto de Ensino Nossa Senhora 450,2933307,BA,Nordeste,1,0.718,Kepler,52.21
+35000148,Colégio Objetivo 149,4209102,SC,Sul,1,0.809,Uno,67.67
+35000848,Academia Nossa Senhora 849,2611101,PE,Nordeste,1,0.697,Compartilha,53.99
+35000708,Instituto de Ensino Santo Agostinho 709,4205407,SC,Sul,1,0.847,Uno,50.77
+35000976,Centro Educacional Vanguard 977,2910800,BA,Nordeste,1,0.712,Farias Brito,60.14
+35000383,Escola Elite 384,2933307,BA,Nordeste,1,0.718,Kepler,54.07
+35000577,Instituto de Ensino Anchieta 578,4209102,SC,Sul,1,0.809,Kepler,59.38
+35000199,Escola Exponencial 200,3509502,SP,Sudeste,1,0.805,Kepler,61.24
+35000949,Instituto de Ensino Elite 950,2304202,CE,Nordeste,1,0.713,Farias Brito,53.54
+35000827,Colégio Nossa Senhora 828,3549805,SP,Sudeste,1,0.807,Compartilha,55.44
+35000446,Escola Santo Agostinho 447,4202404,SC,Sul,1,0.806,Compartilha,70.89
+35000136,Liceu Progresso 137,3301702,RJ,Sudeste,1,0.711,Farias Brito,62.76
+35000797,Escola Alfa 798,3303302,RJ,Sudeste,1,0.837,Kepler,53.07
+35000318,Escola Dom Bosco 319,2611606,PE,Nordeste,1,0.772,Kepler,63.51
+35001172,Instituto de Ensino Objetivo 1173,4202404,SC,Sul,1,0.806,Uno,71.01
+35001196,Escola Progresso 1197,3136702,MG,Sudeste,1,0.778,Kepler,60.89
+35000306,Academia Albert Einstein 307,4106902,PR,Sul,1,0.823,Uno,64.95
+35000958,Colégio Futuro 959,3509502,SP,Sudeste,1,0.805,Compartilha,57.52
+35000788,Academia Marista 789,1302603,AM,Norte,1,0.737,Compartilha,62.84
+35000008,Liceu Exponencial 9,3136702,MG,Sudeste,1,0.778,Uno,56.74
+35000380,Academia Albert Einstein 381,4202404,SC,Sul,1,0.806,Kepler,58.88
+35000115,Instituto de Ensino Pionero 116,4209102,SC,Sul,1,0.809,Uno,60.23
+35001074,Liceu Nossa Senhora 1075,2927408,BA,Nordeste,1,0.759,Kepler,59.69
+35000389,Centro Educacional Objetivo 390,2313500,CE,Nordeste,1,0.714,Farias Brito,65.41
+35001101,Liceu Santo Agostinho 1102,4314902,RS,Sul,1,0.805,Uno,70.66
+35000556,Escola Pionero 557,5300108,DF,Centro-Oeste,1,0.824,Kepler,49.07
+35000065,Escola Albert Einstein 66,5002704,MS,Centro-Oeste,1,0.784,Uno,62.66
+35000952,Liceu Albert Einstein 953,5300108,DF,Centro-Oeste,1,0.824,Compartilha,51.25
+35000160,Centro Educacional Fênix 161,5300108,DF,Centro-Oeste,1,0.824,Kepler,48.35
+35000050,Colégio Vanguard 51,4202404,SC,Sul,1,0.806,Kepler,64.34
+35000059,Academia Fênix 60,2313500,CE,Nordeste,1,0.714,Compartilha,55.46
+35000044,Liceu Anchieta 45,4118204,PR,Sul,1,0.75,Compartilha,74.0
+35000955,Liceu Santa Cruz 956,2111300,MA,Nordeste,1,0.768,Farias Brito,56.46
+35000681,Escola Santa Cruz 682,2611606,PE,Nordeste,1,0.772,Compartilha,69.27
+35001187,Instituto de Ensino Alfa 1188,5002704,MS,Centro-Oeste,1,0.784,Kepler,61.66
+35001026,Colégio Marista 1027,3304557,RJ,Sudeste,1,0.799,Uno,61.99
+35000273,Instituto de Ensino Progresso 274,4106902,PR,Sul,1,0.823,Uno,73.73
+35000467,Liceu Exponencial 468,3303302,RJ,Sudeste,1,0.837,Uno,62.62
+35000291,Liceu Anchieta 292,5208707,GO,Centro-Oeste,1,0.799,Kepler,59.96
+35000184,Escola Santa Cruz 185,2910800,BA,Nordeste,1,0.712,Farias Brito,60.83
+35001050,Instituto de Ensino Anchieta 1051,5208707,GO,Centro-Oeste,1,0.799,Kepler,65.08
+35000282,Academia Vanguard 283,2927408,BA,Nordeste,2,0.759,Kepler,59.27
+35000803,Academia Progresso 804,4118204,PR,Sul,2,0.75,Uno,58.16
+35000666,Academia Vanguard 667,3106200,MG,Sudeste,2,0.81,Compartilha,62.14
+35000377,Escola Saber 378,4316907,RS,Sul,1,0.784,Uno,61.25
+35000419,Escola Vanguard 420,2611101,PE,Nordeste,1,0.697,Kepler,50.72
+35000511,Centro Educacional Nossa Senhora 512,4209102,SC,Sul,1,0.809,Kepler,56.63
+35000187,Liceu Exponencial 188,2609600,PE,Nordeste,1,0.735,Farias Brito,70.8
+35000404,Colégio Objetivo 405,3136702,MG,Sudeste,1,0.778,Farias Brito,62.75
+35000562,Colégio Elite 563,3509502,SP,Sudeste,1,0.805,Uno,70.78
+35000654,Centro Educacional Alfa 655,5208707,GO,Centro-Oeste,1,0.799,Uno,64.38
+35000598,Liceu Nossa Senhora 599,3301702,RJ,Sudeste,1,0.711,Compartilha,56.92
+35000806,Liceu Vanguard 807,4316907,RS,Sul,1,0.784,Farias Brito,51.59
+35000017,Escola São José 18,4202404,SC,Sul,1,0.806,Kepler,65.59
+35000410,Academia Integral 411,4316907,RS,Sul,1,0.784,Kepler,59.99
+35000526,Centro Educacional Santo Agostinho 527,2111300,MA,Nordeste,1,0.768,Farias Brito,67.93
+35000940,Centro Educacional Futuro 941,4209102,SC,Sul,2,0.809,Uno,66.29
+35000842,Centro Educacional Vanguard 843,4202404,SC,Sul,2,0.806,Uno,59.65
+35000154,Liceu Integral 155,2609600,PE,Nordeste,1,0.735,Kepler,55.46
+35001184,Liceu Anchieta 1185,1302603,AM,Norte,1,0.737,Kepler,64.78
+35000690,Academia Elite 691,1501402,PA,Norte,1,0.746,Kepler,61.73
+35000112,Centro Educacional Alfa 113,4304606,RS,Sul,1,0.782,Uno,70.56
+35000776,Instituto de Ensino Exponencial 777,4202404,SC,Sul,1,0.806,Uno,70.12
+35000145,Liceu Santa Cruz 146,4304606,RS,Sul,2,0.782,Uno,63.32
+35000925,Escola Progresso 926,3509502,SP,Sudeste,1,0.805,Kepler,61.04
+35000276,Academia Saber 277,4314902,RS,Sul,1,0.805,Uno,77.33
+35000315,Escola Progresso 316,2927408,BA,Nordeste,1,0.759,Kepler,62.87
+35001053,Colégio São José 1054,1501402,PA,Norte,1,0.746,Farias Brito,77.52
+35000175,Centro Educacional Alfa 176,4113700,PR,Sul,1,0.788,Kepler,67.69
+35001166,Colégio Dom Bosco 1167,4118204,PR,Sul,1,0.75,Farias Brito,65.54
+35000818,Instituto de Ensino Saber 819,2313500,CE,Nordeste,1,0.714,Compartilha,59.3
+35000678,Escola Albert Einstein 679,2927408,BA,Nordeste,1,0.759,Kepler,56.15
+35001068,Instituto de Ensino São José 1069,4314902,RS,Sul,1,0.805,Kepler,58.58
+35000726,Centro Educacional Objetivo 727,3550308,SP,Sudeste,1,0.805,Kepler,56.46
+35000270,Colégio Objetivo 271,3106200,MG,Sudeste,1,0.81,Uno,76.09
+35000642,Academia Fênix 643,4205407,SC,Sul,1,0.847,Uno,57.6
+35000508,Liceu Objetivo 509,4304606,RS,Sul,1,0.782,Compartilha,63.03
+35000181,Escola São José 182,4209102,SC,Sul,1,0.809,Kepler,57.04
+35001178,Academia Saber 1179,2611101,PE,Nordeste,1,0.697,Kepler,52.18
+35000267,Centro Educacional Saber 268,3304557,RJ,Sudeste,1,0.799,Kepler,64.16
+35000520,Instituto de Ensino Albert Einstein 521,2304202,CE,Nordeste,1,0.713,Farias Brito,64.53
+35000687,Centro Educacional Elite 688,5208707,GO,Centro-Oeste,1,0.799,Uno,66.8
+35000907,Academia Exponencial 908,4209102,SC,Sul,1,0.809,Uno,58.55
+35000898,Escola Nossa Senhora 899,3170206,MG,Sudeste,1,0.789,Kepler,59.99
+35000029,Centro Educacional Futuro 30,1302603,AM,Norte,1,0.737,Kepler,62.3
+35000571,Liceu Nossa Senhora 572,4113700,PR,Sul,1,0.788,Kepler,63.98
+35001110,Liceu São José 1111,2611606,PE,Nordeste,1,0.772,Farias Brito,62.05
+35000854,Liceu Objetivo 855,1302603,AM,Norte,2,0.737,Kepler,62.14
+35000973,Escola Progresso 974,4209102,SC,Sul,1,0.809,Uno,62.44
+35000723,Escola Progresso 724,1501402,PA,Norte,1,0.746,Farias Brito,65.91
+35000205,Escola Fênix 206,3170206,MG,Sudeste,1,0.789,Uno,62.25
+35000967,Colégio Saber 968,4113700,PR,Sul,1,0.788,Uno,61.09
+35000190,Escola Albert Einstein 191,2304202,CE,Nordeste,1,0.713,Farias Brito,58.57
+35000151,Colégio Fênix 152,2910800,BA,Nordeste,1,0.712,Farias Brito,56.25
+35000121,Escola São José 122,2609600,PE,Nordeste,1,0.735,Kepler,55.08
+35000839,Centro Educacional Nossa Senhora 840,4316907,RS,Sul,1,0.784,Uno,62.8
+35000240,Instituto de Ensino Santa Cruz 241,4106902,PR,Sul,1,0.823,Uno,64.92
+35001044,Escola Objetivo 1045,2611606,PE,Nordeste,1,0.772,Farias Brito,67.04
+35000133,Instituto de Ensino Albert Einstein 134,3509502,SP,Sudeste,1,0.805,Compartilha,66.33
+35000502,Colégio Vanguard 503,3170206,MG,Sudeste,1,0.789,Uno,66.32
+35000651,Instituto de Ensino Elite 652,2304400,CE,Nordeste,1,0.754,Kepler,60.35
+35000437,Escola Integral 438,3136702,MG,Sudeste,1,0.778,Uno,57.95
+35000714,Colégio Futuro 715,2611606,PE,Nordeste,1,0.772,Farias Brito,70.9
+35000705,Colégio Vanguard 706,4314902,RS,Sul,2,0.805,Uno,80.46
+35000672,Colégio Albert Einstein 673,4314902,RS,Sul,1,0.805,Uno,73.35
+35000020,Escola Nossa Senhora 21,2933307,BA,Nordeste,1,0.718,Compartilha,55.7
+35001062,Academia Marista 1063,3106200,MG,Sudeste,2,0.81,Compartilha,63.72
+35000645,Centro Educacional Exponencial 646,2927408,BA,Nordeste,1,0.759,Farias Brito,69.86
+35000258,Liceu Fênix 259,5208707,GO,Centro-Oeste,1,0.799,Kepler,62.4
+35000970,Liceu Nossa Senhora 971,4304606,RS,Sul,1,0.782,Uno,62.58
+35000124,Academia Nossa Senhora 125,2304202,CE,Nordeste,1,0.713,Compartilha,47.73
+35000547,Centro Educacional Santa Cruz 548,2910800,BA,Nordeste,1,0.712,Compartilha,50.42
+35000559,Centro Educacional Vanguard 560,2111300,MA,Nordeste,1,0.768,Compartilha,58.01
+35000684,Escola Albert Einstein 685,2304400,CE,Nordeste,1,0.754,Kepler,59.3
+35000062,Colégio Dom Bosco 63,1302603,AM,Norte,1,0.737,Farias Brito,60.05
+35000657,Centro Educacional Exponencial 658,1501402,PA,Norte,1,0.746,Farias Brito,61.78
+35000729,Escola Nossa Senhora 730,3304557,RJ,Sudeste,1,0.799,Kepler,59.86
+35000836,Colégio Objetivo 837,4118204,PR,Sul,1,0.75,Uno,56.58
+35000279,Liceu Progresso 280,4205407,SC,Sul,1,0.847,Kepler,54.87
+35000794,Escola Anchieta 795,3549805,SP,Sudeste,1,0.807,Uno,61.53
+35000047,Instituto de Ensino Anchieta 48,4316907,RS,Sul,1,0.784,Uno,60.5
+35000425,Centro Educacional São José 426,1302603,AM,Norte,1,0.737,Kepler,63.77
+35000595,Escola Vanguard 596,3509502,SP,Sudeste,1,0.805,Compartilha,62.93
+35000327,Academia Elite 328,1501402,PA,Norte,1,0.746,Farias Brito,54.71
+35000294,Escola Fênix 295,1501402,PA,Norte,1,0.746,Farias Brito,70.64
+35000336,Colégio Futuro 337,3106200,MG,Sudeste,1,0.81,Uno,70.45
+35000464,Centro Educacional Fênix 465,3549805,SP,Sudeste,1,0.807,Compartilha,57.45
+35000851,Escola Fênix 852,2313500,CE,Nordeste,1,0.714,Kepler,53.96
+35000127,Instituto de Ensino Santa Cruz 128,5300108,DF,Centro-Oeste,1,0.824,Uno,58.25
+35001104,Liceu Integral 1105,4205407,SC,Sul,1,0.847,Compartilha,57.52
+35000428,Colégio Alfa 429,5002704,MS,Centro-Oeste,1,0.784,Farias Brito,60.35
+35000196,Liceu Pionero 197,2111300,MA,Nordeste,1,0.768,Farias Brito,53.92
+35000056,Instituto de Ensino Albert Einstein 57,2611101,PE,Nordeste,1,0.697,Farias Brito,57.34
+35001086,Colégio Saber 1087,1501402,PA,Norte,1,0.746,Kepler,54.14
+35000523,Centro Educacional Vanguard 524,5300108,DF,Centro-Oeste,1,0.824,Kepler,49.4
+35000636,Colégio Dom Bosco 637,4106902,PR,Sul,2,0.823,Compartilha,59.89
+35000845,Liceu Elite 846,2933307,BA,Nordeste,1,0.718,Farias Brito,64.93
+35000166,Instituto de Ensino Santo Agostinho 167,3509502,SP,Sudeste,1,0.805,Kepler,60.77
+35000461,Academia São José 462,5002704,MS,Centro-Oeste,1,0.784,Uno,64.51
+35000565,Academia Santo Agostinho 566,3301702,RJ,Sudeste,1,0.711,Kepler,54.34
+35000916,Academia Nossa Senhora 917,2304202,CE,Nordeste,1,0.713,Farias Brito,62.27
+35000538,Colégio Progresso 539,4113700,PR,Sul,1,0.788,Uno,70.48
+35000815,Escola Marista 816,2611101,PE,Nordeste,1,0.697,Farias Brito,57.88
+35000118,Liceu Saber 119,2910800,BA,Nordeste,1,0.712,Kepler,55.86
+35000413,Liceu Santa Cruz 414,4202404,SC,Sul,1,0.806,Uno,72.88
+35000312,Instituto de Ensino São José 313,4205407,SC,Sul,1,0.847,Uno,60.32
+35000660,Centro Educacional Vanguard 661,3550308,SP,Sudeste,2,0.805,Kepler,60.31
+35000023,Academia Vanguard 24,2611101,PE,Nordeste,1,0.697,Farias Brito,56.81
+35000002,Colégio Pionero 3,3549805,SP,Sudeste,1,0.807,Uno,62.55
+35000985,Colégio Integral 986,5300108,DF,Centro-Oeste,1,0.824,Uno,51.7
+35001080,Instituto de Ensino Santa Cruz 1081,2304400,CE,Nordeste,1,0.754,Kepler,54.84
+35000285,Liceu Albert Einstein 286,2611606,PE,Nordeste,1,0.772,Farias Brito,66.27
+35000899,Academia Vanguard 900,3136702,MG,Sudeste,1,0.778,Uno,58.17
+35001024,Colégio São José 1025,3509502,SP,Sudeste,1,0.805,Kepler,58.52
+35000673,Escola Anchieta 674,4304606,RS,Sul,1,0.782,Uno,72.33
+35000482,Instituto de Ensino Albert Einstein 483,2933307,BA,Nordeste,2,0.718,Compartilha,51.29
+35000884,Academia Exponencial 885,2313500,CE,Nordeste,1,0.714,Farias Brito,70.04
+35000533,Liceu São José 534,3303302,RJ,Sudeste,1,0.837,Compartilha,53.85
+35000354,Centro Educacional Santa Cruz 355,2304400,CE,Nordeste,1,0.754,Kepler,61.64
+35000417,Escola Anchieta 418,2611606,PE,Nordeste,1,0.772,Kepler,69.58
+35000241,Escola São José 242,4113700,PR,Sul,1,0.788,Uno,64.85
+35001146,Escola Vanguard 1147,2304400,CE,Nordeste,2,0.754,Kepler,60.13
+35000658,Liceu Santa Cruz 659,2111300,MA,Nordeste,1,0.768,Kepler,60.52
+35000953,Academia Progresso 954,1302603,AM,Norte,1,0.737,Kepler,60.33
+35001164,Liceu Futuro 1165,4106902,PR,Sul,1,0.823,Kepler,57.46
+35000018,Centro Educacional Albert Einstein 19,2927408,BA,Nordeste,1,0.759,Farias Brito,67.85
+35000042,Liceu Futuro 43,4106902,PR,Sul,1,0.823,Kepler,57.4
+35000661,Liceu Fênix 662,3509502,SP,Sudeste,1,0.805,Uno,69.71
+35001075,Instituto de Ensino Saber 1076,2910800,BA,Nordeste,1,0.712,Farias Brito,61.98
+35000408,Academia Exponencial 409,4314902,RS,Sul,1,0.805,Uno,70.02
+35000622,Escola Alfa 623,5300108,DF,Centro-Oeste,1,0.824,Uno,55.27
+35000959,Escola Futuro 960,3549805,SP,Sudeste,1,0.807,Uno,67.86
+35000387,Colégio Santa Cruz 388,2304400,CE,Nordeste,1,0.754,Kepler,63.45
+35000956,Instituto de Ensino Albert Einstein 957,5002704,MS,Centro-Oeste,1,0.784,Kepler,63.82
+35000679,Centro Educacional Alfa 680,2910800,BA,Nordeste,1,0.712,Kepler,54.35
+35000301,Academia Alfa 302,3301702,RJ,Sudeste,1,0.711,Kepler,56.23
+35001173,Escola Elite 1174,2927408,BA,Nordeste,1,0.759,Farias Brito,60.8
+35000548,Escola Pionero 549,2933307,BA,Nordeste,1,0.718,Farias Brito,71.97
+35000819,Colégio Pionero 820,5208707,GO,Centro-Oeste,1,0.799,Uno,58.41
+35000479,Colégio Marista 480,4202404,SC,Sul,1,0.806,Uno,66.04
+35000009,Escola Santo Agostinho 10,4106902,PR,Sul,1,0.823,Compartilha,57.25
+35001078,Instituto de Ensino Fênix 1079,2609600,PE,Nordeste,1,0.735,Farias Brito,70.68
+35000878,Academia Santo Agostinho 879,2933307,BA,Nordeste,1,0.718,Farias Brito,70.13
+35000914,Instituto de Ensino Vanguard 915,2611101,PE,Nordeste,1,0.697,Kepler,52.44
+35000223,Colégio Vanguard 224,2304202,CE,Nordeste,1,0.713,Farias Brito,66.68
+35000822,Colégio Progresso 823,1501402,PA,Norte,1,0.746,Kepler,59.04
+35000158,Instituto de Ensino São José 159,2313500,CE,Nordeste,1,0.714,Compartilha,50.84
+35000372,Colégio Nossa Senhora 373,4106902,PR,Sul,1,0.823,Kepler,59.91
+35000610,Colégio Futuro 611,4209102,SC,Sul,1,0.809,Uno,55.39
+35001045,Academia Santa Cruz 1046,2609600,PE,Nordeste,1,0.735,Farias Brito,71.05
+35000155,Escola Albert Einstein 156,2611101,PE,Nordeste,1,0.697,Kepler,50.19
+35000435,Centro Educacional Dom Bosco 436,3106200,MG,Sudeste,1,0.81,Uno,69.4
+35000086,Liceu Futuro 87,2933307,BA,Nordeste,2,0.718,Farias Brito,52.6
+35000000,Centro Educacional Saber 1,3550308,SP,Sudeste,1,0.805,Uno,66.32
+35001140,Instituto de Ensino Exponencial 1141,2927408,BA,Nordeste,1,0.759,Farias Brito,62.67
+35000923,Escola Elite 924,5002704,MS,Centro-Oeste,1,0.784,Uno,65.11
+35001000,Centro Educacional Integral 1001,4113700,PR,Sul,1,0.788,Compartilha,73.45
+35000601,Instituto de Ensino Nossa Senhora 602,3170206,MG,Sudeste,1,0.789,Compartilha,71.82
+35000432,Escola Alfa 433,3304557,RJ,Sudeste,1,0.799,Uno,66.1
+35000813,Centro Educacional Progresso 814,2611606,PE,Nordeste,1,0.772,Farias Brito,66.87
+35000676,Instituto de Ensino Nossa Senhora 677,4209102,SC,Sul,1,0.809,Kepler,54.04
+35000024,Liceu Pionero 25,2304400,CE,Nordeste,1,0.754,Kepler,63.62
+35001188,Colégio Nossa Senhora 1189,3550308,SP,Sudeste,1,0.805,Uno,60.57
+35000643,Liceu Anchieta 644,4209102,SC,Sul,1,0.809,Uno,64.4
+35000122,Colégio Fênix 123,2611101,PE,Nordeste,1,0.697,Farias Brito,69.47
+35001185,Instituto de Ensino São José 1186,1501402,PA,Norte,1,0.746,Compartilha,62.54
+35000941,Academia Anchieta 942,4202404,SC,Sul,1,0.806,Uno,74.09
+35000226,Colégio Nossa Senhora 227,5300108,DF,Centro-Oeste,2,0.824,Kepler,49.68
+35000277,Escola Exponencial 278,4304606,RS,Sul,1,0.782,Kepler,63.85
+35000342,Centro Educacional Albert Einstein 343,4314902,RS,Sul,1,0.805,Kepler,56.84
+35001057,Liceu Santo Agostinho 1058,3509502,SP,Sudeste,2,0.805,Compartilha,63.84
+35000039,Liceu Saber 40,3106200,MG,Sudeste,1,0.81,Compartilha,60.03
+35000816,Escola Elite 817,2304400,CE,Nordeste,1,0.754,Kepler,60.05
+35000938,Escola Saber 939,4316907,RS,Sul,1,0.784,Kepler,58.51
+35000012,Escola Pionero 13,4314902,RS,Sul,1,0.805,Compartilha,58.17
+35001084,Colégio Dom Bosco 1085,5300108,DF,Centro-Oeste,1,0.824,Kepler,48.58
+35000134,Escola Vanguard 135,3549805,SP,Sudeste,1,0.807,Compartilha,58.01
+35000268,Colégio Exponencial 269,3301702,RJ,Sudeste,1,0.711,Kepler,56.83
+35000619,Instituto de Ensino Alfa 620,2304202,CE,Nordeste,1,0.713,Compartilha,52.04
+35000015,Instituto de Ensino Alfa 16,4205407,SC,Sul,1,0.847,Kepler,55.97
+35000521,Centro Educacional Marista 522,2313500,CE,Nordeste,1,0.714,Kepler,53.85
+35000685,Liceu Nossa Senhora 686,2304202,CE,Nordeste,1,0.713,Kepler,51.98
+35000935,Academia Santo Agostinho 936,4118204,PR,Sul,1,0.75,Uno,56.02
+35000759,Instituto de Ensino Alfa 760,3550308,SP,Sudeste,1,0.805,Uno,67.14
+35001194,Escola Alfa 1195,3106200,MG,Sudeste,1,0.81,Kepler,56.71
+35001155,Instituto de Ensino Saber 1156,3550308,SP,Sudeste,2,0.805,Uno,66.17
+35001048,Instituto de Ensino Futuro 1049,2304202,CE,Nordeste,1,0.713,Farias Brito,70.03
+35000235,Instituto de Ensino Elite 236,3301702,RJ,Sudeste,1,0.711,Kepler,54.8
+35000997,Instituto de Ensino Futuro 998,3170206,MG,Sudeste,1,0.789,Kepler,65.09
+35001125,Liceu Nossa Senhora 1126,3304557,RJ,Sudeste,1,0.799,Uno,61.84
+35000488,Liceu São José 489,2313500,CE,Nordeste,1,0.714,Farias Brito,57.68
+35000515,Academia Vanguard 516,2933307,BA,Nordeste,1,0.718,Kepler,56.45
+35000033,Colégio Marista 34,3550308,SP,Sudeste,1,0.805,Kepler,60.39
+35000232,Academia Vanguard 233,3509502,SP,Sudeste,1,0.805,Kepler,58.56
+35000783,Academia Marista 784,2304400,CE,Nordeste,1,0.754,Farias Brito,63.78
+35000098,Liceu Alfa 99,5002704,MS,Centro-Oeste,1,0.784,Kepler,60.96
+35000146,Escola Santa Cruz 147,4316907,RS,Sul,1,0.784,Uno,61.08
+35001015,Academia Futuro 1016,2304202,CE,Nordeste,1,0.713,Kepler,51.36
+35001060,Colégio Fênix 1061,3301702,RJ,Sudeste,1,0.711,Kepler,59.29
+35000217,Liceu Integral 218,2910800,BA,Nordeste,1,0.712,Compartilha,52.9
+35000030,Instituto de Ensino Fênix 31,1501402,PA,Norte,1,0.746,Kepler,57.48
+35000214,Centro Educacional Progresso 215,4209102,SC,Sul,1,0.809,Compartilha,59.05
+35000429,Liceu Santo Agostinho 430,3550308,SP,Sudeste,1,0.805,Uno,63.4
+35000697,Instituto de Ensino Futuro 698,3301702,RJ,Sudeste,1,0.711,Farias Brito,66.99
+35000390,Colégio Fênix 391,5208707,GO,Centro-Oeste,1,0.799,Kepler,64.05
+35000283,Academia Integral 284,2910800,BA,Nordeste,1,0.712,Kepler,55.73
+35000667,Liceu Saber 668,3170206,MG,Sudeste,1,0.789,Uno,64.34
+35000872,Centro Educacional Santa Cruz 873,4316907,RS,Sul,1,0.784,Compartilha,62.0
+35000637,Liceu Marista 638,4113700,PR,Sul,1,0.788,Kepler,66.53
+35000003,Liceu Nossa Senhora 4,3304557,RJ,Sudeste,1,0.799,Kepler,62.07
+35000298,Centro Educacional Elite 299,3509502,SP,Sudeste,1,0.805,Kepler,64.53
+35001128,Centro Educacional Santa Cruz 1129,3106200,MG,Sudeste,1,0.81,Kepler,61.89
+35000262,Colégio Marista 263,2111300,MA,Nordeste,1,0.768,Kepler,60.8
+35000348,Instituto de Ensino Anchieta 349,2927408,BA,Nordeste,1,0.759,Kepler,55.86
+35000616,Liceu Elite 617,2609600,PE,Nordeste,1,0.735,Farias Brito,70.76
+35001063,Academia Futuro 1064,3170206,MG,Sudeste,1,0.789,Uno,75.93
+35000542,Academia Futuro 543,4316907,RS,Sul,1,0.784,Uno,62.14
+35000271,Centro Educacional São José 272,3170206,MG,Sudeste,1,0.789,Uno,65.5
+35000866,Liceu Anchieta 867,3136702,MG,Sudeste,1,0.778,Uno,58.07
+35001179,Liceu Marista 1180,2304400,CE,Nordeste,1,0.754,Kepler,59.16
+35000536,Academia Integral 537,3136702,MG,Sudeste,1,0.778,Kepler,61.03
+35000798,Liceu Futuro 799,3106200,MG,Sudeste,1,0.81,Kepler,67.0
+35000947,Liceu São José 948,2611101,PE,Nordeste,1,0.697,Kepler,51.2
+35001182,Instituto de Ensino Exponencial 1183,5208707,GO,Centro-Oeste,1,0.799,Uno,71.05
+35000259,Centro Educacional Dom Bosco 260,5300108,DF,Centro-Oeste,1,0.824,Uno,56.82
+35001027,Academia Integral 1028,3301702,RJ,Sudeste,1,0.711,Kepler,55.77
+35000753,Liceu Exponencial 754,5208707,GO,Centro-Oeste,1,0.799,Uno,59.7
+35001030,Colégio Anchieta 1031,3170206,MG,Sudeste,1,0.789,Compartilha,67.14
+35000929,Centro Educacional Objetivo 930,3303302,RJ,Sudeste,1,0.837,Compartilha,51.11
+35000688,Academia Integral 689,5300108,DF,Centro-Oeste,1,0.824,Uno,48.53
+35000345,Centro Educacional Vanguard 346,4205407,SC,Sul,1,0.847,Kepler,55.93
+35001170,Liceu Alfa 1171,4205407,SC,Sul,1,0.847,Compartilha,54.38
+35000905,Centro Educacional Alfa 906,4316907,RS,Sul,1,0.784,Kepler,59.52
+35001033,Liceu Albert Einstein 1034,4113700,PR,Sul,1,0.788,Kepler,58.47
+35001009,Liceu Santo Agostinho 1010,2910800,BA,Nordeste,1,0.712,Kepler,54.23
+35000286,Escola Santo Agostinho 287,2609600,PE,Nordeste,1,0.735,Farias Brito,67.93
+35000908,Escola Santa Cruz 909,4202404,SC,Sul,1,0.806,Kepler,62.54
+35000402,Colégio Fênix 403,3106200,MG,Sudeste,1,0.81,Compartilha,59.15
+35000649,Colégio Anchieta 650,2609600,PE,Nordeste,1,0.735,Farias Brito,64.76
+35000414,Instituto de Ensino Santa Cruz 415,2927408,BA,Nordeste,1,0.759,Farias Brito,65.89
+35000423,Academia Santa Cruz 424,5208707,GO,Centro-Oeste,1,0.799,Uno,69.84
+35000887,Academia Albert Einstein 888,1302603,AM,Norte,1,0.737,Kepler,60.54
+35001158,Academia Exponencial 1159,3304557,RJ,Sudeste,1,0.799,Uno,62.84
+35000265,Academia Santo Agostinho 266,3509502,SP,Sudeste,1,0.805,Uno,75.52
+35000381,Centro Educacional Futuro 382,2927408,BA,Nordeste,1,0.759,Farias Brito,72.48
+35001012,Liceu Dom Bosco 1013,2609600,PE,Nordeste,1,0.735,Kepler,53.92
+35001021,Centro Educacional São José 1022,2111300,MA,Nordeste,1,0.768,Farias Brito,63.15
+35001018,Colégio Vanguard 1019,5300108,DF,Centro-Oeste,1,0.824,Uno,52.22
+35001036,Liceu Fênix 1037,4304606,RS,Sul,1,0.782,Kepler,62.59
+35000494,Liceu Marista 495,5002704,MS,Centro-Oeste,1,0.784,Uno,63.7
+35000768,Escola Albert Einstein 769,4106902,PR,Sul,1,0.823,Uno,66.65
+35000244,Centro Educacional Dom Bosco 245,4304606,RS,Sul,1,0.782,Kepler,63.34
+35000485,Colégio Futuro 486,2611101,PE,Nordeste,1,0.697,Farias Brito,54.94
+35000551,Colégio Progresso 552,2611101,PE,Nordeste,2,0.697,Kepler,53.05
+35000256,Academia Marista 257,2304202,CE,Nordeste,1,0.713,Farias Brito,50.04
+35000863,Colégio Progresso 864,3303302,RJ,Sudeste,2,0.837,Compartilha,51.72
+35000890,Colégio Pionero 891,5002704,MS,Centro-Oeste,1,0.784,Kepler,63.81
+35000253,Academia Anchieta 254,2609600,PE,Nordeste,1,0.735,Farias Brito,65.63
+35000780,Academia São José 781,2611606,PE,Nordeste,2,0.772,Farias Brito,66.58
+35000360,Academia Santa Cruz 361,1501402,PA,Norte,1,0.746,Farias Brito,61.67
+35000426,Instituto de Ensino Objetivo 427,1501402,PA,Norte,1,0.746,Farias Brito,73.81
+35000634,Escola Anchieta 635,3170206,MG,Sudeste,1,0.789,Uno,69.4
+35000795,Instituto de Ensino Saber 796,3304557,RJ,Sudeste,1,0.799,Kepler,66.08
+35001051,Academia Vanguard 1052,5300108,DF,Centro-Oeste,1,0.824,Uno,51.67
+35000545,Liceu Anchieta 546,4202404,SC,Sul,1,0.806,Uno,61.55
+35000926,Centro Educacional Fênix 927,3549805,SP,Sudeste,1,0.807,Compartilha,59.27
+35000101,Colégio Alfa 102,3549805,SP,Sudeste,2,0.807,Uno,66.71
+35000473,Centro Educacional Alfa 474,4118204,PR,Sul,1,0.75,Kepler,63.57
+35000652,Instituto de Ensino Fênix 653,2304202,CE,Nordeste,1,0.713,Compartilha,51.09
+35000750,Colégio Nossa Senhora 751,2304400,CE,Nordeste,1,0.754,Farias Brito,56.37
+35000694,Colégio Integral 695,3509502,SP,Sudeste,1,0.805,Kepler,56.69
+35000238,Escola Elite 239,3170206,MG,Sudeste,1,0.789,Uno,67.79
+35000077,Colégio Albert Einstein 78,4118204,PR,Sul,1,0.75,Kepler,62.57
+35000131,Centro Educacional Progresso 132,5002704,MS,Centro-Oeste,1,0.784,Compartilha,67.93
+35000128,Escola Futuro 129,1302603,AM,Norte,2,0.737,Farias Brito,65.54
+35000250,Academia Santo Agostinho 251,2910800,BA,Nordeste,2,0.712,Compartilha,56.37
+35000289,Liceu Saber 290,2304202,CE,Nordeste,1,0.713,Farias Brito,58.93
+35000164,Escola Anchieta 165,5002704,MS,Centro-Oeste,1,0.784,Compartilha,65.64
+35000881,Colégio Albert Einstein 882,2611101,PE,Nordeste,1,0.697,Kepler,53.89
+35000027,Instituto de Ensino Futuro 28,5208707,GO,Centro-Oeste,1,0.799,Kepler,62.65
+35000363,Academia Marista 364,3550308,SP,Sudeste,1,0.805,Uno,74.87
+35000530,Escola Saber 531,3549805,SP,Sudeste,2,0.807,Compartilha,66.16
+35000503,Liceu Futuro 504,3136702,MG,Sudeste,2,0.778,Compartilha,68.6
+35001006,Instituto de Ensino Santa Cruz 1007,4209102,SC,Sul,1,0.809,Uno,68.28
+35000152,Liceu Alfa 153,2933307,BA,Nordeste,1,0.718,Farias Brito,60.37
+35000607,Academia Santa Cruz 608,4304606,RS,Sul,1,0.782,Kepler,61.7
+35000083,Instituto de Ensino Santo Agostinho 84,4202404,SC,Sul,1,0.806,Uno,76.56
+35001137,Escola Elite 1138,4205407,SC,Sul,1,0.847,Compartilha,59.5
+35000411,Escola Santa Cruz 412,4205407,SC,Sul,1,0.847,Kepler,54.57
+35000036,Instituto de Ensino Nossa Senhora 37,3304557,RJ,Sudeste,1,0.799,Compartilha,62.86
+35000932,Centro Educacional Alfa 933,3136702,MG,Sudeste,1,0.778,Kepler,70.99
+35000384,Liceu Elite 385,2611606,PE,Nordeste,1,0.772,Farias Brito,62.23
+35000125,Academia Exponencial 126,2313500,CE,Nordeste,1,0.714,Compartilha,57.48
+35000512,Centro Educacional Objetivo 513,4202404,SC,Sul,1,0.806,Kepler,61.41
+35000524,Academia Santa Cruz 525,1302603,AM,Norte,1,0.737,Compartilha,55.59
+35001069,Escola Exponencial 1070,4304606,RS,Sul,1,0.782,Compartilha,65.65
+35000476,Centro Educacional Integral 477,4316907,RS,Sul,1,0.784,Compartilha,73.29
+35000557,Centro Educacional Dom Bosco 558,1302603,AM,Norte,1,0.737,Kepler,59.45
+35000771,Academia Objetivo 772,4314902,RS,Sul,1,0.805,Uno,70.72
+35000339,Instituto de Ensino Fênix 340,4106902,PR,Sul,1,0.823,Uno,70.29
+35000393,Escola Exponencial 394,1501402,PA,Norte,1,0.746,Kepler,61.59
+35000810,Centro Educacional Integral 811,2927408,BA,Nordeste,1,0.759,Farias Brito,56.04
+35000744,Academia Dom Bosco 745,2927408,BA,Nordeste,1,0.759,Kepler,57.38
+35000625,Instituto de Ensino Dom Bosco 626,2111300,MA,Nordeste,1,0.768,Farias Brito,66.88
+35000280,Liceu Fênix 281,4209102,SC,Sul,1,0.809,Uno,63.51
+35000566,Liceu Pionero 567,3303302,RJ,Sudeste,1,0.837,Kepler,54.15
+35000211,Liceu Pionero 212,4304606,RS,Sul,1,0.782,Uno,68.17
+35000554,Liceu Progresso 555,2313500,CE,Nordeste,1,0.714,Compartilha,52.03
+35000092,Colégio Santo Agostinho 93,2313500,CE,Nordeste,1,0.714,Kepler,54.53
+35000304,Centro Educacional Futuro 305,3170206,MG,Sudeste,1,0.789,Kepler,67.15
+35000917,Instituto de Ensino São José 918,2313500,CE,Nordeste,1,0.714,Farias Brito,56.97
+35000682,Instituto de Ensino Marista 683,2609600,PE,Nordeste,1,0.735,Kepler,53.76
+35000247,Liceu Santo Agostinho 248,4209102,SC,Sul,1,0.809,Uno,71.08
+35001131,Instituto de Ensino Vanguard 1132,4106902,PR,Sul,1,0.823,Kepler,55.77
+35000777,Liceu Santo Agostinho 778,2927408,BA,Nordeste,1,0.759,Kepler,61.01
+35001152,Instituto de Ensino Santa Cruz 1153,1501402,PA,Norte,1,0.746,Kepler,60.77
+35000560,Instituto de Ensino Alfa 561,5002704,MS,Centro-Oeste,1,0.784,Kepler,64.31
+35001167,Instituto de Ensino Progresso 1168,4314902,RS,Sul,1,0.805,Uno,73.44
+35000762,Centro Educacional Futuro 763,3304557,RJ,Sudeste,1,0.799,Kepler,63.53
+35000080,Instituto de Ensino Alfa 81,4316907,RS,Sul,1,0.784,Uno,70.03
+35000140,Academia Objetivo 141,3136702,MG,Sudeste,1,0.778,Farias Brito,62.77
+35000994,Colégio Elite 995,3301702,RJ,Sudeste,1,0.711,Kepler,55.22
+35000539,Colégio Santa Cruz 540,4118204,PR,Sul,1,0.75,Uno,56.01
+35000691,Instituto de Ensino Alfa 692,2111300,MA,Nordeste,1,0.768,Farias Brito,63.25
+35000113,Escola Vanguard 114,4316907,RS,Sul,1,0.784,Uno,64.8
+35000295,Escola Objetivo 296,2111300,MA,Nordeste,1,0.768,Compartilha,63.47
+35000161,Liceu Dom Bosco 162,1302603,AM,Norte,1,0.737,Farias Brito,68.55
+35000497,Academia Albert Einstein 498,3549805,SP,Sudeste,1,0.807,Uno,74.29
+35000375,Escola Futuro 376,4314902,RS,Sul,1,0.805,Compartilha,60.4
+35000804,Academia Integral 805,4314902,RS,Sul,1,0.805,Uno,64.19
+35000143,Escola Alfa 144,4118204,PR,Sul,1,0.75,Farias Brito,58.88
+35000119,Escola Objetivo 120,2933307,BA,Nordeste,1,0.718,Farias Brito,68.59
+35000021,Colégio Marista 22,2611606,PE,Nordeste,1,0.772,Kepler,63.85
+35000875,Academia Santa Cruz 876,4202404,SC,Sul,1,0.806,Kepler,59.21
+35000149,Academia Marista 150,4202404,SC,Sul,1,0.806,Uno,75.12
+35000229,Liceu Pionero 230,2111300,MA,Nordeste,1,0.768,Kepler,64.73
+35000506,Centro Educacional Marista 507,4118204,PR,Sul,1,0.75,Compartilha,57.88
+35000274,Instituto de Ensino Elite 275,4113700,PR,Sul,1,0.788,Kepler,63.99
+35001039,Instituto de Ensino Progresso 1040,4209102,SC,Sul,1,0.809,Uno,67.34
+35000765,Liceu Progresso 766,3106200,MG,Sudeste,1,0.81,Kepler,66.61
+35000509,Instituto de Ensino Anchieta 510,4316907,RS,Sul,1,0.784,Kepler,66.58
+35000896,Colégio Elite 897,3303302,RJ,Sudeste,2,0.837,Uno,61.81
+35001149,Liceu Marista 1150,5208707,GO,Centro-Oeste,1,0.799,Kepler,58.67
+35000116,Escola Elite 117,4202404,SC,Sul,2,0.806,Uno,66.37
+35001191,Instituto de Ensino Elite 1192,3304557,RJ,Sudeste,1,0.799,Kepler,60.83
+35000825,Colégio Futuro 826,3550308,SP,Sudeste,1,0.805,Uno,71.61
+35000491,Academia Elite 492,1302603,AM,Norte,1,0.737,Kepler,63.18
+35000893,Colégio Albert Einstein 894,3549805,SP,Sudeste,1,0.807,Kepler,61.25
+35000789,Instituto de Ensino Vanguard 790,1501402,PA,Norte,1,0.746,Compartilha,56.08
+35000738,Academia São José 739,4314902,RS,Sul,1,0.805,Uno,59.56
+35001066,Colégio Objetivo 1067,4113700,PR,Sul,1,0.788,Uno,65.58
+35000292,Liceu Pionero 293,5300108,DF,Centro-Oeste,1,0.824,Compartilha,48.23
+35000170,Liceu Pionero 171,3303302,RJ,Sudeste,1,0.837,Uno,55.8
+35000167,Liceu Santo Agostinho 168,3549805,SP,Sudeste,1,0.807,Kepler,59.82
+35000613,Escola Elite 614,2910800,BA,Nordeste,2,0.712,Compartilha,55.4
+35000208,Centro Educacional Pionero 209,4113700,PR,Sul,1,0.788,Uno,64.71
+35001134,Academia Dom Bosco 1135,4314902,RS,Sul,1,0.805,Uno,66.1
+35000628,Liceu Futuro 629,3509502,SP,Sudeste,1,0.805,Compartilha,58.17
+35000500,Academia Anchieta 501,3303302,RJ,Sudeste,1,0.837,Uno,59.24
+35000369,Academia Albert Einstein 370,3106200,MG,Sudeste,1,0.81,Uno,72.03
+35000655,Escola Progresso 656,5300108,DF,Centro-Oeste,1,0.824,Kepler,46.71
+35001161,Academia Objetivo 1162,3106200,MG,Sudeste,1,0.81,Uno,66.99
+35000631,Centro Educacional Albert Einstein 632,3301702,RJ,Sudeste,1,0.711,Farias Brito,62.85
+35000107,Liceu Pionero 108,3136702,MG,Sudeste,1,0.778,Kepler,65.7
+35000518,Escola Fênix 519,2611101,PE,Nordeste,1,0.697,Farias Brito,54.46
+35001143,Instituto de Ensino Progresso 1144,2611606,PE,Nordeste,1,0.772,Kepler,66.65
+35000396,Liceu Dom Bosco 397,3550308,SP,Sudeste,1,0.805,Uno,74.85
+35000563,Escola Saber 564,3549805,SP,Sudeste,2,0.807,Kepler,60.85
+35000792,Liceu Objetivo 793,3550308,SP,Sudeste,1,0.805,Kepler,61.16
+35000732,Escola Saber 733,3106200,MG,Sudeste,1,0.81,Uno,66.17
+35000920,Centro Educacional Elite 921,1302603,AM,Norte,1,0.737,Farias Brito,64.49
+35000137,Liceu Exponencial 138,3303302,RJ,Sudeste,1,0.837,Kepler,52.7
+35000869,Centro Educacional Nossa Senhora 870,4118204,PR,Sul,1,0.75,Kepler,66.35
+35000902,Instituto de Ensino Alfa 903,4118204,PR,Sul,2,0.75,Farias Brito,64.64
+35000405,Escola Progresso 406,4106902,PR,Sul,2,0.823,Uno,59.07
+35000786,Centro Educacional Anchieta 787,5208707,GO,Centro-Oeste,1,0.799,Uno,64.35
+35000741,Colégio Santo Agostinho 742,4205407,SC,Sul,1,0.847,Kepler,55.92
+35001042,Centro Educacional Nossa Senhora 1043,2910800,BA,Nordeste,1,0.712,Compartilha,49.47
+35000357,Escola Dom Bosco 358,5208707,GO,Centro-Oeste,1,0.799,Uno,65.22
+35000735,Centro Educacional Exponencial 736,4106902,PR,Sul,2,0.823,Kepler,59.08
+35000604,Liceu Integral 605,4113700,PR,Sul,1,0.788,Uno,60.63
+35000527,Centro Educacional Progresso 528,5002704,MS,Centro-Oeste,1,0.784,Uno,62.91
+35001072,Centro Educacional Nossa Senhora 1073,4209102,SC,Sul,1,0.809,Kepler,59.01
+35000220,Escola Progresso 221,2609600,PE,Nordeste,1,0.735,Farias Brito,67.86
+35000470,Instituto de Ensino Progresso 471,3136702,MG,Sudeste,1,0.778,Kepler,58.97
+35000399,Liceu Pionero 400,3304557,RJ,Sudeste,1,0.799,Kepler,60.35
+35000366,Colégio Progresso 367,3304557,RJ,Sudeste,1,0.799,Uno,62.75
+35000640,Instituto de Ensino Vanguard 641,4304606,RS,Sul,1,0.782,Uno,63.8
+35000670,Academia São José 671,4113700,PR,Sul,1,0.788,Uno,74.0
+35000420,Escola Pionero 421,2304400,CE,Nordeste,1,0.754,Kepler,57.46
+35000351,Academia Santa Cruz 352,2611606,PE,Nordeste,1,0.772,Kepler,64.32
+35000756,Escola Objetivo 757,1501402,PA,Norte,1,0.746,Farias Brito,72.46
+35000110,Centro Educacional Pionero 111,4118204,PR,Sul,1,0.75,Compartilha,68.36
+35000774,Escola São José 775,4205407,SC,Sul,1,0.847,Compartilha,57.54
+35000801,Colégio Dom Bosco 802,4106902,PR,Sul,1,0.823,Kepler,58.21
+35000089,Centro Educacional Elite 90,2611101,PE,Nordeste,2,0.697,Kepler,52.97
+35000006,Colégio Progresso 7,3106200,MG,Sudeste,1,0.81,Uno,62.98
+35001054,Instituto de Ensino Futuro 1055,2111300,MA,Nordeste,1,0.768,Kepler,67.57
+35000646,Liceu Nossa Senhora 647,2910800,BA,Nordeste,2,0.712,Farias Brito,71.73
+35000807,Colégio Exponencial 808,4205407,SC,Sul,1,0.847,Uno,62.41
+35001197,Instituto de Ensino Exponencial 1198,4106902,PR,Sul,1,0.823,Uno,63.65
+35000944,Academia Vanguard 945,2933307,BA,Nordeste,1,0.718,Kepler,55.22
+35000950,Liceu Marista 951,2313500,CE,Nordeste,1,0.714,Kepler,55.94
+35000911,Instituto de Ensino Futuro 912,2933307,BA,Nordeste,1,0.718,Farias Brito,65.01
+35000173,Instituto de Ensino Fênix 174,3136702,MG,Sudeste,1,0.778,Compartilha,68.75
+35001081,Liceu Anchieta 1082,2304202,CE,Nordeste,1,0.713,Kepler,52.67
+35001090,Centro Educacional Exponencial 1091,3509502,SP,Sudeste,1,0.805,Uno,77.02
+35001176,Escola Albert Einstein 1177,2611606,PE,Nordeste,1,0.772,Kepler,60.39
+35000095,Escola Nossa Senhora 96,1302603,AM,Norte,1,0.737,Kepler,62.24
+35000664,Liceu Nossa Senhora 665,3301702,RJ,Sudeste,1,0.711,Farias Brito,62.32
+35000828,Instituto de Ensino Pionero 829,3304557,RJ,Sudeste,1,0.799,Kepler,59.33
+35000104,Liceu Anchieta 105,3303302,RJ,Sudeste,1,0.837,Uno,59.98
+35001087,Colégio Alfa 1088,2111300,MA,Nordeste,1,0.768,Farias Brito,63.55
+35000378,Liceu São José 379,4205407,SC,Sul,1,0.847,Uno,66.38
+35000747,Instituto de Ensino Dom Bosco 748,2611606,PE,Nordeste,1,0.772,Kepler,62.21
+35001003,Liceu Saber 1004,4304606,RS,Sul,1,0.782,Uno,70.95
